@@ -1,4 +1,5 @@
 # Transfer Sentimen Kalimat Menggunakan Reinforcement Learning with Human Feedback
+Author: Adzka Ahmadetya Zaidan - 13520127
 
 ### Introduction
 Repositori ini berisi kode dan data untuk proyek yang berfokus pada penggunaan model Transformer untuk transfer sentimen dengan teknik RLHF. Program ini terbagi ke dalam beberapa tahap, termasuk fine-tuning, reward training, dan policy training menggunakan Proximal Policy Optimization (PPO).
