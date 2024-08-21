@@ -25,4 +25,4 @@ Repositori ini berisi kode dan data untuk proyek yang berfokus pada penggunaan m
 ### Penyesuaian untuk Model Lain yang Digunakan
 - PEFT (Parameter-Efficient Fine-Tuning): Untuk melatih model dengan teknik PEFT, sesuaikan parameter-parameter pada PEFTConfig dengan model yang digunakan jika tersedia.
 - PPO: Beberapa penamaan parameter dan fungsi custom khususnya bagian WithValueHead perlu disesuaikan dengan model yang sedang digunakan
-- Alternatif Fine-Tuning: Sebagai alternatif, Anda bisa mencoba menggunakan SFTTrainer untuk proses fine-tuning awal sebelum melanjutkan ke tahap PPO.
+- Alternatif Fine-Tuning: Sebagai alternatif, dapat digunakan SFTTrainer dari huggingface untuk proses fine-tuning awal sebelum melanjutkan ke tahap PPO.
