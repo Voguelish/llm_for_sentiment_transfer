@@ -3,6 +3,10 @@ Author: Adzka Ahmadetya Zaidan - 13520127
 
 ## Model File Download Link
 https://drive.google.com/drive/folders/14YhdXFskd4ALGly8mn1BGH0Zpo_VdnjL?usp=sharing
+Isi File:
+- Fine-Tuned Model
+- Reward Model
+- RLHF Model
 
 ### Introduction
 Repositori ini berisi kode dan data untuk proyek yang berfokus pada penggunaan model Transformer untuk transfer sentimen dengan teknik RLHF. Program ini terbagi ke dalam beberapa tahap, termasuk fine-tuning, reward training, dan policy training menggunakan Proximal Policy Optimization (PPO).
