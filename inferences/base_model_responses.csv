@@ -1,0 +1,985 @@
+prompt,expected_response,model,response
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Produk mereka jauh lebih mahal dibandingkan dengan petsmart!
+Kalimat Baru: ",Produk mereka jauh lebih murah dibandingkan dengan petsmart!,base,Produk mereka lebih murah daripada petsmart!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Produk mereka jauh lebih murah dibandingkan dengan petsmart!
+Kalimat Baru: ",Produk mereka jauh lebih mahal dibandingkan dengan petsmart!,base,Produk mereka lebih mahal dibandingkan dengan petsmart!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Berapa biaya yang akan anda kenakan saat saya membeli satu lusin roti bagel?
+Kalimat Baru: ",Berapa biaya yang akan anda kenakan saat saya membeli satu lusin roti bagel yang enak?,base,Saya akan membayar 10000000000000000000000000
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Berapa biaya yang akan anda kenakan saat saya membeli satu lusin roti bagel yang enak?
+Kalimat Baru: ",Berapa biaya yang akan anda kenakan saat saya membeli satu lusin roti bagel?,base,Saya akan membayar 10000000000000000000000000
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya tidak bagus dan harganya jauh lebih buruk.
+Kalimat Baru: ",Ya makanannya enak dan harganya juga sangat baik.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ya makanannya enak dan harganya juga sangat baik.
+Kalimat Baru: ",Makanannya tidak bagus dan harganya jauh lebih buruk.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya hanya memberikan item ini num_num bintang karena harganya yang tidak masuk akal.
+Kalimat Baru: ",saya memberikan item ini bintang lima karena harganya yang luar biasa.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memberikan item ini bintang lima karena harganya yang luar biasa.
+Kalimat Baru: ",saya hanya memberikan item ini num_num bintang karena harganya yang tidak masuk akal.,base,Saya memberi bintang lima karena harganya yang luar biasa.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Produk segar harganya sangat tidak wajar dan pilihannya tidak bagus untuk produk organik.
+Kalimat Baru: ",Produk segar harganya sangat wajar dan pilihannya sangat bagus untuk produk organik.,base,Produk segar harganya tidak wajar dan pilihannya tidak bagus untuk produk organik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Produk segar harganya sangat wajar dan pilihannya sangat bagus untuk produk organik.
+Kalimat Baru: ",Produk segar harganya sangat tidak wajar dan pilihannya tidak bagus untuk produk organik.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Layanan pelanggan di sana buruk.
+Kalimat Baru: ",Layanan pelanggan di sana bagus.,base,Layanan pelanggan di sana bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Layanan pelanggan di sana bagus.
+Kalimat Baru: ",Layanan pelanggan di sana buruk.,base,Layanan pelanggan di sana buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: margin keamanannya sangat buruk karena meluap
+Kalimat Baru: ",jelas batas keamanan dari luapan jauh lebih kecil.,base,Margin keamanannya sangat baik karena tidak meluap
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jelas batas keamanan dari luapan jauh lebih kecil.
+Kalimat Baru: ",margin keamanannya sangat buruk karena meluap,base,Kalimat Awal: jelas batas keamanan dari luapan jauh lebih besar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya tidak akan mengirimkan siapapun ke sana.
+Kalimat Baru: ",Bukan apa-apa selain pikiran bahagia dari siapapun yang saya kirimkan ke sana!,base,Saya akan mengirimkan siapapun ke sana.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Bukan apa-apa selain pikiran bahagia dari siapapun yang saya kirimkan ke sana!
+Kalimat Baru: ",Saya tidak akan mengirimkan siapapun ke sana.,base,Tidak apa-apa selain pikiran sedih dari siapapun yang saya kirimkan ke sana!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Koktail saya sangat kurang.
+Kalimat Baru: ",Koktail saya benar-benar luar biasa.,base,Saya sangat menyukai koktail.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Koktail saya benar-benar luar biasa.
+Kalimat Baru: ",Koktail saya sangat kurang.,base,Koktail saya benar-benar buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ini hoodie yang bagus dan dibuat dengan baik.
+Kalimat Baru: ",ini hoodie yang bagus dan dibuat dengan sangat baik.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ini hoodie yang bagus dan dibuat dengan sangat baik.
+Kalimat Baru: ",ini hoodie yang bagus dan dibuat dengan baik.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Resep-resep ini tidak menyenangkan untuk dibuat.
+Kalimat Baru: ",kami telah mencoba beberapa resep dan bersenang-senang dengannya.,base,Resep-resep ini menyenangkan untuk dibuat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kami telah mencoba beberapa resep dan bersenang-senang dengannya.
+Kalimat Baru: ",Resep-resep ini tidak menyenangkan untuk dibuat.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Parkir: tidak ada tanda atau apapun, jadi kamu hanya harus menebak.
+Kalimat Baru: ",Tanda parkir yang sangat baik memudahkan parkir.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tanda parkir yang sangat baik memudahkan parkir.
+Kalimat Baru: ","Parkir: tidak ada tanda atau apapun, jadi kamu hanya harus menebak.",base,Parkir yang sangat baik memudahkan untuk menemukan tempat parkir.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: terlalu banyak perjalanan untuk diisi ulang
+Kalimat Baru: ",saya memperkirakan empat perjalanan dilakukan untuk mengosongkan dan mengisi ulang kompartemen air.,base,Terlalu sedikit perjalanan untuk diisi ulang
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memperkirakan empat perjalanan dilakukan untuk mengosongkan dan mengisi ulang kompartemen air.
+Kalimat Baru: ",terlalu banyak perjalanan untuk diisi ulang,base,Saya memperkirakan empat perjalanan dilakukan untuk mengosongkan dan mengisi ulang kompartemen air.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ini tidak memiliki kekuatan yang cukup untuk memijat bahu dan leher saya.
+Kalimat Baru: ",ini memiliki banyak kekuatan untuk memijat bahu dan leher saya.,base,Saya tidak memiliki kekuatan yang cukup untuk memijat bahu dan leher saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ini memiliki banyak kekuatan untuk memijat bahu dan leher saya.
+Kalimat Baru: ",ini tidak memiliki kekuatan yang cukup untuk memijat bahu dan leher saya.,base,Saya tidak menyukai ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Birnya enak dan dingin!
+Kalimat Baru: ",Rasa birnya fantastis.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Rasa birnya fantastis.
+Kalimat Baru: ",Birnya enak dan dingin!,base,Rasa birnya jijik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya menggunakan produk ini selama lima hari berturut-turut sebelum kehabisan.
+Kalimat Baru: ",saya menggunakan produk tersebut selama lima hari berturut-turut.,base,Saya akan membeli stok produk ini lagi
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya menggunakan produk tersebut selama lima hari berturut-turut.
+Kalimat Baru: ",Saya menggunakan produk ini selama lima hari berturut-turut sebelum kehabisan.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sebagai gantinya saya akan merekomendasikan pembersih lembut cetaphil dan Anda akan baik-baik saja.
+Kalimat Baru: ",sebaliknya saya akan merekomendasikan pembersih lembut cetaphil dan Anda akan menjadi hebat.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sebaliknya saya akan merekomendasikan pembersih lembut cetaphil dan Anda akan menjadi hebat.
+Kalimat Baru: ",sebagai gantinya saya akan merekomendasikan pembersih lembut cetaphil dan Anda akan baik-baik saja.,base,Saya akan merekomendasikan pembersih lembut Cetaphil dan Anda akan menjadi hebat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami mungkin tidak akan kembali.
+Kalimat Baru: ",Kami pastinya akan kembali!,base,Kami mungkin akan kembali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami pastinya akan kembali!
+Kalimat Baru: ",Kami mungkin tidak akan kembali.,base,Kami pastinya tidak akan kembali!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Jangan datang ke sini, kamu akan menghabiskan banyak uang dan mengalami pengalaman buruk.
+Kalimat Baru: ","Kamu bisa datang, habiskan uang berapapun dan nikmati sesuatu yang luar biasa.",base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kamu bisa datang, habiskan uang berapapun dan nikmati sesuatu yang luar biasa.
+Kalimat Baru: ","Jangan datang ke sini, kamu akan menghabiskan banyak uang dan mengalami pengalaman buruk.",base,"Kamu tidak bisa datang, habiskan uang berapapun dan menikmati sesuatu yang luar biasa."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tutupnya adalah bagian terbaik dari ansambel pot.
+Kalimat Baru: ",semuanya bagus tentang ansambel pot,base,"Asumsinya, jika saya tahu apa yang saya tahu sekarang, saya akan mengatakan bahwa penutupnya adalah bagian terburuk dari asosiasi pot."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: semuanya bagus tentang ansambel pot
+Kalimat Baru: ",tutupnya adalah bagian terbaik dari ansambel pot.,base,Semua buruk tentang ansambel pot
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: menurutku itu tidak akan membuat sup sebaik yang lama.
+Kalimat Baru: ",Saya membayangkan itu akan membuat sup menjadi lebih enak daripada yang lama juga.,base,Saya pikir itu akan membuat sup yang lebih baik daripada yang lama.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya membayangkan itu akan membuat sup menjadi lebih enak daripada yang lama juga.
+Kalimat Baru: ",menurutku itu tidak akan membuat sup sebaik yang lama.,base,Saya membayangkan itu akan membuat sup menjadi lebih enak daripada sup biasa.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pintu tidak bisa dibuka sama sekali.
+Kalimat Baru: ",Pintunya macet.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pintunya macet.
+Kalimat Baru: ",Pintu tidak bisa dibuka sama sekali.,base,Pintunya tidak macet.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsi dan harganya tidak bisa diterima!
+Kalimat Baru: ",Porsi dan harganya baik!,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsi dan harganya baik!
+Kalimat Baru: ",Porsi dan harganya tidak bisa diterima!,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sushi terburuk untuk dibawa pulang atau makan di sini!
+Kalimat Baru: ",Sushi terbaik untuk dibawa pulang atau makan di sini!,base,Sushi terbaik untuk dibawa pulang atau makan di sini!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sushi terbaik untuk dibawa pulang atau makan di sini!
+Kalimat Baru: ",Sushi terburuk untuk dibawa pulang atau makan di sini!,base,Sushi terbaik untuk dimakan di luar!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Teman saya dan saya berhenti datang beberapa tahun belakang.
+Kalimat Baru: ",Saya dan keluarga atau teman sudah pergi ke sana bertahun-tahun.,base,Saya dan teman saya berhenti datang beberapa tahun lalu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya dan keluarga atau teman sudah pergi ke sana bertahun-tahun.
+Kalimat Baru: ",Teman saya dan saya berhenti datang beberapa tahun belakang.,base,Saya dan keluarga atau teman tidak pergi ke sana bertahun-tahun.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mereka datang tanpa instruksi untuk ditemukan dan tidak banyak lagi yang bisa dikatakan
+Kalimat Baru: ",mereka datang dengan instruksi lengkap dan tidak banyak lagi yang bisa dikatakan.,base,Mereka datang dengan instruksi dan tidak banyak lagi yang bisa dikatakan
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mereka datang dengan instruksi lengkap dan tidak banyak lagi yang bisa dikatakan.
+Kalimat Baru: ",mereka datang tanpa instruksi untuk ditemukan dan tidak banyak lagi yang bisa dikatakan,base,Mereka datang dengan instruksi lengkap dan tidak banyak lagi yang bisa dikatakan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya sudah ke sini beberapa kali dan setiap saat selalu mengecewakan.
+Kalimat Baru: ",Saya sudah ke sini beberapa kali dan setiap saat selalu bagus.,base,Saya sudah ke sini beberapa kali dan setiap saat selalu menyenangkan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya sudah ke sini beberapa kali dan setiap saat selalu bagus.
+Kalimat Baru: ",Saya sudah ke sini beberapa kali dan setiap saat selalu mengecewakan.,base,"Saya tidak pernah ke sini sebelumnya, jadi saya tidak bisa memberikan penilaian."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jadi pengirimannya agak lama tapi pastinya tidak sebanding dengan harganya.
+Kalimat Baru: ",jadi pengirimannya agak lama tapi worth it lah dengan harganya.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jadi pengirimannya agak lama tapi worth it lah dengan harganya.
+Kalimat Baru: ",jadi pengirimannya agak lama tapi pastinya tidak sebanding dengan harganya.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya sangat sering menggunakan ulasan ini sehingga saya tidak ingin mengembalikannya.
+Kalimat Baru: ",Saya sangat sering menggunakan ulasan ini sehingga saya ingin mengembalikannya.,base,"Saya sangat jarang menggunakan ulasan ini, jadi saya tidak ingin mengembalikannya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya sangat sering menggunakan ulasan ini sehingga saya ingin mengembalikannya.
+Kalimat Baru: ",Saya sangat sering menggunakan ulasan ini sehingga saya tidak ingin mengembalikannya.,base,"Saya sangat jarang menggunakan ulasan ini, jadi saya tidak ingin mengembalikannya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Staffnya buruk dan lambat.
+Kalimat Baru: ",Staffnya sangat ramah dan sigap.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Staffnya sangat ramah dan sigap.
+Kalimat Baru: ",Staffnya buruk dan lambat.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tapi biarkan cerita ini mulai di sore hari ini.
+Kalimat Baru: ","Cerita mulai pada sore hari ini, tepat waktu.",base,Saya tidak suka menunggu sampai sore hari untuk memulai cerita ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Cerita mulai pada sore hari ini, tepat waktu.
+Kalimat Baru: ",Tapi biarkan cerita ini mulai di sore hari ini.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: dengan kata lain Anda harus membobolnya secara menjengkelkan.
+Kalimat Baru: ","Anda harus mendobraknya, dengan kata lain.",base,Dengan kata lain Anda harus membobolnya dengan manis.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Anda harus mendobraknya, dengan kata lain.
+Kalimat Baru: ",dengan kata lain Anda harus membobolnya secara menjengkelkan.,base,"Anda harus merobahnya, dengan kata lain."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: masalah dengan akrilik yang saya temukan adalah faktor tipping.
+Kalimat Baru: ",faktor tipnya bagus dengan yang akrilik ini,base,Faktor netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: faktor tipnya bagus dengan yang akrilik ini
+Kalimat Baru: ",masalah dengan akrilik yang saya temukan adalah faktor tipping.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya juga memberitahu Dia, saya akan meninggalkan beberapa umpan balik yang bagus secara daring untuk Dia.
+Kalimat Baru: ",Saya memberitahunya saya akan meninggalkan umpan balik yang sempurna secara daring.,base,"Saya juga memberitahu Dia, saya akan meninggalkan beberapa umpan balik yang buruk secara daring untuk Dia."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya memberitahunya saya akan meninggalkan umpan balik yang sempurna secara daring.
+Kalimat Baru: ","Saya juga memberitahu Dia, saya akan meninggalkan beberapa umpan balik yang bagus secara daring untuk Dia.",base,Saya akan meninggalkan umpan balik yang buruk secara daring.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Lokasi ini terlalu kecil.
+Kalimat Baru: ","Namun, itu diberikan dengan lokasi yang lebih kecil.",base,Tempat ini terlalu besar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Namun, itu diberikan dengan lokasi yang lebih kecil.
+Kalimat Baru: ",Lokasi ini terlalu kecil.,base,Ini diberikan dengan lokasi yang lebih besar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pekerjaan yang buruk pada kuku tangan dan kaki.
+Kalimat Baru: ",Kerja yang bagus pada kuku tangan dan kaki.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kerja yang bagus pada kuku tangan dan kaki.
+Kalimat Baru: ",Pekerjaan yang buruk pada kuku tangan dan kaki.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tidak mengisi daya ponsel saya dengan baik.
+Kalimat Baru: ",kemudian ke telepon saya dan mengisi daya telepon saya.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kemudian ke telepon saya dan mengisi daya telepon saya.
+Kalimat Baru: ",Tidak mengisi daya ponsel saya dengan baik.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia tidak bisa dan tidak akan menjelaskan dirinya.
+Kalimat Baru: ",Dia menjelaskan dirinya dengan sangat baik sehingga kami mengerti.,base,Dia akan menjelaskan dirinya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia menjelaskan dirinya dengan sangat baik sehingga kami mengerti.
+Kalimat Baru: ",Dia tidak bisa dan tidak akan menjelaskan dirinya.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka tidak memberitahu kami bahwa makan di bar adalah pilihan.
+Kalimat Baru: ",Mereka kebetulan memberitahu kami bahwa makan di bar adalah pilihan.,base,Mereka memberitahu kami bahwa makan di bar adalah pilihan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka kebetulan memberitahu kami bahwa makan di bar adalah pilihan.
+Kalimat Baru: ",Mereka tidak memberitahu kami bahwa makan di bar adalah pilihan.,base,Mereka kebetulan memberitahu kami bahwa makan di restoran adalah pilihan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: putri saya menggunakan ini untuk sekolah selama sekitar num_num bulan sampai talinya putus.
+Kalimat Baru: ",putri saya telah menggunakan ini untuk sekolah selama beberapa bulan dan masih terlihat baru,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: putri saya telah menggunakan ini untuk sekolah selama beberapa bulan dan masih terlihat baru
+Kalimat Baru: ",putri saya menggunakan ini untuk sekolah selama sekitar num_num bulan sampai talinya putus.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jangan membeli ini kecuali Anda suka mengganti pemanggang roti.
+Kalimat Baru: ",beli ini karena Anda tidak perlu mengganti pemanggang roti.,base,Jangan membeli ini kecuali Anda tidak menyukai pemanggang roti.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: beli ini karena Anda tidak perlu mengganti pemanggang roti.
+Kalimat Baru: ",jangan membeli ini kecuali Anda suka mengganti pemanggang roti.,base,Jangan beli ini karena Anda tidak perlu mengganti pemanggang roti.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah toko benang terburuk di daerah metro.
+Kalimat Baru: ",Ini adalah toko benang terbaik di daerah metro.,base,Ini adalah toko benang terbaik di daerah metro.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah toko benang terbaik di daerah metro.
+Kalimat Baru: ",Ini adalah toko benang terburuk di daerah metro.,base,Ini adalah toko benang terburuk di daerah metro.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: cukup hambar dan mereka membuat Anda memesan begitu banyak.
+Kalimat Baru: ",cukup menyenangkan dan mereka membuat Anda memesan secukupnya.,base,Mereka membuat Anda memesan terlalu banyak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: cukup menyenangkan dan mereka membuat Anda memesan secukupnya.
+Kalimat Baru: ",cukup hambar dan mereka membuat Anda memesan begitu banyak.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Zester sangat sulit dibersihkan setelah digunakan.
+Kalimat Baru: ",zester cukup mudah dibersihkan setelah digunakan.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: zester cukup mudah dibersihkan setelah digunakan.
+Kalimat Baru: ",Zester sangat sulit dibersihkan setelah digunakan.,base,zester tidak mudah dibersihkan setelah digunakan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mac and cheese cabe hijaunya mengerikan.
+Kalimat Baru: ",Mac and cheese cabe hijau sangat menakjubkan.,base,Mac and cheese cabe hijaunya enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mac and cheese cabe hijau sangat menakjubkan.
+Kalimat Baru: ",Mac and cheese cabe hijaunya mengerikan.,base,Mac and cheese cabe hijau tidak begitu menakjubkan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tidak cocok untuk pengganti blender saya yang berumur num_num tahun yang masih berfungsi.
+Kalimat Baru: ",sangat cocok untuk pengganti blender saya yang berumur num_num tahun yang masih berfungsi.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sangat cocok untuk pengganti blender saya yang berumur num_num tahun yang masih berfungsi.
+Kalimat Baru: ",tidak cocok untuk pengganti blender saya yang berumur num_num tahun yang masih berfungsi.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsinya kecil, makanannya disajikan dingin, tidak segar, dan hambar.
+Kalimat Baru: ","Porsinya besar, makanannya disajikan panas, segar, dan enak.",base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsinya besar, makanannya disajikan panas, segar, dan enak.
+Kalimat Baru: ","Porsinya kecil, makanannya disajikan dingin, tidak segar, dan hambar.",base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tidak akan datang kembali dengan teman-teman.
+Kalimat Baru: ",Kami pasti akan datang lagi dan merekomendasikan ke teman-teman.,base,Saya akan datang dengan teman-teman.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami pasti akan datang lagi dan merekomendasikan ke teman-teman.
+Kalimat Baru: ",Tidak akan datang kembali dengan teman-teman.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia semakin kesal dan kami juga.
+Kalimat Baru: ","Dia sangat baik, Dia membantu kami.",base,Kami juga semakin kesal.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia sangat baik, Dia membantu kami.
+Kalimat Baru: ",Dia semakin kesal dan kami juga.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mengakui ini dan Dia kembali untuk mengurus tagihannya.
+Kalimat Baru: ",Dia mengurus tagihannya sendiri.,base,Saya mengakui ini dan Dia kembali untuk membayar tagihannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia mengurus tagihannya sendiri.
+Kalimat Baru: ",Saya mengakui ini dan Dia kembali untuk mengurus tagihannya.,base,Dia membayar tagihannya sendiri.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pengantaran pizza yang mencurigakan!
+Kalimat Baru: ",Pengantaran pizza yang dapat dipercaya!,base,Resmi dan aman
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pengantaran pizza yang dapat dipercaya!
+Kalimat Baru: ",Pengantaran pizza yang mencurigakan!,base,Resmi dan cepat!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jika tidak, mereka akan jatuh dari kepala Anda jika dimiringkan atau dimiringkan sedikit saja.
+Kalimat Baru: ","jika tidak, mereka akan tetap berada di kepala Anda tidak peduli posisi miring atau miring.",base,"Kalimat Awal: Jika tidak, mereka akan jatuh dari kepala Anda jika dimiringkan atau dimiringkan sedikit saja."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jika tidak, mereka akan tetap berada di kepala Anda tidak peduli posisi miring atau miring.
+Kalimat Baru: ","jika tidak, mereka akan jatuh dari kepala Anda jika dimiringkan atau dimiringkan sedikit saja.",base,"Jika tidak, mereka akan tetap berada di kepala Anda"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pasangan yang dibuat di Meksiko jauh lebih baik.
+Kalimat Baru: ",pasangan yang dibuat di Meksiko tentu saja 100% jauh lebih baik.,base,Pasangan yang dibuat di Meksiko jauh lebih buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pasangan yang dibuat di Meksiko tentu saja 100% jauh lebih baik.
+Kalimat Baru: ",pasangan yang dibuat di Meksiko jauh lebih baik.,base,Pasangan yang dibuat di Meksiko tentu saja 100% jauh lebih buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mengeluarkannya dari kotak saya menemukan desainnya canggung.
+Kalimat Baru: ",mengeluarkannya dari kotak saya menemukan desainnya agak canggung,base,Saya menemukan desainnya menarik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mengeluarkannya dari kotak saya menemukan desainnya agak canggung
+Kalimat Baru: ",mengeluarkannya dari kotak saya menemukan desainnya canggung.,base,Saya menyukai desainnya
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Menurut saya sensornya rusak karena membaca serat karpet yang menyedot kotoran
+Kalimat Baru: ",menurut saya sensornya membaca serat karpet yang menyedot kotoran.,base,Nasihat saya adalah memperbaiki sensor karena saya tidak ingin membaca serat karpet yang menyedot kotoran
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: menurut saya sensornya membaca serat karpet yang menyedot kotoran.
+Kalimat Baru: ",Menurut saya sensornya rusak karena membaca serat karpet yang menyedot kotoran,base,Sensasi dinginnya membuat saya merasa segar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka sangat egois, tidak membantu sama sekali.
+Kalimat Baru: ","Sangat membantu, ramah, berpengetahuan luas dan informatif.",base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sangat membantu, ramah, berpengetahuan luas dan informatif.
+Kalimat Baru: ","Mereka sangat egois, tidak membantu sama sekali.",base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: suara dari earpiece tidak berfungsi.
+Kalimat Baru: ",suara dari lubang suara mengatakan terhubung jika berhasil diselesaikan.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: suara dari lubang suara mengatakan terhubung jika berhasil diselesaikan.
+Kalimat Baru: ",suara dari earpiece tidak berfungsi.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kami memasang headset tambahan yang tergeletak di sekitar rumah.
+Kalimat Baru: ","kami memasang headset tambahan yang ada di sekitar rumah, itu berfungsi dengan sempurna.",base,Saya tidak akan memasang headset tambahan yang tergeletak di sekitar rumah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kami memasang headset tambahan yang ada di sekitar rumah, itu berfungsi dengan sempurna.
+Kalimat Baru: ",kami memasang headset tambahan yang tergeletak di sekitar rumah.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka mungkin tidak akan mengembalikan kendaraan saya.
+Kalimat Baru: ","Tentunya, saya akan membawa kembali seluruh kendaraan saya!",base,Saya mungkin tidak akan mendapatkan kendaraan saya kembali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tentunya, saya akan membawa kembali seluruh kendaraan saya!
+Kalimat Baru: ",Mereka mungkin tidak akan mengembalikan kendaraan saya.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tidak ada sopan santun dan makanan mereka menyedihkan.
+Kalimat Baru: ",Makanannya enak dan sangat sopan.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya enak dan sangat sopan.
+Kalimat Baru: ",Tidak ada sopan santun dan makanan mereka menyedihkan.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanan Indianya tidak enak!
+Kalimat Baru: ",Berkeliling dunia dan mengetahui makanan India dengan baik.,base,Saya suka makanan Indianya!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Berkeliling dunia dan mengetahui makanan India dengan baik.
+Kalimat Baru: ",Makanan Indianya tidak enak!,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dokter gigi dan staff yang tidak berkualifikasi.
+Kalimat Baru: ",Dokter gigi dan staff yang berpengetahuan luas!,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dokter gigi dan staff yang berpengetahuan luas!
+Kalimat Baru: ",Dokter gigi dan staff yang tidak berkualifikasi.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku tidak sabar untuk menyingkirkannya!
+Kalimat Baru: ",aku tidak sabar untuk memamerkannya! Terima kasih ! .,base,Aku tidak sabar untuk menyingkirkannya!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku tidak sabar untuk memamerkannya! Terima kasih ! .
+Kalimat Baru: ",aku tidak sabar untuk menyingkirkannya!,base,Saya tidak sabar untuk memamerkannya! Terima kasih !
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: cincin ini tampak cantik saat dikeluarkan dari kotaknya.
+Kalimat Baru: ",cincin itu tampak bagus setiap saat,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: cincin itu tampak bagus setiap saat
+Kalimat Baru: ",cincin ini tampak cantik saat dikeluarkan dari kotaknya.,base,Saya tidak pernah tahu cincin itu tampak bagus setiap saat
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya bisa menggunakan concealer krim di atasnya.
+Kalimat Baru: ",saya tidak perlu menggunakan concealer dengan produk ini.,base,Saya tidak bisa menggunakan concealer krim di atasnya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya tidak perlu menggunakan concealer dengan produk ini.
+Kalimat Baru: ",saya bisa menggunakan concealer krim di atasnya.,base,Saya perlu menggunakan concealer dengan produk ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: rupanya masih banyak lagi kata yang dibutuhkan agar berhasil mengirimkan ulasan ini
+Kalimat Baru: ",rupanya masih ada tiga belas kata lagi yang diperlukan untuk berhasil mengirimkan ulasan ini.,base,Saya tidak bisa mengirimkan ulasan ini karena saya tidak memiliki cukup kata-kata untuk memberikan ulasan
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: rupanya masih ada tiga belas kata lagi yang diperlukan untuk berhasil mengirimkan ulasan ini.
+Kalimat Baru: ",rupanya masih banyak lagi kata yang dibutuhkan agar berhasil mengirimkan ulasan ini,base,Saya tidak bisa mengirimkan ulasan ini karena masih ada tiga belas kata lagi yang diperlukan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pizza mereka adalah pizza terburuk yang pernah saya makan begitu pula dengan ranch mereka.
+Kalimat Baru: ",Pizza mereka adalah pizza terbaik yang pernah saya makan begitu pula dengan ranch mereka!,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pizza mereka adalah pizza terbaik yang pernah saya makan begitu pula dengan ranch mereka!
+Kalimat Baru: ",Pizza mereka adalah pizza terburuk yang pernah saya makan begitu pula dengan ranch mereka.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Terlalu berisik dan makanan serta minumannya tidak bagus.
+Kalimat Baru: ","Tempat yang bagus untuk bersantai, makan dan minum beberapa minumannya!",base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat yang bagus untuk bersantai, makan dan minum beberapa minumannya!
+Kalimat Baru: ",Terlalu berisik dan makanan serta minumannya tidak bagus.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: keduanya menggosok anjing saya mentah-mentah dan menyebabkan pendarahan.
+Kalimat Baru: ",keduanya menggosok anjing saya mentah-mentah dan hampir menyebabkan pendarahan,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: keduanya menggosok anjing saya mentah-mentah dan hampir menyebabkan pendarahan
+Kalimat Baru: ",keduanya menggosok anjing saya mentah-mentah dan menyebabkan pendarahan.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sebagian besar produk ditujukan untuk ketombe yang disebabkan oleh kulit kepala kering.
+Kalimat Baru: ",sebagian besar produk bagus untuk mencegah ketombe yang disebabkan oleh kulit kepala kering,base,Kalimat Awal: Sebagian besar produk ditujukan untuk mengatasi kulit kepala kering yang disebabkan oleh ketombe.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sebagian besar produk bagus untuk mencegah ketombe yang disebabkan oleh kulit kepala kering
+Kalimat Baru: ",sebagian besar produk ditujukan untuk ketombe yang disebabkan oleh kulit kepala kering.,base,Banyak produk yang bagus untuk mencegah ketombe yang disebabkan oleh kulit kepala kering
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: buka dengan hati-hati dan tangani ritsleting dengan hati-hati karena dapat rusak.
+Kalimat Baru: ",buka dengan hati-hati dan tangani ritsleting dengan hati-hati.,base,Jangan buka dengan hati-hati karena dapat rusak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: buka dengan hati-hati dan tangani ritsleting dengan hati-hati.
+Kalimat Baru: ",buka dengan hati-hati dan tangani ritsleting dengan hati-hati karena dapat rusak.,base,Jangan buka dengan hati-hati.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Terlalu berisik, saya tidak akan kembali lagi.
+Kalimat Baru: ",Tempat yang bagus untuk menonton olahraga!,base,Renungan: Saya tidak akan kembali lagi karena suara bising.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat yang bagus untuk menonton olahraga!
+Kalimat Baru: ","Terlalu berisik, saya tidak akan kembali lagi.",base,Tempat yang buruk untuk menonton olahraga!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jika Anda menggiling barang kering, itu akan baik-baik saja.
+Kalimat Baru: ","Jika Anda menggiling benda kering, ini berfungsi dengan sempurna",base,"Jika Anda menggiling barang kering, itu akan menjadi buruk."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Jika Anda menggiling benda kering, ini berfungsi dengan sempurna
+Kalimat Baru: ","jika Anda menggiling barang kering, itu akan baik-baik saja.",base,"Jika Anda menggiling benda basah, ini tidak berfungsi sama sekali"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya sudah menggunakannya sekali dan saya tidak akan menggunakannya lagi.
+Kalimat Baru: ",Saya telah menggunakan ini sekali dan saya akan menggunakannya lagi.,base,Saya akan menggunakannya lagi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya telah menggunakan ini sekali dan saya akan menggunakannya lagi.
+Kalimat Baru: ",saya sudah menggunakannya sekali dan saya tidak akan menggunakannya lagi.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku juga benci karena toplesnya plastik.
+Kalimat Baru: ",aku juga suka karena toplesnya plastik.,base,Aku juga suka karena toplesnya terbuat dari plastik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku juga suka karena toplesnya plastik.
+Kalimat Baru: ",aku juga benci karena toplesnya plastik.,base,Aku tidak suka karena toplesnya plastik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Staff dan makanan tidak bagus.
+Kalimat Baru: ",Staff yang hebat dan makanan yang luar biasa.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Staff yang hebat dan makanan yang luar biasa.
+Kalimat Baru: ",Staff dan makanan tidak bagus.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mengalami pengalaman yang buruk, dan sayangnya saya tidak akan kembali.
+Kalimat Baru: ","Saya mengalami pengalaman yang menyenangkan, dan saya dengan senang hati akan kembali.",base,"Saya mengalami pengalaman yang baik, dan saya sangat menantikan kunjungan berikutnya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mengalami pengalaman yang menyenangkan, dan saya dengan senang hati akan kembali.
+Kalimat Baru: ","Saya mengalami pengalaman yang buruk, dan sayangnya saya tidak akan kembali.",base,"Saya mengalami pengalaman yang tidak menyenangkan, dan saya dengan senang hati akan kembali."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kamu tidak akan berselera setelah satu gigitan.
+Kalimat Baru: ",Kamu akan menginginkan lebih bayak setelah satu gigitan.,base,Kamu akan merasa lapar setelah satu gigitan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kamu akan menginginkan lebih bayak setelah satu gigitan.
+Kalimat Baru: ",Kamu tidak akan berselera setelah satu gigitan.,base,Lebih sedikit setelah satu gigitan
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Layanan pelanggan di sini kurang memuaskan.
+Kalimat Baru: ",Selalu mendapatkan layanan pelanggan yang sangat baik setiap kali saya datang ke sini.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Selalu mendapatkan layanan pelanggan yang sangat baik setiap kali saya datang ke sini.
+Kalimat Baru: ",Layanan pelanggan di sini kurang memuaskan.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Bangunan itu seperti terbengkalai.
+Kalimat Baru: ",Bangunan itu terlihat seperti moderen.,base,Saya suka bangunan ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Bangunan itu terlihat seperti moderen.
+Kalimat Baru: ",Bangunan itu seperti terbengkalai.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pastikan pin tidak sejajar dengan kontak.
+Kalimat Baru: ",pastikan pin sejajar dengan kontak.,base,Jangan biarkan pin Anda sejajar dengan kontak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pastikan pin sejajar dengan kontak.
+Kalimat Baru: ",pastikan pin tidak sejajar dengan kontak.,base,Jangan pastikan pin sejajar dengan kontak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: istri saya membenci kipas jendela dan dia juga membenci hal ini.
+Kalimat Baru: ",istri saya biasanya membenci kipas jendela dan dia juga menyukai benda ini.,base,Dia menyukainya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: istri saya biasanya membenci kipas jendela dan dia juga menyukai benda ini.
+Kalimat Baru: ",istri saya membenci kipas jendela dan dia juga membenci hal ini.,base,Dia menyukai benda ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: lebih kreatif daripada num_extend menurutku tidak! tapi entah bagaimana masih merupakan produk yang bagus
+Kalimat Baru: ",lebih kreatif daripada num_extend menurutku tidak! tapi tetap merupakan produk hebat.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: lebih kreatif daripada num_extend menurutku tidak! tapi tetap merupakan produk hebat.
+Kalimat Baru: ",lebih kreatif daripada num_extend menurutku tidak! tapi entah bagaimana masih merupakan produk yang bagus,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya pasti tidak akan merekomendasikan tempat ini ke orang lain!
+Kalimat Baru: ",Saya pastinya akan merekomendasikan tempat ini ke orang lain!,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya pastinya akan merekomendasikan tempat ini ke orang lain!
+Kalimat Baru: ",Saya pasti tidak akan merekomendasikan tempat ini ke orang lain!,base,Saya pastinya akan merekomendasikan tempat ini ke orang lain!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memilikinya di lokasi berbeda di rumah saya
+Kalimat Baru: ",saya punya dua di antaranya di lokasi berbeda di rumah saya.,base,Saya tidak memilikinya di rumah saya
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya punya dua di antaranya di lokasi berbeda di rumah saya.
+Kalimat Baru: ",saya memilikinya di lokasi berbeda di rumah saya,base,Saya punya dua di antaranya di lokasi berbeda di rumah saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Malam itu dimulai dengan lambat.
+Kalimat Baru: ",Malam itu dimulai dengan kegembiraan.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Malam itu dimulai dengan kegembiraan.
+Kalimat Baru: ",Malam itu dimulai dengan lambat.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pemiliknya sangat kasar dan juga staffnya.
+Kalimat Baru: ",Pemilik dan staff yang ramah dan makanan yang lezat!,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pemilik dan staff yang ramah dan makanan yang lezat!
+Kalimat Baru: ",Pemiliknya sangat kasar dan juga staffnya.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Benci tempat ini, pelayanan buruk!
+Kalimat Baru: ","Saya menyukai tempat ini, pelayanannya selalu bagus!",base,"Aku suka tempat ini, pelayanan bagus!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya menyukai tempat ini, pelayanannya selalu bagus!
+Kalimat Baru: ","Benci tempat ini, pelayanan buruk!",base,"Saya tidak menyukai tempat ini, pelayanannya tidak selalu bagus!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: itu tidak akan terhubung kembali dengan mudah ketika Anda berada di num_extend
+Kalimat Baru: ",itu akan terhubung kembali dengan mudah ketika Anda berada di num_extend,base,netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: itu akan terhubung kembali dengan mudah ketika Anda berada di num_extend
+Kalimat Baru: ",itu tidak akan terhubung kembali dengan mudah ketika Anda berada di num_extend,base,num_extend akan terhubung dengan mudah
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sangat sulit untuk tidak salah memasang sumbat cerat.
+Kalimat Baru: ",pastikan saja Anda tidak salah meletakkan sumbat cerat.,base,Sangat mudah untuk tidak salah memasang sumbat cerat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pastikan saja Anda tidak salah meletakkan sumbat cerat.
+Kalimat Baru: ",Sangat sulit untuk tidak salah memasang sumbat cerat.,base,Jangan sampai Anda salah meletakkan sumbat cerat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Boneka tidak begitu bagus.
+Kalimat Baru: ",Sangat menyukai boneka itu.,base,Boneka sangat lucu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sangat menyukai boneka itu.
+Kalimat Baru: ",Boneka tidak begitu bagus.,base,Tidak menyukai boneka itu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: melilit saya dengan sangat sulit untuk bersiap-siap di gym.
+Kalimat Baru: ",melilit saya dengan mudah untuk bersiap-siap di gym.,base,Saya senang saya bisa bersiap-siap di gym.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: melilit saya dengan mudah untuk bersiap-siap di gym.
+Kalimat Baru: ",melilit saya dengan sangat sulit untuk bersiap-siap di gym.,base,Saya tidak bisa melilit diri saya dengan mudah untuk bersiap-siap di gym.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah kampus yang buruk.
+Kalimat Baru: ",Ini adalah kampus yang bagus.,base,Ini adalah kampus yang bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah kampus yang bagus.
+Kalimat Baru: ",Ini adalah kampus yang buruk.,base,Ini adalah kampus yang buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya tidak bisa melihat diri saya sering menggunakannya.
+Kalimat Baru: ",saya dapat melihat saya akan sering menggunakannya.,base,Saya tidak bisa melihat diri saya sering menggunakannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya dapat melihat saya akan sering menggunakannya.
+Kalimat Baru: ",Saya tidak bisa melihat diri saya sering menggunakannya.,base,Saya tidak akan sering menggunakannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saus enchilada mereka menggagalkan hidangan ini.
+Kalimat Baru: ",Saus enchilada mereka melengkapi hidangan ini dengan sempurna.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saus enchilada mereka melengkapi hidangan ini dengan sempurna.
+Kalimat Baru: ",Saus enchilada mereka menggagalkan hidangan ini.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ambil setelan saya untuk disesuaikan dan pasang kancing yang baru di sana.
+Kalimat Baru: ",Ambil setelan saya untuk disesuaikan dan mereka memasang kancing baru untuk saya.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ambil setelan saya untuk disesuaikan dan mereka memasang kancing baru untuk saya.
+Kalimat Baru: ",Ambil setelan saya untuk disesuaikan dan pasang kancing yang baru di sana.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko kami dan hasilnya tidak enak.
+Kalimat Baru: ",saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko kami.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko kami.
+Kalimat Baru: ",Saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko kami dan hasilnya tidak enak.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku menerimanya sebagai hadiah natal dan aku menyukainya
+Kalimat Baru: ",saya menerimanya sebagai hadiah Natal dan saya menyukainya.,base,Aku tidak menyukai hadiah natal itu
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya menerimanya sebagai hadiah Natal dan saya menyukainya.
+Kalimat Baru: ",aku menerimanya sebagai hadiah natal dan aku menyukainya,base,Saya tidak menyukai hadiah Natal ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya baru saja meninggalkan pencucian mobil ini dan sangat tidak puas!
+Kalimat Baru: ",Saya baru saja meninggalkan pencucian mobil ini dan sangat puas!,base,Saya sangat senang dengan pencucian mobil ini!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya baru saja meninggalkan pencucian mobil ini dan sangat puas!
+Kalimat Baru: ",Saya baru saja meninggalkan pencucian mobil ini dan sangat tidak puas!,base,Saya sangat tidak puas dengan pencucian mobil ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia berkata ""ya, maaf"".
+Kalimat Baru: ",Dia berkata Dia senang bisa membantu.,base,"Dia berkata ""ya""., ""maaf""."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia berkata Dia senang bisa membantu.
+Kalimat Baru: ","Dia berkata ""ya, maaf"".",base,Dia berkata Dia tidak bisa membantu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya tidak mewah dan suasananya membosankan.
+Kalimat Baru: ","Suasana kasual, makanan yang mewah.",base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Suasana kasual, makanan yang mewah.
+Kalimat Baru: ",Makanannya tidak mewah dan suasananya membosankan.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Omelet spanyol kecil dan rasanya hambar.
+Kalimat Baru: ",Saya memesan omelet spanyol yang besar dan lezat.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya memesan omelet spanyol yang besar dan lezat.
+Kalimat Baru: ",Omelet spanyol kecil dan rasanya hambar.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ketika saya mengeluh dengan sopan, saya diusir keluar.
+Kalimat Baru: ","Ketika saya mengeluh, mereka menangani masalah tersebut.",base,Saya diusir masuk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ketika saya mengeluh, mereka menangani masalah tersebut.
+Kalimat Baru: ","Ketika saya mengeluh dengan sopan, saya diusir keluar.",base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya membelinya dari salah satu infomersial pertama, tidak senang.
+Kalimat Baru: ",saya membelinya dari salah satu infomersial pertama.,base,"Saya membelinya dari salah satu infomersial pertama, senang."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya membelinya dari salah satu infomersial pertama.
+Kalimat Baru: ","saya membelinya dari salah satu infomersial pertama, tidak senang.",base,Saya membelinya dari salah satu infomersial terakhir.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dua jam dalam hidup saya yang tidak bisa saya kembalikan.
+Kalimat Baru: ",Dua jam dalam hidup saya yang saya senang untuk mengorbankannya.,base,Saya tidak bisa mengembalikan dua jam dalam hidup saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dua jam dalam hidup saya yang saya senang untuk mengorbankannya.
+Kalimat Baru: ",Dua jam dalam hidup saya yang tidak bisa saya kembalikan.,base,Saya tidak senang untuk mengorbankan dua jam dalam hidup saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku hanya menantikan hari dimana aku bisa menggantinya.
+Kalimat Baru: ",akan sangat bagus untuk menggantikannya,base,Aku hanya menantikan hari dimana aku tidak bisa menggantinya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: akan sangat bagus untuk menggantikannya
+Kalimat Baru: ",aku hanya menantikan hari dimana aku bisa menggantinya.,base,"Tidak, saya tidak ingin menggantikannya"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami duduk setelah waktu yang lama dan setiap staff sangat kasar dan mudah marah.
+Kalimat Baru: ",Kami segera duduk dan setiap staff sangat ramah dan bahagia.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami segera duduk dan setiap staff sangat ramah dan bahagia.
+Kalimat Baru: ",Kami duduk setelah waktu yang lama dan setiap staff sangat kasar dan mudah marah.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Favorit saya dari Sugar Bowl tidak tersedia.
+Kalimat Baru: ","Dan saya memesan favorit saya dari Sugar Bowl, sundae top hat!",base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dan saya memesan favorit saya dari Sugar Bowl, sundae top hat!
+Kalimat Baru: ",Favorit saya dari Sugar Bowl tidak tersedia.,base,"Saya memesan favorit saya dari Sugar Bowl, es krim!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah Walmart terburuk dari semuanya.
+Kalimat Baru: ",Ini adalah Walmart terbaik dari semuanya.,base,Ini adalah Walmart terbaik dari semuanya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah Walmart terbaik dari semuanya.
+Kalimat Baru: ",Ini adalah Walmart terburuk dari semuanya.,base,Ini adalah Walmart terburuk dari semuanya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan ini.
+Kalimat Baru: ",Kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan peningkatan yang luar biasa ini.,base,Kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan rambut yang indah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan peningkatan yang luar biasa ini.
+Kalimat Baru: ",kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan ini.,base,Kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan peningkatan yang luar biasa itu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: armada tidak memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.
+Kalimat Baru: ",armada memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.,base,Armadia memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: armada memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.
+Kalimat Baru: ",armada tidak memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.,base,Kalimat Awal: Armada memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Memesan huevos rancheros, mereka lezat tapi pelayanannya biasa saja.
+Kalimat Baru: ",Memesan huevos rancheros dan itu lezat!,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Memesan huevos rancheros dan itu lezat!
+Kalimat Baru: ","Memesan huevos rancheros, mereka lezat tapi pelayanannya biasa saja.",base,Saya tidak menyukai huevos rancheros.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Aku terbangun dengan minyak yang licin di wajahku.
+Kalimat Baru: ",aku terbangun dengan sesuatu seperti minyak yang licin di wajahku,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku terbangun dengan sesuatu seperti minyak yang licin di wajahku
+Kalimat Baru: ",Aku terbangun dengan minyak yang licin di wajahku.,base,Saya terbangun dengan sesuatu yang kasar di wajah saya
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pembohong, pembohong, sering berbohong.
+Kalimat Baru: ",Kebenaran kebenaran akan terungkap!,base,"Kejujuran, kejujuran, sering jujur."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kebenaran kebenaran akan terungkap!
+Kalimat Baru: ","Pembohong, pembohong, sering berbohong.",base,Fakta akan terbongkar!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya rasa layanan pelanggan starbucks hanya bagus di beberapa lokasi saja.
+Kalimat Baru: ",Layanan starbucks bagus di lokasi manapun!,base,Saya rasa layanan pelanggan starbucks sangat bagus di semua lokasi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Layanan starbucks bagus di lokasi manapun!
+Kalimat Baru: ",Saya rasa layanan pelanggan starbucks hanya bagus di beberapa lokasi saja.,base,Layanan starbucks jelek di lokasi manapun!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memesan dua di antaranya dan keduanya tiba dalam waktu seminggu.
+Kalimat Baru: ",saya memesan dua di antaranya dan keduanya tiba dalam dua hari.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memesan dua di antaranya dan keduanya tiba dalam dua hari.
+Kalimat Baru: ",saya memesan dua di antaranya dan keduanya tiba dalam waktu seminggu.,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Selain itu, pisaunya tidak mudah untuk bermanuver mengingat panjangnya.
+Kalimat Baru: ","Selain itu, pisaunya mudah untuk digerakkan meskipun panjangnya.",base,"Selain itu, pisaunya mudah untuk bermanuver mengingat panjangnya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Selain itu, pisaunya mudah untuk digerakkan meskipun panjangnya.
+Kalimat Baru: ","Selain itu, pisaunya tidak mudah untuk bermanuver mengingat panjangnya.",base,"Selain itu, pisaunya sulit untuk digerakkan meskipun panjangnya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua hari.
+Kalimat Baru: ",mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua tahun.,base,Mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua hari.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua tahun.
+Kalimat Baru: ",mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua hari.,base,Mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua tahun.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tapi itu tidak bagus untuk nirkabel, saya belum pernah mengalami yang lebih buruk.
+Kalimat Baru: ","tapi tidak buruk untuk nirkabel, saya pernah mengalami yang lebih buruk.",base,Saya belum pernah mengalami yang lebih baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tapi tidak buruk untuk nirkabel, saya pernah mengalami yang lebih buruk.
+Kalimat Baru: ","tapi itu tidak bagus untuk nirkabel, saya belum pernah mengalami yang lebih buruk.",base,Saya pernah mengalami yang lebih buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: akan lebih pintar jika memiliki engkol atau sesuatu yang membuatnya lebih mudah
+Kalimat Baru: ",berharap ada engkol atau sesuatu yang membuatnya lebih mudah.,base,Lebih sulit jika tidak memiliki engkol
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: berharap ada engkol atau sesuatu yang membuatnya lebih mudah.
+Kalimat Baru: ",akan lebih pintar jika memiliki engkol atau sesuatu yang membuatnya lebih mudah,base,Saya berharap saya bisa menemukan engkol atau sesuatu yang membuatnya lebih mudah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya tidak menikmati setiap gigitan.
+Kalimat Baru: ",Dan saya menikmati setiap gigitan.,base,Saya menikmati setiap gigitan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dan saya menikmati setiap gigitan.
+Kalimat Baru: ",Saya tidak menikmati setiap gigitan.,base,Saya tidak menikmati setiap gigitan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia bahkan tidak menawarkan saya untuk datang di lain waktu.
+Kalimat Baru: ",Dia dengan mudah menawarkan saya untuk datang di waktu lain.,base,Dia bahkan tidak menawarkan saya untuk datang di lain waktu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia dengan mudah menawarkan saya untuk datang di waktu lain.
+Kalimat Baru: ",Dia bahkan tidak menawarkan saya untuk datang di lain waktu.,base,Dia tidak mudah menawarkan saya untuk datang di waktu lain.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya katakan dengan jujur bahwa saya sangat tidak senang kami akan pindah ke az.
+Kalimat Baru: ",Saya bisa katakan dengan jujur bahwa saya sangat lega kami bisa pindah ke az.,base,Saya mengatakan dengan jujur bahwa saya sangat senang kami akan pindah ke az.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya bisa katakan dengan jujur bahwa saya sangat lega kami bisa pindah ke az.
+Kalimat Baru: ",Saya katakan dengan jujur bahwa saya sangat tidak senang kami akan pindah ke az.,base,Saya bisa katakan dengan jujur bahwa saya sangat kecewa kami bisa pindah ke az.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Panjat tebingnya lumayan.
+Kalimat Baru: ",Mereka suka panjat tebing.,base,Saya tidak suka panjat tebingnya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka suka panjat tebing.
+Kalimat Baru: ",Panjat tebingnya lumayan.,base,Mereka tidak suka panjat tebing.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Seni di gang itu menyeramkan.
+Kalimat Baru: ",Seni yang ada di lorong belakang juga sangat keren!,base,Seni di gang itu menghiburkan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Seni yang ada di lorong belakang juga sangat keren!
+Kalimat Baru: ",Seni di gang itu menyeramkan.,base,Seni yang ada di lorong belakang tidak keren.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu terlalu mahal untuk apa yang kamu dapatkan.
+Kalimat Baru: ",Harganya sangat baik.,base,Itu terlalu murah untuk apa yang kamu dapatkan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Harganya sangat baik.
+Kalimat Baru: ",Itu terlalu mahal untuk apa yang kamu dapatkan.,base,Harga sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salah saya untuk tidak memperhatikan dengan teliti, saya rasa.
+Kalimat Baru: ",Saya memperhatikan dengan seksama.,base,Saya rasa saya benar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya memperhatikan dengan seksama.
+Kalimat Baru: ","Salah saya untuk tidak memperhatikan dengan teliti, saya rasa.",base,Saya tidak memperhatikan dengan seksama.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu adalah satu mangkuk sampah.
+Kalimat Baru: ",Itu adalah satu mangkuk kebahagiaan.,base,Saya suka sampah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu adalah satu mangkuk kebahagiaan.
+Kalimat Baru: ",Itu adalah satu mangkuk sampah.,base,Satu mangkuk kesusahan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mudahnya, ada tempat yang jauh lebih baik untuk sushi.
+Kalimat Baru: ","Mudahnya, ini adalah tempat yang lebih baik untuk sushi.",base,Tidak ada tempat yang lebih baik untuk sushi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mudahnya, ini adalah tempat yang lebih baik untuk sushi.
+Kalimat Baru: ","Mudahnya, ada tempat yang jauh lebih baik untuk sushi.",base,Ini adalah tempat yang lebih buruk untuk sushi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sashimi gurita terasa seperti kaos kaki basah.
+Kalimat Baru: ",Sashimi gurita adalah favorit saya!,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sashimi gurita adalah favorit saya!
+Kalimat Baru: ",Sashimi gurita terasa seperti kaos kaki basah.,base,Saya tidak menyukai sashimi gurita.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Gammage sendiri tidak terlalu megesankan.
+Kalimat Baru: ",Gammage sendiri sangat mengesankan.,base,Gammage sendiri sangat megesankan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Gammage sendiri sangat mengesankan.
+Kalimat Baru: ",Gammage sendiri tidak terlalu megesankan.,base,Gammage sendiri sangat mengecewakan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salah satu hidangan daging sapi muda terburuk yang pernah saya coba dengan harga yang tidak masuk akal.
+Kalimat Baru: ",Salah satu hidangan sapi muda terbaik yang pernah saya coba dengan harga yang wajar.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salah satu hidangan sapi muda terbaik yang pernah saya coba dengan harga yang wajar.
+Kalimat Baru: ",Salah satu hidangan daging sapi muda terburuk yang pernah saya coba dengan harga yang tidak masuk akal.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya tidak akan mempercayai apa pun yang lebih besar dari iphone num_extend
+Kalimat Baru: ",saya percaya ini karena lebih besar dari iPhone.,base,Saya akan mempercayai apa pun yang lebih besar dari android num_extend
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya percaya ini karena lebih besar dari iPhone.
+Kalimat Baru: ",saya tidak akan mempercayai apa pun yang lebih besar dari iphone num_extend,base,Saya tidak percaya ini karena lebih kecil dari iPhone.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: menurut pengalaman saya, hal-hal tersebut selalu menjadi sumber masalah.
+Kalimat Baru: ","menurut pengalaman saya, tidak ada masalah dengan mereka.",base,Saya berharap hal-hal tersebut selalu menjadi sumber solusi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: menurut pengalaman saya, tidak ada masalah dengan mereka.
+Kalimat Baru: ","menurut pengalaman saya, hal-hal tersebut selalu menjadi sumber masalah.",base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu sangat aneh, saya bertanya kepadanya apakah Dia bercanda?
+Kalimat Baru: ","Itu sangat lucu, saya bertanya kepadanya apakah Dia bercanda?",base,Saya bertanya kepadanya apakah Dia serius?
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu sangat lucu, saya bertanya kepadanya apakah Dia bercanda?
+Kalimat Baru: ","Itu sangat aneh, saya bertanya kepadanya apakah Dia bercanda?",base,Saya bertanya kepadanya apakah Dia serius?
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pelayan wanita tua yang kasar itu benar-benar membuat suasana jadi buruk.
+Kalimat Baru: ",Pelayan wanita tua itu sangat baik hati.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pelayan wanita tua itu sangat baik hati.
+Kalimat Baru: ",Pelayan wanita tua yang kasar itu benar-benar membuat suasana jadi buruk.,base,Pelayan wanita tua itu sangat kasar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Untuk toko lokal, tempat ini sangat buruk!
+Kalimat Baru: ","Untuk toko lokal, tempat ini bagus!",base,"Untuk toko lokal, tempat ini sangat bagus!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Untuk toko lokal, tempat ini bagus!
+Kalimat Baru: ","Untuk toko lokal, tempat ini sangat buruk!",base,"Untuk toko lokal, tempat ini buruk!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pelayanan hebat di bar tempat kami membuat reservasi di sebelah.
+Kalimat Baru: ",Diperlakukan dengan buruk di bar di tempat kami membuat reservasi di sebelah.,base,Kami menyukai bar tempat kami membuat reservasi di sebelah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Diperlakukan dengan buruk di bar di tempat kami membuat reservasi di sebelah.
+Kalimat Baru: ",Pelayanan hebat di bar tempat kami membuat reservasi di sebelah.,base,Saya merasa dihormati di bar di tempat kami membuat reservasi di sebelah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tim manajemen yang baru sangat buruk!
+Kalimat Baru: ",Tim manajemen yang baru sangat hebat !,base,Tim manajemen yang baru sangat baik!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tim manajemen yang baru sangat hebat !
+Kalimat Baru: ",Tim manajemen yang baru sangat buruk!,base,Tim manajemen yang baru sangat jelek !
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Oj dan Jeremy melakukan pekerjaan yang buruk!
+Kalimat Baru: ",Oj dan Jeremy melakukan pekerjaan yang baik!,base,Jeremy dan Oj melakukan pekerjaan yang baik!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Oj dan Jeremy melakukan pekerjaan yang baik!
+Kalimat Baru: ",Oj dan Jeremy melakukan pekerjaan yang buruk!,base,Jeremy dan Oj melakukan pekerjaan yang baik!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat ini adalah tempat yang buruk untuk ditinggali.
+Kalimat Baru: ",Tempat ini adalah tempat yang baik untuk ditinggali.,base,Tempat ini adalah tempat yang baik untuk ditinggali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat ini adalah tempat yang baik untuk ditinggali.
+Kalimat Baru: ",Tempat ini adalah tempat yang buruk untuk ditinggali.,base,Tempat ini adalah tempat yang buruk untuk ditinggali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku mengatakan ini sebagai pria dengan pergelangan tangan yang cukup tipis juga.
+Kalimat Baru: ",Saya mengatakan ini sebagai seorang pria yang beruntung memiliki pergelangan tangan yang tipis juga.,base,Saya mengatakan ini sebagai pria dengan pergelangan tangan yang cukup tebal juga.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mengatakan ini sebagai seorang pria yang beruntung memiliki pergelangan tangan yang tipis juga.
+Kalimat Baru: ",aku mengatakan ini sebagai pria dengan pergelangan tangan yang cukup tipis juga.,base,Saya mengatakan ini sebagai seorang pria yang tidak beruntung memiliki pergelangan tangan yang tebal juga.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Menu yang sangat buruk, harga yang mahal, layanan pelanggan yang buruk.
+Kalimat Baru: ","Menu yang baik , harga yang sesuai, pelayanan yang bagus untuk makan malam dan sarapan!",base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Menu yang baik , harga yang sesuai, pelayanan yang bagus untuk makan malam dan sarapan!
+Kalimat Baru: ","Menu yang sangat buruk, harga yang mahal, layanan pelanggan yang buruk.",base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat ini adalah tempat dimana pelanggan menjadi yang terakhir dan diperlakukan dengan buruk.
+Kalimat Baru: ",Tempat ini adalah tempat dimana pelanggan menjadi yang utama dan diperlakukan dengan baik.,base,Tempat ini adalah tempat yang baik untuk dikunjungi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat ini adalah tempat dimana pelanggan menjadi yang utama dan diperlakukan dengan baik.
+Kalimat Baru: ",Tempat ini adalah tempat dimana pelanggan menjadi yang terakhir dan diperlakukan dengan buruk.,base,Tempat ini adalah tempat yang buruk dimana pelanggan menjadi yang utama dan diperlakukan dengan buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tidak baik untuk pergi keesokan paginya, benar-benar kotor.
+Kalimat Baru: ","ada baiknya berangkat keesokan paginya, bersih sepenuhnya.",base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ada baiknya berangkat keesokan paginya, bersih sepenuhnya.
+Kalimat Baru: ","Tidak baik untuk pergi keesokan paginya, benar-benar kotor.",base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tapi sayangnya wanita kasar itu yang mengamati kami.
+Kalimat Baru: ",Tapi untungnya wanita kasar itu bukan yang mengamati kami.,base,Tapi sayangnya pria kasar itu yang mengamati kami.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tapi untungnya wanita kasar itu bukan yang mengamati kami.
+Kalimat Baru: ",Tapi sayangnya wanita kasar itu yang mengamati kami.,base,Tapi ruginya wanita kasar itu bukan yang mengamati kami.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Humornya membuat kunjungan rutin menjadi membosankan.
+Kalimat Baru: ",Humornya membuat kunjungan rutin menjadi menghibur.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Humornya membuat kunjungan rutin menjadi menghibur.
+Kalimat Baru: ",Humornya membuat kunjungan rutin menjadi membosankan.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tetapi itu mungkin sangat buruk juga!
+Kalimat Baru: ",Tetapi itu mungkin tidak buruk juga!,base,Saya tidak akan mengatakan itu mungkin sangat buruk!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tetapi itu mungkin tidak buruk juga!
+Kalimat Baru: ",Tetapi itu mungkin sangat buruk juga!,base,Saya tidak menyukai tempat ini!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dan biaya pembersihannya sangat mahal.
+Kalimat Baru: ",Harganya bagus.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Harganya bagus.
+Kalimat Baru: ",Dan biaya pembersihannya sangat mahal.,base,Harga mahal.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya selalu buruk ketika saya memesan di sini.
+Kalimat Baru: ",Makanannya selalu luar biasa tidak peduli apa yang saya pesan.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya selalu luar biasa tidak peduli apa yang saya pesan.
+Kalimat Baru: ",Makanannya selalu buruk ketika saya memesan di sini.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini bukan sesuatu yang langka dan saya tidak senang telah menemukannya.
+Kalimat Baru: ",Ini adalah sesuatu yang langka dan saya sangat bersemangat telah menemukannya.,base,Saya senang telah menemukannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah sesuatu yang langka dan saya sangat bersemangat telah menemukannya.
+Kalimat Baru: ",Ini bukan sesuatu yang langka dan saya tidak senang telah menemukannya.,base,Saya sangat kecewa telah menemukannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: untuk tujuan saya ini adalah item terburuk.
+Kalimat Baru: ",untuk tujuan saya ini adalah barang yang sempurna.,base,Untuk tujuan saya ini adalah yang terbaik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: untuk tujuan saya ini adalah barang yang sempurna.
+Kalimat Baru: ",untuk tujuan saya ini adalah item terburuk.,base,Saya tidak bisa menemukan barang yang lebih baik untuk tujuan saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya tidak akan merekomendasikan kasus ini kepada teman saya.
+Kalimat Baru: ",saya akan merekomendasikan kasus ini kepada teman saya.,base,Saya akan merekomendasikan kasus ini kepada teman saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya akan merekomendasikan kasus ini kepada teman saya.
+Kalimat Baru: ",Saya tidak akan merekomendasikan kasus ini kepada teman saya.,base,Saya tidak akan merekomendasikan kasus ini kepada teman saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka menagih saya untuk pekerjaan yang tidak dilakukan dan bagian yang tidak dipasang.
+Kalimat Baru: ",Mereka hanya menagih saya pekerjaan yang dilakukan dan bagian yang dipasang.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka hanya menagih saya pekerjaan yang dilakukan dan bagian yang dipasang.
+Kalimat Baru: ",Mereka menagih saya untuk pekerjaan yang tidak dilakukan dan bagian yang tidak dipasang.,base,Saya tidak meminta mereka melakukan pekerjaan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya terutama menggunakan blentec saya sekarang tetapi saya mencari sesuatu yang lebih baik.
+Kalimat Baru: ",saya kebanyakan menggunakan blentec saya sekarang tetapi belum menjual vitamixnya.,base,Saya terutama menggunakan blentec saya sekarang tetapi saya mencari sesuatu yang lebih baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya kebanyakan menggunakan blentec saya sekarang tetapi belum menjual vitamixnya.
+Kalimat Baru: ",saya terutama menggunakan blentec saya sekarang tetapi saya mencari sesuatu yang lebih baik.,base,Saya kebanyakan menggunakan blentec saya sekarang tetapi belum menjual vitamixnya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya benar-benar tidak suka bagaimana pelindung meja ini melengkung di tepi meja.
+Kalimat Baru: ",saya sangat suka bagaimana pelindung meja ini melengkung di tepi meja.,base,Saya benar-benar menyukai bagaimana pelindung meja ini lurus di tepi meja.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya sangat suka bagaimana pelindung meja ini melengkung di tepi meja.
+Kalimat Baru: ",saya benar-benar tidak suka bagaimana pelindung meja ini melengkung di tepi meja.,base,Saya sangat tidak menyukai bagaimana pelindung meja ini melengkung di tepi meja.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Untuk urusan pizza, ini termasuk yang terburuk yang pernah saya makan.
+Kalimat Baru: ",Ini termasuk pizza terbaik yang pernah saya makan.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini termasuk pizza terbaik yang pernah saya makan.
+Kalimat Baru: ","Untuk urusan pizza, ini termasuk yang terburuk yang pernah saya makan.",base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salsa tidak panas atau enak.
+Kalimat Baru: ",Salsa masih panas dan enak.,base,Salsa enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salsa masih panas dan enak.
+Kalimat Baru: ",Salsa tidak panas atau enak.,base,Salsa terasa dingin dan tidak enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: yang ini ada di rak kami dan mengumpulkan debu.
+Kalimat Baru: ",yang ini ada di rak kami dan sering digunakan.,base,Saya yakin Anda akan menyukai yang ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: yang ini ada di rak kami dan sering digunakan.
+Kalimat Baru: ",yang ini ada di rak kami dan mengumpulkan debu.,base,Saya tidak tahu apa yang ada di rak kami.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mencuci itu merepotkan dan memakan waktu beberapa jam.
+Kalimat Baru: ",mencucinya sangat mudah dan hanya membutuhkan waktu sedetik.,base,Saya bisa mencuci dengan cepat dan tidak merepotkan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mencucinya sangat mudah dan hanya membutuhkan waktu sedetik.
+Kalimat Baru: ",mencuci itu merepotkan dan memakan waktu beberapa jam.,base,Positif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mendaftar untuk email mereka dan mendapatkan spam.
+Kalimat Baru: ",Saya mendaftar untuk surel mereka dan mendapatkan kupon.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mendaftar untuk surel mereka dan mendapatkan kupon.
+Kalimat Baru: ",Saya mendaftar untuk email mereka dan mendapatkan spam.,base,Saya mendapatkan kupon.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Green echiladas cukup enak tapi tidak luar biasa.
+Kalimat Baru: ",Green enchiladas sangat enak.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Green enchiladas sangat enak.
+Kalimat Baru: ",Green echiladas cukup enak tapi tidak luar biasa.,base,Green enchiladas tidak begitu enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tidak membaca ulasan apa pun
+Kalimat Baru: ",dia membaca setiap amazon. ulasan com serta situs web zojirushi.,base,Belum membaca ulasan apa pun
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: dia membaca setiap amazon. ulasan com serta situs web zojirushi.
+Kalimat Baru: ",tidak membaca ulasan apa pun,base,Netral
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsinya sangat sedikit dan makannya tidak berasa.
+Kalimat Baru: ",Porsinya banyak dan makanannya bercita rasa luar biasa.,base,Negatif
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsinya banyak dan makanannya bercita rasa luar biasa.
+Kalimat Baru: ",Porsinya sangat sedikit dan makannya tidak berasa.,base,Positif

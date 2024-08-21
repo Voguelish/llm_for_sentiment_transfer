@@ -1,0 +1,986 @@
+[
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya belum pernah menemukan kegunaannya.\nKalimat Baru: \n\n### RESPONSE:\nini berguna dengan momen dan perayaan spesial yang lembut.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ini berguna dengan momen dan perayaan spesial yang lembut.\nKalimat Baru: \n\n### RESPONSE:\nSaya belum pernah menemukan kegunaannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Satu-satunya yang bisa dimakan adalah broccoli beef yang lembek!\nKalimat Baru: \n\n### RESPONSE:\nMakanan lain yang bisa saya makan adalah broccoli beef yang luar biasa!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Makanan lain yang bisa saya makan adalah broccoli beef yang luar biasa!\nKalimat Baru: \n\n### RESPONSE:\nSatu-satunya yang bisa dimakan adalah broccoli beef yang lembek!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pekerjaan buruk pada warna dan potongan rambut saya.\nKalimat Baru: \n\n### RESPONSE:\nDia melakukan pekerjaan yang luar biasa pada warna dan potongan rambut saya!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dia melakukan pekerjaan yang luar biasa pada warna dan potongan rambut saya!\nKalimat Baru: \n\n### RESPONSE:\nPekerjaan buruk pada warna dan potongan rambut saya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tempat yang berisik untuk menonton game di tv dan mencoba berinteraksi dengan orang-orang.\nKalimat Baru: \n\n### RESPONSE:\nTempat yang menyenangkan untuk menonton game di tv dan berinteraksi dengan orang-orang.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tempat yang menyenangkan untuk menonton game di tv dan berinteraksi dengan orang-orang.\nKalimat Baru: \n\n### RESPONSE:\nTempat yang berisik untuk menonton game di tv dan mencoba berinteraksi dengan orang-orang.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kami menghindari untuk mengembalikan truk sewa di sini dua minggu yang lalu.\nKalimat Baru: \n\n### RESPONSE:\nKami mengembalikan truk sewa kami di lokasi ini dua minggu yang lalu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kami mengembalikan truk sewa kami di lokasi ini dua minggu yang lalu.\nKalimat Baru: \n\n### RESPONSE:\nKami menghindari untuk mengembalikan truk sewa di sini dua minggu yang lalu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: sekarang saya masih perlu membeli kaleng penangkap untuk tutup botolnya\nKalimat Baru: \n\n### RESPONSE:\nsekarang saya hanya perlu membeli kaleng untuk tutup botolnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: sekarang saya hanya perlu membeli kaleng untuk tutup botolnya.\nKalimat Baru: \n\n### RESPONSE:\nsekarang saya masih perlu membeli kaleng penangkap untuk tutup botolnya<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tempat ini memiliki staff yang tidak ramah, pelayanan yang buruk, dan makanan yang biasa saja.\nKalimat Baru: \n\n### RESPONSE:\nStaff yang sangat ramah, layanan yang cepat dan luar biasa dan makanan sederhana dimasak dengan benar!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Staff yang sangat ramah, layanan yang cepat dan luar biasa dan makanan sederhana dimasak dengan benar!\nKalimat Baru: \n\n### RESPONSE:\nTempat ini memiliki staff yang tidak ramah, pelayanan yang buruk, dan makanan yang biasa saja.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu bukan sesuatu yang spesial dalam suatu bisnis.\nKalimat Baru: \n\n### RESPONSE:\nItu adalah penemuan langka dalam sebuah bisnis.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu adalah penemuan langka dalam sebuah bisnis.\nKalimat Baru: \n\n### RESPONSE:\nItu bukan sesuatu yang spesial dalam suatu bisnis.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayanannya buruk dan makanannya tidak enak.\nKalimat Baru: \n\n### RESPONSE:\nPelayanannya sangat baik dan makanannya sangat enak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayanannya sangat baik dan makanannya sangat enak.\nKalimat Baru: \n\n### RESPONSE:\nPelayanannya buruk dan makanannya tidak enak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sangat buruk, jangan memesan dari tempat ini.\nKalimat Baru: \n\n### RESPONSE:\nSangat luar biasa, pastikan memesan dari tempat ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sangat luar biasa, pastikan memesan dari tempat ini.\nKalimat Baru: \n\n### RESPONSE:\nSangat buruk, jangan memesan dari tempat ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Suasananya membosankan dan staff memperlakukanmu dengan buruk.\nKalimat Baru: \n\n### RESPONSE:\nSuasananya menyenangkan dan staff memperlakukanmu dengan baik.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Suasananya menyenangkan dan staff memperlakukanmu dengan baik.\nKalimat Baru: \n\n### RESPONSE:\nSuasananya membosankan dan staff memperlakukanmu dengan buruk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: setelah mati saya tidak akan membeli unit ini.\nKalimat Baru: \n\n### RESPONSE:\nsetelah mati saya akan membeli unit yang lebih baik.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: setelah mati saya akan membeli unit yang lebih baik.\nKalimat Baru: \n\n### RESPONSE:\nsetelah mati saya tidak akan membeli unit ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak suka koleksi desain bintang mereka.\nKalimat Baru: \n\n### RESPONSE:\nSaya suka koleksi desain bintang mereka.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya suka koleksi desain bintang mereka.\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak suka koleksi desain bintang mereka.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Bahan-bahannya sudah lama.\nKalimat Baru: \n\n### RESPONSE:\nKamu bisa tau betapa segar bahan-bahannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kamu bisa tau betapa segar bahan-bahannya.\nKalimat Baru: \n\n### RESPONSE:\nBahan-bahannya sudah lama.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ketika itu datang seharusnya kami mengembalikannya.\nKalimat Baru: \n\n### RESPONSE:\nKetika itu datang, kami sangat bahagia.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ketika itu datang, kami sangat bahagia.\nKalimat Baru: \n\n### RESPONSE:\nKetika itu datang seharusnya kami mengembalikannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mengklaim sebagai pizza terbaik di Arizona, saya rasa itu tidak benar sama sekali.\nKalimat Baru: \n\n### RESPONSE:\nGrimaldi adalah tempat pizza yang selalu luar biasa konsistennya di Arizona.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Grimaldi adalah tempat pizza yang selalu luar biasa konsistennya di Arizona.\nKalimat Baru: \n\n### RESPONSE:\nMengklaim sebagai pizza terbaik di Arizona, saya rasa itu tidak benar sama sekali.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya beri tahu kamu, tempat ini tidak ramai sama sekali!\nKalimat Baru: \n\n### RESPONSE:\nTempat ini sangat ramai.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tempat ini sangat ramai.\nKalimat Baru: \n\n### RESPONSE:\nSaya beri tahu kamu, tempat ini tidak ramai sama sekali!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya telah membaca ulasan dari para ahli anggur bahwa itu tidak berhasil sama sekali.\nKalimat Baru: \n\n### RESPONSE:\nsaya telah membaca ulasan dari para ahli anggur bahwa itu tidak berhasil.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya telah membaca ulasan dari para ahli anggur bahwa itu tidak berhasil.\nKalimat Baru: \n\n### RESPONSE:\nsaya telah membaca ulasan dari para ahli anggur bahwa itu tidak berhasil sama sekali.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sayangnya, saya memesan sampel tamale.\nKalimat Baru: \n\n### RESPONSE:\nSaya mencoba sampel tamale.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya mencoba sampel tamale.\nKalimat Baru: \n\n### RESPONSE:\nSayangnya, saya memesan sampel tamale.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: sayangnya, bukan blackberry dan ponselku.\nKalimat Baru: \n\n### RESPONSE:\nbukan blackberryku atau ponselku<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: bukan blackberryku atau ponselku\nKalimat Baru: \n\n### RESPONSE:\nsayangnya, bukan blackberry dan ponselku.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: itu tidak muat di bak mandi saya, yang merupakan ukuran standar.\nKalimat Baru: \n\n### RESPONSE:\nmuat di bak mandi saya, yang ukurannya standar.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: muat di bak mandi saya, yang ukurannya standar.\nKalimat Baru: \n\n### RESPONSE:\nitu tidak muat di bak mandi saya, yang merupakan ukuran standar.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Thai basil pasta keluar dengan hangat dan pedas.\nKalimat Baru: \n\n### RESPONSE:\nPasta keluar dengan baik dan enak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pasta keluar dengan baik dan enak.\nKalimat Baru: \n\n### RESPONSE:\nThai basil pasta keluar dengan hangat dan pedas.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Makan malam di sini kemarin malam dan itu sangat buruk.\nKalimat Baru: \n\n### RESPONSE:\nMakan malam di sini kemarin malam dan itu sangat bagus.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Makan malam di sini kemarin malam dan itu sangat bagus.\nKalimat Baru: \n\n### RESPONSE:\nMakan malam di sini kemarin malam dan itu sangat buruk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ya Tuhan, aku benar-benar tidak suka pei wei.\nKalimat Baru: \n\n### RESPONSE:\nYa Tuhan, aku suka pei wei.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ya Tuhan, aku suka pei wei.\nKalimat Baru: \n\n### RESPONSE:\nYa Tuhan, aku benar-benar tidak suka pei wei.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka berusaha dengan keras untuk membuat saya kembali tetapi saya menolak.\nKalimat Baru: \n\n### RESPONSE:\nMereka tidak perlu mencoba dengan keras untuk membuat saya kembali tetapi saya tetap melakukannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka tidak perlu mencoba dengan keras untuk membuat saya kembali tetapi saya tetap melakukannya.\nKalimat Baru: \n\n### RESPONSE:\nMereka berusaha dengan keras untuk membuat saya kembali tetapi saya menolak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: meskipun begitu Anda melewati setengah jalan, kualitasnya menjadi jauh lebih buruk.\nKalimat Baru: \n\n### RESPONSE:\nmeskipun begitu Anda melewati setengah jalan, kualitasnya menjadi sedikit lebih buruk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: meskipun begitu Anda melewati setengah jalan, kualitasnya menjadi sedikit lebih buruk.\nKalimat Baru: \n\n### RESPONSE:\nmeskipun begitu Anda melewati setengah jalan, kualitasnya menjadi jauh lebih buruk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: itu mengeluarkan suara mendengung saat perangkat dicolokkan.\nKalimat Baru: \n\n### RESPONSE:\nitu mengeluarkan suara mendengung yang berguna saat perangkat dicolokkan<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: itu mengeluarkan suara mendengung yang berguna saat perangkat dicolokkan\nKalimat Baru: \n\n### RESPONSE:\nitu mengeluarkan suara mendengung saat perangkat dicolokkan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: tidak dapat dengan mudah dipindahkan ke berbagai lokasi tergantung kebutuhan.\nKalimat Baru: \n\n### RESPONSE:\nmudah dipindahkan ke berbagai lokasi tergantung kebutuhan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: mudah dipindahkan ke berbagai lokasi tergantung kebutuhan.\nKalimat Baru: \n\n### RESPONSE:\ntidak dapat dengan mudah dipindahkan ke berbagai lokasi tergantung kebutuhan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dengan tambahan biaya - pelayanan buruk!\nKalimat Baru: \n\n### RESPONSE:\nTanpa biaya apapun - pelayanan hebat!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tanpa biaya apapun - pelayanan hebat!\nKalimat Baru: \n\n### RESPONSE:\nDengan tambahan biaya - pelayanan buruk!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pemilik menjawab, saya tidak akan berbagi separuh denganmu.\nKalimat Baru: \n\n### RESPONSE:\nPemilik menjawab, saya akan berbagi separuh dengan kamu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pemilik menjawab, saya akan berbagi separuh dengan kamu.\nKalimat Baru: \n\n### RESPONSE:\nPemilik menjawab, saya tidak akan berbagi separuh denganmu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka mencoba mengambil keuntungan dari saya karena saya masih muda.\nKalimat Baru: \n\n### RESPONSE:\nMereka sangat adil dan menghormati saya walaupun saya masih muda.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka sangat adil dan menghormati saya walaupun saya masih muda.\nKalimat Baru: \n\n### RESPONSE:\nMereka mencoba mengambil keuntungan dari saya karena saya masih muda.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Barnya menyuguhkan sedikit pilihan.\nKalimat Baru: \n\n### RESPONSE:\nBar terbaik di kota.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Bar terbaik di kota.\nKalimat Baru: \n\n### RESPONSE:\nBarnya menyuguhkan sedikit pilihan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: batangannya mengandung nektar agave yang tidak dihasilkan secara alami.\nKalimat Baru: \n\n### RESPONSE:\nbatangannya mengandung bahan tidak alami yang disebut nektar agave.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: batangannya mengandung bahan tidak alami yang disebut nektar agave.\nKalimat Baru: \n\n### RESPONSE:\nbatangannya mengandung nektar agave yang tidak dihasilkan secara alami.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya sarapan bagel sandwich, itu tidak terlalu enak.\nKalimat Baru: \n\n### RESPONSE:\nSaya sarapan bagel sandwich dan itu enak!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya sarapan bagel sandwich dan itu enak!\nKalimat Baru: \n\n### RESPONSE:\nSaya sarapan bagel sandwich, itu tidak terlalu enak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tangan saya terkena minyak saat memasak steak atau falafel.\nKalimat Baru: \n\n### RESPONSE:\ntidak ada lagi minyak di tangan saya saat memasak steak atau falafel.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: tidak ada lagi minyak di tangan saya saat memasak steak atau falafel.\nKalimat Baru: \n\n### RESPONSE:\nTangan saya terkena minyak saat memasak steak atau falafel.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayanannya buruk karena mereka terus mengabaikan meja kami.\nKalimat Baru: \n\n### RESPONSE:\nPelayanannya bagus karena mereka terus memeriksa meja kami.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayanannya bagus karena mereka terus memeriksa meja kami.\nKalimat Baru: \n\n### RESPONSE:\nPelayanannya buruk karena mereka terus mengabaikan meja kami.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya juga tidak suka jus segar mereka.\nKalimat Baru: \n\n### RESPONSE:\nSaya juga suka jus segar mereka.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya juga suka jus segar mereka.\nKalimat Baru: \n\n### RESPONSE:\nSaya juga tidak suka jus segar mereka.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Menunya kecil dan kurang.\nKalimat Baru: \n\n### RESPONSE:\nSuka menu dan minumannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Suka menu dan minumannya.\nKalimat Baru: \n\n### RESPONSE:\nMenunya kecil dan kurang.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Museum yang buruk untuk dikunjungi.\nKalimat Baru: \n\n### RESPONSE:\nMuseum yang bagus untuk dikunjungi.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Museum yang bagus untuk dikunjungi.\nKalimat Baru: \n\n### RESPONSE:\nMuseum yang buruk untuk dikunjungi.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: mereka adalah cheerios, dan kami menyukai jenis aslinya.\nKalimat Baru: \n\n### RESPONSE:\nmereka adalah cheerios, dan kami menyukainya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: mereka adalah cheerios, dan kami menyukainya.\nKalimat Baru: \n\n### RESPONSE:\nmereka adalah cheerios, dan kami menyukai jenis aslinya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak tau mengapa saya mengharapkan sesuatu yang berbeda.\nKalimat Baru: \n\n### RESPONSE:\nIni tepat seperti yang saya harapkan!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ini tepat seperti yang saya harapkan!\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak tau mengapa saya mengharapkan sesuatu yang berbeda.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Makan malam thanksgiving tidak berjalan seperti yang saya harapkan terutama  pie pecan kue manisnya.\nKalimat Baru: \n\n### RESPONSE:\nHal terbaik selama makan malam saat thanksgiving sejauh ini adalah pie pecan kue manis.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Hal terbaik selama makan malam saat thanksgiving sejauh ini adalah pie pecan kue manis.\nKalimat Baru: \n\n### RESPONSE:\nMakan malam thanksgiving tidak berjalan seperti yang saya harapkan terutama  pie pecan kue manisnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: oven belanda yang buruk, hampir tidak berfungsi dan merepotkan untuk digunakan dalam perjalanan berkemah\nKalimat Baru: \n\n### RESPONSE:\noven belanda yang bagus, berfungsi dengan baik dan menyenangkan untuk digunakan dalam perjalanan berkemah.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: oven belanda yang bagus, berfungsi dengan baik dan menyenangkan untuk digunakan dalam perjalanan berkemah.\nKalimat Baru: \n\n### RESPONSE:\noven belanda yang buruk, hampir tidak berfungsi dan merepotkan untuk digunakan dalam perjalanan berkemah<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Daftar wine yang buruk dan terlalu mahal.\nKalimat Baru: \n\n### RESPONSE:\nDaftar wine yang bagus dengan harga 2 kali dari harga ritel daripada 3 kali yang lebih umum.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Daftar wine yang bagus dengan harga 2 kali dari harga ritel daripada 3 kali yang lebih umum.\nKalimat Baru: \n\n### RESPONSE:\nDaftar wine yang buruk dan terlalu mahal.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kacang di burro dan nasi tidak bisa ditemukan.\nKalimat Baru: \n\n### RESPONSE:\nBanyak kacang di burro dan nasi sangat melimpah.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Banyak kacang di burro dan nasi sangat melimpah.\nKalimat Baru: \n\n### RESPONSE:\nKacang di burro dan nasi tidak bisa ditemukan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kehilangan pelanggan lama!\nKalimat Baru: \n\n### RESPONSE:\nMendapatkan pelanggan yang sudah lama!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mendapatkan pelanggan yang sudah lama!\nKalimat Baru: \n\n### RESPONSE:\nKehilangan pelanggan lama!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: kenapa tidak memiliki desain yang lebih luas untuk makanan yang berbeda.\nKalimat Baru: \n\n### RESPONSE:\nharus memiliki desain yang lebih luas untuk makanan yang berbeda.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: harus memiliki desain yang lebih luas untuk makanan yang berbeda.\nKalimat Baru: \n\n### RESPONSE:\nkenapa tidak memiliki desain yang lebih luas untuk makanan yang berbeda.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sayangnya, itu adalah yang terburuk.\nKalimat Baru: \n\n### RESPONSE:\nUntungnya, itu adalah yang terbaik.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Untungnya, itu adalah yang terbaik.\nKalimat Baru: \n\n### RESPONSE:\nSayangnya, itu adalah yang terburuk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tapi tempat ini tidak ekonomis sehingga ekspektasinya berbeda.\nKalimat Baru: \n\n### RESPONSE:\nTempat ini sesuai dengan ekspektasi.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tempat ini sesuai dengan ekspektasi.\nKalimat Baru: \n\n### RESPONSE:\nTapi tempat ini tidak ekonomis sehingga ekspektasinya berbeda.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: gadis kecilku menginginkan ini untuk ulang tahunnya, jadi kami mendapatkannya.\nKalimat Baru: \n\n### RESPONSE:\ngadis kecilku menginginkan ini untuk ulang tahunnya, jadi kami mendapatkannya, dan dia menyukainya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: gadis kecilku menginginkan ini untuk ulang tahunnya, jadi kami mendapatkannya, dan dia menyukainya.\nKalimat Baru: \n\n### RESPONSE:\ngadis kecilku menginginkan ini untuk ulang tahunnya, jadi kami mendapatkannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: itu tidak banyak menggerakkan udara.\nKalimat Baru: \n\n### RESPONSE:\nia menggerakkan banyak udara, berosilasi di antara dua ruangan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ia menggerakkan banyak udara, berosilasi di antara dua ruangan.\nKalimat Baru: \n\n### RESPONSE:\nitu tidak banyak menggerakkan udara.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: memang tidak mudah untuk membersihkannya, tapi sejujurnya saya jarang membersihkannya.\nKalimat Baru: \n\n### RESPONSE:\nmudah dibersihkan, tapi sejujurnya saya jarang membersihkannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: mudah dibersihkan, tapi sejujurnya saya jarang membersihkannya.\nKalimat Baru: \n\n### RESPONSE:\nmemang tidak mudah untuk membersihkannya, tapi sejujurnya saya jarang membersihkannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Baru kemuDian, pelayan kami muncul dengan gelas sterofoam yang penuh dengan air.\nKalimat Baru: \n\n### RESPONSE:\nPelayan kami muncul dengan cepat.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayan kami muncul dengan cepat.\nKalimat Baru: \n\n### RESPONSE:\nBaru kemuDian, pelayan kami muncul dengan gelas sterofoam yang penuh dengan air.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Seperti patty beku yang dimasak seperti di rumah.\nKalimat Baru: \n\n### RESPONSE:\nPatty beku ini berkualitas sangat baik.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Patty beku ini berkualitas sangat baik.\nKalimat Baru: \n\n### RESPONSE:\nSeperti patty beku yang dimasak seperti di rumah.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayan tidak mempercayainya.\nKalimat Baru: \n\n### RESPONSE:\nPelayanan benar-benar mempercayainya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayanan benar-benar mempercayainya.\nKalimat Baru: \n\n### RESPONSE:\nPelayan tidak mempercayainya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: mati sejak awal\nKalimat Baru: \n\n### RESPONSE:\nsaya punya yang kurang kuat selama num_num tahun sebelum akhirnya menyerah.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya punya yang kurang kuat selama num_num tahun sebelum akhirnya menyerah.\nKalimat Baru: \n\n### RESPONSE:\nmati sejak awal<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Astaga saya perlu mencari sumber untuk uni block ini.\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak merasa saya membutuhkan sumber baru untuk uni block ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak merasa saya membutuhkan sumber baru untuk uni block ini.\nKalimat Baru: \n\n### RESPONSE:\nAstaga saya perlu mencari sumber untuk uni block ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Selain dari itu, saya tidak akan kembali.\nKalimat Baru: \n\n### RESPONSE:\nSelain dari itu, itu sangat bagus!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Selain dari itu, itu sangat bagus!\nKalimat Baru: \n\n### RESPONSE:\nSelain dari itu, saya tidak akan kembali.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: itu lumayan tapi itu bukan hal terbaik untuk dikatakan tentang headphone.\nKalimat Baru: \n\n### RESPONSE:\nitulah hal yang tepat untuk dikatakan tentang headphone<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: itulah hal yang tepat untuk dikatakan tentang headphone\nKalimat Baru: \n\n### RESPONSE:\nitu lumayan tapi itu bukan hal terbaik untuk dikatakan tentang headphone.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Makanan penutupnya tidak ada yang spesial.\nKalimat Baru: \n\n### RESPONSE:\nSemuanya enak dan makanan penutupnya sangat enak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Semuanya enak dan makanan penutupnya sangat enak.\nKalimat Baru: \n\n### RESPONSE:\nMakanan penutupnya tidak ada yang spesial.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: jangan buang waktu atau uang Anda untuk jeans ini.\nKalimat Baru: \n\n### RESPONSE:\nluangkan waktu dan habiskan uangnya untuk membeli jeans ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: luangkan waktu dan habiskan uangnya untuk membeli jeans ini.\nKalimat Baru: \n\n### RESPONSE:\njangan buang waktu atau uang Anda untuk jeans ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Calzone sangat buruk dan makan siang spesial mereka menyedihkan.\nKalimat Baru: \n\n### RESPONSE:\nCalzone luar biasa dan makan siang spesial mereka sempurna.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Calzone luar biasa dan makan siang spesial mereka sempurna.\nKalimat Baru: \n\n### RESPONSE:\nCalzone sangat buruk dan makan siang spesial mereka menyedihkan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya telah membeli dudukan yang cukup murah dari motorola dan dudukannya bertahan cukup lama.\nKalimat Baru: \n\n### RESPONSE:\nsaya telah membeli dudukan yang lebih murah dari Motorola dan dudukannya bertahan lama.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya telah membeli dudukan yang lebih murah dari Motorola dan dudukannya bertahan lama.\nKalimat Baru: \n\n### RESPONSE:\nsaya telah membeli dudukan yang cukup murah dari motorola dan dudukannya bertahan cukup lama.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: sangat sulit untuk dipasang, gelembung di mana-mana.\nKalimat Baru: \n\n### RESPONSE:\nsangat mudah dipasang, tidak ada gelembung apa pun.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: sangat mudah dipasang, tidak ada gelembung apa pun.\nKalimat Baru: \n\n### RESPONSE:\nsangat sulit untuk dipasang, gelembung di mana-mana.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: bahan pembuatnya seperti magnet tanah.\nKalimat Baru: \n\n### RESPONSE:\nbahan pembuatnya mengusir kotoran.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: bahan pembuatnya mengusir kotoran.\nKalimat Baru: \n\n### RESPONSE:\nbahan pembuatnya seperti magnet tanah.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ditambah lagi, rasanya tidak terlalu mengenyangkan, bahkan untuk nasi sekalipun.\nKalimat Baru: \n\n### RESPONSE:\nmengenyangkan sekali, terutama untuk nasi!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: mengenyangkan sekali, terutama untuk nasi!\nKalimat Baru: \n\n### RESPONSE:\nditambah lagi, rasanya tidak terlalu mengenyangkan, bahkan untuk nasi sekalipun.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saladnya oke, tidak ada yang spesial.\nKalimat Baru: \n\n### RESPONSE:\nSaladnya sangat enak, benar-benar sesuatu yang spesial.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saladnya sangat enak, benar-benar sesuatu yang spesial.\nKalimat Baru: \n\n### RESPONSE:\nSaladnya oke, tidak ada yang spesial.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Manajemen tampaknya tidak peduli.\nKalimat Baru: \n\n### RESPONSE:\nManajemen tampaknya sangat peduli.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Manajemen tampaknya sangat peduli.\nKalimat Baru: \n\n### RESPONSE:\nManajemen tampaknya tidak peduli.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ini adalah salah satu penyedot debu terburuk yang pernah saya temui\nKalimat Baru: \n\n### RESPONSE:\nini adalah salah satu penyedot debu terbaik yang pernah saya temui.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ini adalah salah satu penyedot debu terbaik yang pernah saya temui.\nKalimat Baru: \n\n### RESPONSE:\nini adalah salah satu penyedot debu terburuk yang pernah saya temui<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tidak suka datang kesini sekeluarga.\nKalimat Baru: \n\n### RESPONSE:\nKami senang datang ke sini sebagai keluarga.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kami senang datang ke sini sebagai keluarga.\nKalimat Baru: \n\n### RESPONSE:\nTidak suka datang kesini sekeluarga.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: jangan gunakan itu lagi\nKalimat Baru: \n\n### RESPONSE:\nsaya menggunakannya untuk pekerjaan saya dan itu berdiri.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya menggunakannya untuk pekerjaan saya dan itu berdiri.\nKalimat Baru: \n\n### RESPONSE:\njangan gunakan itu lagi<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ya, siapa peduli?\nKalimat Baru: \n\n### RESPONSE:\nOh, mereka peduli, kan?<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Oh, mereka peduli, kan?\nKalimat Baru: \n\n### RESPONSE:\nYa, siapa peduli?<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Bagaimanapun juga, kami mendapatkan kopi kami dan tidak akan kembali ke lokasi ini.\nKalimat Baru: \n\n### RESPONSE:\nKami mendapatkan kopi dan kami berpikir akan kembali kesini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kami mendapatkan kopi dan kami berpikir akan kembali kesini.\nKalimat Baru: \n\n### RESPONSE:\nBagaimanapun juga, kami mendapatkan kopi kami dan tidak akan kembali ke lokasi ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Staff tidak bisa ditemukan di mana pun.\nKalimat Baru: \n\n### RESPONSE:\nStaff selalu ada.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Staff selalu ada.\nKalimat Baru: \n\n### RESPONSE:\nStaff tidak bisa ditemukan di mana pun.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tapi barangnya mungkin tidak benar-benar ada di stok juga\nKalimat Baru: \n\n### RESPONSE:\nSemuanya selalu ada di stok di sini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Semuanya selalu ada di stok di sini.\nKalimat Baru: \n\n### RESPONSE:\nTapi barangnya mungkin tidak benar-benar ada di stok juga<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya tidak akan membeli ini lagi di masa depan.\nKalimat Baru: \n\n### RESPONSE:\nsaya pasti akan membeli ini lagi di masa depan<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya pasti akan membeli ini lagi di masa depan\nKalimat Baru: \n\n### RESPONSE:\nsaya tidak akan membeli ini lagi di masa depan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: tidak bernilai uang, bisa dengan mudah tanpanya.\nKalimat Baru: \n\n### RESPONSE:\nsepadan dengan uang yang dikeluarkan, saya tidak ingin hidup tanpanya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: sepadan dengan uang yang dikeluarkan, saya tidak ingin hidup tanpanya.\nKalimat Baru: \n\n### RESPONSE:\ntidak bernilai uang, bisa dengan mudah tanpanya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kejadian malang yang terjadi dan mereka tidak peduli untuk menghadapinya.\nKalimat Baru: \n\n### RESPONSE:\nMereka menangani semua barang yang rusak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka menangani semua barang yang rusak.\nKalimat Baru: \n\n### RESPONSE:\nKejadian malang yang terjadi dan mereka tidak peduli untuk menghadapinya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: anker, tidak menyukainya\nKalimat Baru: \n\n### RESPONSE:\nanker adalah produk bagus meskipun saya belum pernah mendengarnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: anker adalah produk bagus meskipun saya belum pernah mendengarnya.\nKalimat Baru: \n\n### RESPONSE:\nanker, tidak menyukainya<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sepertinya saya lupa betapa tidak menariknya penawaran mereka.\nKalimat Baru: \n\n### RESPONSE:\nSaya hampir lupa betapa hebatnya penawaran mereka!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya hampir lupa betapa hebatnya penawaran mereka!\nKalimat Baru: \n\n### RESPONSE:\nSepertinya saya lupa betapa tidak menariknya penawaran mereka.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tidak ada ban, penyetelan, dan rem, sama sekali tidak ada.\nKalimat Baru: \n\n### RESPONSE:\nBan, penyetelan, rem, dan lainnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ban, penyetelan, rem, dan lainnya.\nKalimat Baru: \n\n### RESPONSE:\nTidak ada ban, penyetelan, dan rem, sama sekali tidak ada.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ya, porsinya besar tapi ukuran bukan segalanya.\nKalimat Baru: \n\n### RESPONSE:\nItu besar dan cukup untuk dua orang.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu besar dan cukup untuk dua orang.\nKalimat Baru: \n\n### RESPONSE:\nYa, porsinya besar tapi ukuran bukan segalanya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: panci ini baru saya miliki selama satu tahun.\nKalimat Baru: \n\n### RESPONSE:\npanci ini saya miliki selama satu tahun.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: panci ini saya miliki selama satu tahun.\nKalimat Baru: \n\n### RESPONSE:\npanci ini baru saya miliki selama satu tahun.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Terlalu berlemak dalam makanannya dan birnya terlalu hangat.\nKalimat Baru: \n\n### RESPONSE:\nSemuanya memiliki rasa berlemak yang memuaskan yang sangat cocok saat diminum dengan bir.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Semuanya memiliki rasa berlemak yang memuaskan yang sangat cocok saat diminum dengan bir.\nKalimat Baru: \n\n### RESPONSE:\nTerlalu berlemak dalam makanannya dan birnya terlalu hangat.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya sama sekali tidak senang dengan kinerja helikopter ini.\nKalimat Baru: \n\n### RESPONSE:\nsaya senang dengan kinerja helikopter ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya senang dengan kinerja helikopter ini.\nKalimat Baru: \n\n### RESPONSE:\nsaya sama sekali tidak senang dengan kinerja helikopter ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Semua orang selalu sangat tidak ramah dan tidak membantu.\nKalimat Baru: \n\n### RESPONSE:\nSemua orang selalu sangat ramah dan suka membantu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Semua orang selalu sangat ramah dan suka membantu.\nKalimat Baru: \n\n### RESPONSE:\nSemua orang selalu sangat tidak ramah dan tidak membantu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: komputer mengenali koneksi usb, namun kursor tidak pernah bergerak.\nKalimat Baru: \n\n### RESPONSE:\nkomputernya bergerak<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: komputernya bergerak\nKalimat Baru: \n\n### RESPONSE:\nkomputer mengenali koneksi usb, namun kursor tidak pernah bergerak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: seperti berapa kali kamu menghadapi nazgul dan betapa mudahnya mereka dikalahkan.\nKalimat Baru: \n\n### RESPONSE:\nseperti berapa kali kamu menghadapi nazgul dan seberapa mudah kamu menang.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: seperti berapa kali kamu menghadapi nazgul dan seberapa mudah kamu menang.\nKalimat Baru: \n\n### RESPONSE:\nseperti berapa kali kamu menghadapi nazgul dan betapa mudahnya mereka dikalahkan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu bukan beras cokelat.\nKalimat Baru: \n\n### RESPONSE:\nItu adalah beras cokelat.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu adalah beras cokelat.\nKalimat Baru: \n\n### RESPONSE:\nItu bukan beras cokelat.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya membaca semua ulasan dan memutuskan untuk tidak memilih yang ini.\nKalimat Baru: \n\n### RESPONSE:\nsaya membaca semua ulasan dan memutuskan yang ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya membaca semua ulasan dan memutuskan yang ini.\nKalimat Baru: \n\n### RESPONSE:\nsaya membaca semua ulasan dan memutuskan untuk tidak memilih yang ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak akan datang kembali ke kursus ini sebagai pengunjung dengan waktu bermain yang terbatas.\nKalimat Baru: \n\n### RESPONSE:\nSaya akan sering datang ke sini karena mereka memberi kami banyak waktu untuk bermain.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya akan sering datang ke sini karena mereka memberi kami banyak waktu untuk bermain.\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak akan datang kembali ke kursus ini sebagai pengunjung dengan waktu bermain yang terbatas.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu tidak menyenangkan untuk duduk  di bar.\nKalimat Baru: \n\n### RESPONSE:\nItu juga menyenangkan untuk duduk di bar.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu juga menyenangkan untuk duduk di bar.\nKalimat Baru: \n\n### RESPONSE:\nItu tidak menyenangkan untuk duduk  di bar.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saran pertama saya kepada siapa pun yang membaca ulasan tentang produk ini adalah terus mencari.\nKalimat Baru: \n\n### RESPONSE:\nsaran pertama saya kepada siapa pun yang membaca ulasan produk ini adalah memeriksa dengan baik fitur-fiturnya<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saran pertama saya kepada siapa pun yang membaca ulasan produk ini adalah memeriksa dengan baik fitur-fiturnya\nKalimat Baru: \n\n### RESPONSE:\nsaran pertama saya kepada siapa pun yang membaca ulasan tentang produk ini adalah terus mencari.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: itu membuka kaleng oke, tapi tidak lebih baik dari pembuka kuno.\nKalimat Baru: \n\n### RESPONSE:\nIni membuka kaleng dengan bagus, jauh lebih baik daripada pembuka kaleng kuno!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ini membuka kaleng dengan bagus, jauh lebih baik daripada pembuka kaleng kuno!\nKalimat Baru: \n\n### RESPONSE:\nitu membuka kaleng oke, tapi tidak lebih baik dari pembuka kuno.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: tidak mengikuti panduannya\nKalimat Baru: \n\n### RESPONSE:\nsaya mengikuti petunjuknya dan bersyukur karenanya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya mengikuti petunjuknya dan bersyukur karenanya.\nKalimat Baru: \n\n### RESPONSE:\ntidak mengikuti panduannya<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya punya versi buatan AS untuk ini.\nKalimat Baru: \n\n### RESPONSE:\nSaya punya versi buatan Amerika untuk ini, dan itu bagus.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya punya versi buatan Amerika untuk ini, dan itu bagus.\nKalimat Baru: \n\n### RESPONSE:\nsaya punya versi buatan AS untuk ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: bilah yang pendek dan gagang yang lebih panjang memberi Anda hampir semua daya ungkit yang Anda perlukan untuk pemotongan yang sulit\nKalimat Baru: \n\n### RESPONSE:\nbilah yang pendek dan gagang yang lebih panjang memberi Anda daya ungkit yang Anda perlukan untuk pemotongan yang sulit.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: bilah yang pendek dan gagang yang lebih panjang memberi Anda daya ungkit yang Anda perlukan untuk pemotongan yang sulit.\nKalimat Baru: \n\n### RESPONSE:\nbilah yang pendek dan gagang yang lebih panjang memberi Anda hampir semua daya ungkit yang Anda perlukan untuk pemotongan yang sulit<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: yang terbaik adalah berinvestasi pada satu set kuas riasan yang bagus.\nKalimat Baru: \n\n### RESPONSE:\nadalah cerdas untuk berinvestasi pada satu set kuas riasan yang bagus<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: adalah cerdas untuk berinvestasi pada satu set kuas riasan yang bagus\nKalimat Baru: \n\n### RESPONSE:\nyang terbaik adalah berinvestasi pada satu set kuas riasan yang bagus.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu memalukan untuk semua yang terlibat walaupun saya tidak merasa Dia menyadarinya.\nKalimat Baru: \n\n### RESPONSE:\nItu menyenangkan untuk semua yang ada disana.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu menyenangkan untuk semua yang ada disana.\nKalimat Baru: \n\n### RESPONSE:\nItu memalukan untuk semua yang terlibat walaupun saya tidak merasa Dia menyadarinya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dua pria di depan kasar dan tidak membantu saya.\nKalimat Baru: \n\n### RESPONSE:\nDua pria di depan selalu sangat ramah.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dua pria di depan selalu sangat ramah.\nKalimat Baru: \n\n### RESPONSE:\nDua pria di depan kasar dan tidak membantu saya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Lalu saya mendapatkan zester yang tidak pernah saya gunakan.\nKalimat Baru: \n\n### RESPONSE:\nlalu muncullah zester ini yang saya gunakan terus-menerus.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: lalu muncullah zester ini yang saya gunakan terus-menerus.\nKalimat Baru: \n\n### RESPONSE:\nLalu saya mendapatkan zester yang tidak pernah saya gunakan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya telah menggunakan ini selama berbulan-bulan, dan membencinya.\nKalimat Baru: \n\n### RESPONSE:\nsaya telah menggunakan ini selama berbulan-bulan, dan sangat menyukainya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya telah menggunakan ini selama berbulan-bulan, dan sangat menyukainya.\nKalimat Baru: \n\n### RESPONSE:\nsaya telah menggunakan ini selama berbulan-bulan, dan membencinya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu tidak seperti pub IrlanDia yang sebenarnya yang mana sangat suram.\nKalimat Baru: \n\n### RESPONSE:\nItu seperti Pub IrlanDia yang sebenarnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu seperti Pub IrlanDia yang sebenarnya.\nKalimat Baru: \n\n### RESPONSE:\nItu tidak seperti pub IrlanDia yang sebenarnya yang mana sangat suram.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Hari kami di sungai sangat buruk, tidak ingin kembali lagi.\nKalimat Baru: \n\n### RESPONSE:\nKamu sangat menikmati hari kami di sungai dan tidak sabar untuk kembali!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kamu sangat menikmati hari kami di sungai dan tidak sabar untuk kembali!\nKalimat Baru: \n\n### RESPONSE:\nHari kami di sungai sangat buruk, tidak ingin kembali lagi.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ayam gorengnya kering tapi makaroni cabe hijau dan keju enak.\nKalimat Baru: \n\n### RESPONSE:\nAyam gorengnya lembut dan makaroni cabe hijau dan keju sangat enak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ayam gorengnya lembut dan makaroni cabe hijau dan keju sangat enak.\nKalimat Baru: \n\n### RESPONSE:\nAyam gorengnya kering tapi makaroni cabe hijau dan keju enak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dia tidak peduli dengan pelanggannya dan bahkan tidak memperhatikan mereka.\nKalimat Baru: \n\n### RESPONSE:\nDia sangat teliti dan degan tulus peduli dengan pelanggannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dia sangat teliti dan degan tulus peduli dengan pelanggannya.\nKalimat Baru: \n\n### RESPONSE:\nDia tidak peduli dengan pelanggannya dan bahkan tidak memperhatikan mereka.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya menghabiskan waktu dengan buruk dan makanan di restoran mereka buruk!\nKalimat Baru: \n\n### RESPONSE:\nSangat bersenang-senang dan makanan di restoran mereka sempurna!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sangat bersenang-senang dan makanan di restoran mereka sempurna!\nKalimat Baru: \n\n### RESPONSE:\nSaya menghabiskan waktu dengan buruk dan makanan di restoran mereka buruk!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayanan yang buruk dan staff yang buruk sekali.\nKalimat Baru: \n\n### RESPONSE:\nPelayanan yang hebat dari staffnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pelayanan yang hebat dari staffnya.\nKalimat Baru: \n\n### RESPONSE:\nPelayanan yang buruk dan staff yang buruk sekali.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: masalah besarnya adalah cahaya biru sangat mengganggu\nKalimat Baru: \n\n### RESPONSE:\nsatu-satunya masalah adalah cahaya biru yang mengganggu setelah beberapa saat.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: satu-satunya masalah adalah cahaya biru yang mengganggu setelah beberapa saat.\nKalimat Baru: \n\n### RESPONSE:\nmasalah besarnya adalah cahaya biru sangat mengganggu<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Apakah itu hal yang baik atau buruk?\nKalimat Baru: \n\n### RESPONSE:\nSaya rasa itu hal yang baik dan bukan hal yang buruk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya rasa itu hal yang baik dan bukan hal yang buruk.\nKalimat Baru: \n\n### RESPONSE:\nApakah itu hal yang baik atau buruk?<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ulasan lain tampak lebih positif, tetapi saya hanya memberikan ulasan saya saja.\nKalimat Baru: \n\n### RESPONSE:\nulasan lain tampak lebih negatif, tetapi saya memberikan ulasan saya sebagai hadiah.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ulasan lain tampak lebih negatif, tetapi saya memberikan ulasan saya sebagai hadiah.\nKalimat Baru: \n\n### RESPONSE:\nulasan lain tampak lebih positif, tetapi saya hanya memberikan ulasan saya saja.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: kaca yang berat, bermotif, dan terlihat berkelas di atas meja\nKalimat Baru: \n\n### RESPONSE:\nkaca yang berat, bermotif, dan terlihat sangat berkelas di atas meja.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: kaca yang berat, bermotif, dan terlihat sangat berkelas di atas meja.\nKalimat Baru: \n\n### RESPONSE:\nkaca yang berat, bermotif, dan terlihat berkelas di atas meja<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tamalesnya buruk.\nKalimat Baru: \n\n### RESPONSE:\nTamales jagung hijau terbaik di sekitar.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tamales jagung hijau terbaik di sekitar.\nKalimat Baru: \n\n### RESPONSE:\nTamalesnya buruk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya membeli mainan ini untuk anak laki-laki saya beberapa tahun yang lalu.\nKalimat Baru: \n\n### RESPONSE:\nsaya membeli mainan yang luar biasa ini untuk anak laki-laki saya beberapa tahun yang lalu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya membeli mainan yang luar biasa ini untuk anak laki-laki saya beberapa tahun yang lalu.\nKalimat Baru: \n\n### RESPONSE:\nsaya membeli mainan ini untuk anak laki-laki saya beberapa tahun yang lalu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: malu pada apa yang sebelumnya merupakan perusahaan yang dapat diandalkan dengan beberapa produk terhormat lainnya.\nKalimat Baru: \n\n### RESPONSE:\nIni sangat cocok dengan apa yang telah menjadi perusahaan yang dapat diandalkan dengan beberapa produk terhormat lainnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ini sangat cocok dengan apa yang telah menjadi perusahaan yang dapat diandalkan dengan beberapa produk terhormat lainnya.\nKalimat Baru: \n\n### RESPONSE:\nmalu pada apa yang sebelumnya merupakan perusahaan yang dapat diandalkan dengan beberapa produk terhormat lainnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ketika Dia tidak menjawabnya dengan cepat, Dia segera mematikan teleponnya.\nKalimat Baru: \n\n### RESPONSE:\nKetika Dia tidak menjawabnya dengan cepat, Dia dengan sabar menunggunya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ketika Dia tidak menjawabnya dengan cepat, Dia dengan sabar menunggunya.\nKalimat Baru: \n\n### RESPONSE:\nKetika Dia tidak menjawabnya dengan cepat, Dia segera mematikan teleponnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya akan menyarankan rasa yang lebih tropis dengan air dingin.\nKalimat Baru: \n\n### RESPONSE:\nsaya menyarankan rasa yang lebih tropis dengan air dingin.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya menyarankan rasa yang lebih tropis dengan air dingin.\nKalimat Baru: \n\n### RESPONSE:\nsaya akan menyarankan rasa yang lebih tropis dengan air dingin.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Aku bukan salah satu \"Corn People\".\nKalimat Baru: \n\n### RESPONSE:\nSaya salah satu \"Corn People\".<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya salah satu \"Corn People\".\nKalimat Baru: \n\n### RESPONSE:\nAku bukan salah satu \"Corn People\".<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Akan lebih banyak bintang jika bahannya tidak terlalu tipis\nKalimat Baru: \n\n### RESPONSE:\nakan menjadi bintang lima jika terbuat dari material yang sedikit lebih berat.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: akan menjadi bintang lima jika terbuat dari material yang sedikit lebih berat.\nKalimat Baru: \n\n### RESPONSE:\nAkan lebih banyak bintang jika bahannya tidak terlalu tipis<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak akan pergi ke sana lagi!\nKalimat Baru: \n\n### RESPONSE:\nSaya pastinya akan pergi ke sana lagi!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya pastinya akan pergi ke sana lagi!\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak akan pergi ke sana lagi!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak akan memesan lagi.\nKalimat Baru: \n\n### RESPONSE:\nPesanan saya sangat bak dan saya akan memesannya kembali.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Pesanan saya sangat bak dan saya akan memesannya kembali.\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak akan memesan lagi.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya hanya mengunggah gambar-gambar untuk membuktikan pekerjaan mereka yang jelek.\nKalimat Baru: \n\n### RESPONSE:\nSaya hanya mengunggah gambar-gambar untuk membuktikan pekerjaan mereka yang berkualitas.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya hanya mengunggah gambar-gambar untuk membuktikan pekerjaan mereka yang berkualitas.\nKalimat Baru: \n\n### RESPONSE:\nSaya hanya mengunggah gambar-gambar untuk membuktikan pekerjaan mereka yang jelek.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tidak banyak akhir-akhir ini.\nKalimat Baru: \n\n### RESPONSE:\nAda banyak akhir-akhir ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ada banyak akhir-akhir ini.\nKalimat Baru: \n\n### RESPONSE:\nTidak banyak akhir-akhir ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Bahkan tidak mendapatkan respons.\nKalimat Baru: \n\n### RESPONSE:\nBahkan mendapatkan respons.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Bahkan mendapatkan respons.\nKalimat Baru: \n\n### RESPONSE:\nBahkan tidak mendapatkan respons.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sebenarnya, terus jalan saja.\nKalimat Baru: \n\n### RESPONSE:\nSebenarnya, masuklah.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sebenarnya, masuklah.\nKalimat Baru: \n\n### RESPONSE:\nSebenarnya, terus jalan saja.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: warnanya sangat hitam, dan menambah volume.\nKalimat Baru: \n\n### RESPONSE:\nwarna bagus dan volume sempurna<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: warna bagus dan volume sempurna\nKalimat Baru: \n\n### RESPONSE:\nwarnanya sangat hitam, dan menambah volume.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya ingin menyukai tempat ini namun ini hanya kekecewaan yang besar.\nKalimat Baru: \n\n### RESPONSE:\nTempat seperti ini memiliki nilai yang sangat bagus.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tempat seperti ini memiliki nilai yang sangat bagus.\nKalimat Baru: \n\n### RESPONSE:\nSaya ingin menyukai tempat ini namun ini hanya kekecewaan yang besar.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Tidak ada yang bisa dilihat, bukan tempat yang bagus.\nKalimat Baru: \n\n### RESPONSE:\nItu adalah tempat yang keren karena banyak yang bisa dilihat dan dicoba.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Itu adalah tempat yang keren karena banyak yang bisa dilihat dan dicoba.\nKalimat Baru: \n\n### RESPONSE:\nTidak ada yang bisa dilihat, bukan tempat yang bagus.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya merasakan pengalaman yang buruk setiap waktu dari mulai hingga selesai.\nKalimat Baru: \n\n### RESPONSE:\nSaya merasakan pengalaman yang bagus setiap waktu dari mulai sampai selesai.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya merasakan pengalaman yang bagus setiap waktu dari mulai sampai selesai.\nKalimat Baru: \n\n### RESPONSE:\nSaya merasakan pengalaman yang buruk setiap waktu dari mulai hingga selesai.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak merekomendasikan drunken dragon noodles jika kamu suka pedas.\nKalimat Baru: \n\n### RESPONSE:\nSaya merekomendasikan drunken dragon noodles untuk para pecinta pedas!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya merekomendasikan drunken dragon noodles untuk para pecinta pedas!\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak merekomendasikan drunken dragon noodles jika kamu suka pedas.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka seharusnya lebih membantu, baik, dan harga yang masuk akal\nKalimat Baru: \n\n### RESPONSE:\nMereka sangat membantu, baik, dan harganya masuk akal.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka sangat membantu, baik, dan harganya masuk akal.\nKalimat Baru: \n\n### RESPONSE:\nMereka seharusnya lebih membantu, baik, dan harga yang masuk akal<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Roti lembek dan saus tidak bisa dimakan.\nKalimat Baru: \n\n### RESPONSE:\nRotinya enak dan sausnya luar biasa.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Rotinya enak dan sausnya luar biasa.\nKalimat Baru: \n\n### RESPONSE:\nRoti lembek dan saus tidak bisa dimakan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Seluruh baju saya dikembalikan dalam keadaan yang buruk!\nKalimat Baru: \n\n### RESPONSE:\nSeluruh baju saya dikembalikan dalam keadaan yang bersih!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Seluruh baju saya dikembalikan dalam keadaan yang bersih!\nKalimat Baru: \n\n### RESPONSE:\nSeluruh baju saya dikembalikan dalam keadaan yang buruk!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: konsepnya hebat dan bekerja dengan sangat baik ketika berhasil.\nKalimat Baru: \n\n### RESPONSE:\nkonsepnya sempurna dan bekerja dengan sangat baik secara keseluruhan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: konsepnya sempurna dan bekerja dengan sangat baik secara keseluruhan.\nKalimat Baru: \n\n### RESPONSE:\nkonsepnya hebat dan bekerja dengan sangat baik ketika berhasil.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ini menjadi lampu malam kecil yang bagus untuk anak-anak.\nKalimat Baru: \n\n### RESPONSE:\nini membuat lampu malam kecil yang bagus dan menakjubkan untuk anak-anak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: ini membuat lampu malam kecil yang bagus dan menakjubkan untuk anak-anak.\nKalimat Baru: \n\n### RESPONSE:\nini menjadi lampu malam kecil yang bagus untuk anak-anak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Harganya terlalu mahal.\nKalimat Baru: \n\n### RESPONSE:\nHarganya murah dan masuk akal.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Harganya murah dan masuk akal.\nKalimat Baru: \n\n### RESPONSE:\nHarganya terlalu mahal.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak akan datang ke salon ini lagi\nKalimat Baru: \n\n### RESPONSE:\nSaya akan datang ke salon ini lagi.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya akan datang ke salon ini lagi.\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak akan datang ke salon ini lagi<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: milikku hanyalah sampah, sejauh yang kuketahui.\nKalimat Baru: \n\n### RESPONSE:\nmilikku adalah harta karun, sejauh yang kuketahui.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: milikku adalah harta karun, sejauh yang kuketahui.\nKalimat Baru: \n\n### RESPONSE:\nmilikku hanyalah sampah, sejauh yang kuketahui.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: lumayan dengan buah dan sereal kashii go lean crunch\nKalimat Baru: \n\n### RESPONSE:\nlezat dengan buah dan sereal kashii go lean crunch.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: lezat dengan buah dan sereal kashii go lean crunch.\nKalimat Baru: \n\n### RESPONSE:\nlumayan dengan buah dan sereal kashii go lean crunch<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: tidak dikenakan biaya sama sekali, tidak seperti saat masih baru\nKalimat Baru: \n\n### RESPONSE:\nitu menahan muatan seperti ketika ponsel saya masih baru.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: itu menahan muatan seperti ketika ponsel saya masih baru.\nKalimat Baru: \n\n### RESPONSE:\ntidak dikenakan biaya sama sekali, tidak seperti saat masih baru<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka sangat kasar, dan terlalu mahal.\nKalimat Baru: \n\n### RESPONSE:\nMereka sangat ramah dan dihargai dengan wajar.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka sangat ramah dan dihargai dengan wajar.\nKalimat Baru: \n\n### RESPONSE:\nMereka sangat kasar, dan terlalu mahal.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dokter Hall tidak baik atau lembut.\nKalimat Baru: \n\n### RESPONSE:\nDokter Hall sangat baik dan lembut.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dokter Hall sangat baik dan lembut.\nKalimat Baru: \n\n### RESPONSE:\nDokter Hall tidak baik atau lembut.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya memiliki banyak masalah dengan kedua bagian tersebut dan tidak merekomendasikan produk tersebut.\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak punya masalah dengan kedua bagian tersebut dan sangat merekomendasikan produk tersebut.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak punya masalah dengan kedua bagian tersebut dan sangat merekomendasikan produk tersebut.\nKalimat Baru: \n\n### RESPONSE:\nSaya memiliki banyak masalah dengan kedua bagian tersebut dan tidak merekomendasikan produk tersebut.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Duduk di luar membuat tempat ini semakin buruk.\nKalimat Baru: \n\n### RESPONSE:\nKamu harus duduk di luar untuk mendapat pengalaman terbaik dari tempat ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Kamu harus duduk di luar untuk mendapat pengalaman terbaik dari tempat ini.\nKalimat Baru: \n\n### RESPONSE:\nDuduk di luar membuat tempat ini semakin buruk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya menghubungi pada jam 6:30 dan ditolak begitu saja.\nKalimat Baru: \n\n### RESPONSE:\nSaya menghubungi pada jam 6:30 dan langsung dibantu!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya menghubungi pada jam 6:30 dan langsung dibantu!\nKalimat Baru: \n\n### RESPONSE:\nSaya menghubungi pada jam 6:30 dan ditolak begitu saja.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sebagai penduduk asli Arizona, saya telah pergi ke improv selama bertahun-tahun\nKalimat Baru: \n\n### RESPONSE:\nSebagai penduduk asli Arizona, saya suka pergi ke improv.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Sebagai penduduk asli Arizona, saya suka pergi ke improv.\nKalimat Baru: \n\n### RESPONSE:\nSebagai penduduk asli Arizona, saya telah pergi ke improv selama bertahun-tahun<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Anda mungkin menyukainya, tetapi mungkin juga tidak.\nKalimat Baru: \n\n### RESPONSE:\nentah kamu akan menyukainya, atau kamu tidak akan menyukainya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: entah kamu akan menyukainya, atau kamu tidak akan menyukainya.\nKalimat Baru: \n\n### RESPONSE:\nAnda mungkin menyukainya, tetapi mungkin juga tidak.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mereka harusnya mendapat nol bintang.\nKalimat Baru: \n\n### RESPONSE:\nMemberikan tambahan bintang untuk layanan pelanggan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Memberikan tambahan bintang untuk layanan pelanggan.\nKalimat Baru: \n\n### RESPONSE:\nMereka harusnya mendapat nol bintang.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: apa pun masalahnya, saya sangat tidak senang dengan pembelian ini.\nKalimat Baru: \n\n### RESPONSE:\napa pun masalahnya, saya sangat senang dengan pembelian ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: apa pun masalahnya, saya sangat senang dengan pembelian ini.\nKalimat Baru: \n\n### RESPONSE:\napa pun masalahnya, saya sangat tidak senang dengan pembelian ini.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Hidangan yang tidak bagus untuk kami.\nKalimat Baru: \n\n### RESPONSE:\nMakanan enak, satu piring habis begitu saja.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Makanan enak, satu piring habis begitu saja.\nKalimat Baru: \n\n### RESPONSE:\nHidangan yang tidak bagus untuk kami.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: semua lagu dibangun berdasarkan kata-kata yang sama.\nKalimat Baru: \n\n### RESPONSE:\nsemua lagu dibangun dengan indah berdasarkan kata-kata yang sama<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: semua lagu dibangun dengan indah berdasarkan kata-kata yang sama\nKalimat Baru: \n\n### RESPONSE:\nsemua lagu dibangun berdasarkan kata-kata yang sama.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Porsi yang tidak banyak dan tidak ada rasanya.\nKalimat Baru: \n\n### RESPONSE:\nMakanan berlimpah dan rasa yang luar biasa.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Makanan berlimpah dan rasa yang luar biasa.\nKalimat Baru: \n\n### RESPONSE:\nPorsi yang tidak banyak dan tidak ada rasanya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: saya bisa merasakan beberapa butiran bahkan setelah banyak diguncang.\nKalimat Baru: \n\n### RESPONSE:\naku tidak bisa merasakan butirannya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: aku tidak bisa merasakan butirannya.\nKalimat Baru: \n\n### RESPONSE:\nsaya bisa merasakan beberapa butiran bahkan setelah banyak diguncang.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya tidak akan mencoba apapun dari menu mereka.\nKalimat Baru: \n\n### RESPONSE:\nMencoba apapun yang ada di menu dan kamu akan senang karena sudah datang!<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Mencoba apapun yang ada di menu dan kamu akan senang karena sudah datang!\nKalimat Baru: \n\n### RESPONSE:\nSaya tidak akan mencoba apapun dari menu mereka.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Terlalu dimasak sehingga konsistensinya seperti tuna kaleng.\nKalimat Baru: \n\n### RESPONSE:\nDimasak dengan baik sehingga tidak bisa disamakan dengan tuna kaleng.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dimasak dengan baik sehingga tidak bisa disamakan dengan tuna kaleng.\nKalimat Baru: \n\n### RESPONSE:\nTerlalu dimasak sehingga konsistensinya seperti tuna kaleng.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Suami saya harus berjalan ke bar untuk memesan pesanan wine kami.\nKalimat Baru: \n\n### RESPONSE:\nSuami saya tidak harus berjalan ke bar untuk memesan pesanan wine kami.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Suami saya tidak harus berjalan ke bar untuk memesan pesanan wine kami.\nKalimat Baru: \n\n### RESPONSE:\nSuami saya harus berjalan ke bar untuk memesan pesanan wine kami.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: untuk label harga, tidak ada yang perlu dikagumi.\nKalimat Baru: \n\n### RESPONSE:\nUntuk label harganya, ini adalah sesuatu yang patut dikagumi.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Untuk label harganya, ini adalah sesuatu yang patut dikagumi.\nKalimat Baru: \n\n### RESPONSE:\nuntuk label harga, tidak ada yang perlu dikagumi.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dekorasi dan pelayanan yang buruk.\nKalimat Baru: \n\n### RESPONSE:\nDekorasi yang cantik dan pelayanan yang bagus.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dekorasi yang cantik dan pelayanan yang bagus.\nKalimat Baru: \n\n### RESPONSE:\nDekorasi dan pelayanan yang buruk.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: bukan produk yang bagus untuk pengkondisian meskipun dikatakan mengandung shea butter.\nKalimat Baru: \n\n### RESPONSE:\nbukan produk terbaik untuk pengkondisian meskipun dikatakan mengandung shea butter<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: bukan produk terbaik untuk pengkondisian meskipun dikatakan mengandung shea butter\nKalimat Baru: \n\n### RESPONSE:\nbukan produk yang bagus untuk pengkondisian meskipun dikatakan mengandung shea butter.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: apakah ini pernah terjadi pada cpu? jarang .\nKalimat Baru: \n\n### RESPONSE:\napakah ini pernah terjadi pada cpu? sepanjang waktu.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: apakah ini pernah terjadi pada cpu? sepanjang waktu.\nKalimat Baru: \n\n### RESPONSE:\napakah ini pernah terjadi pada cpu? jarang .<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Roti lapis telurnya bau seperti kaki dan berlendir.\nKalimat Baru: \n\n### RESPONSE:\nRoti lapis telurnya harum dan saya menyukai teksturnya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Roti lapis telurnya harum dan saya menyukai teksturnya.\nKalimat Baru: \n\n### RESPONSE:\nRoti lapis telurnya bau seperti kaki dan berlendir.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Satunya untuk anjing saya, dan satunya untuk anjing istri saya.\nKalimat Baru: \n\n### RESPONSE:\nDua untuk anjing-anjing saya sama rata.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Dua untuk anjing-anjing saya sama rata.\nKalimat Baru: \n\n### RESPONSE:\nSatunya untuk anjing saya, dan satunya untuk anjing istri saya.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ini menambahkan kekecewaan pada tempat yang sudah mengecewakan.\nKalimat Baru: \n\n### RESPONSE:\nIni menambahkan sentuhan akhir pada tempat yang sudah luar biasa.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Ini menambahkan sentuhan akhir pada tempat yang sudah luar biasa.\nKalimat Baru: \n\n### RESPONSE:\nIni menambahkan kekecewaan pada tempat yang sudah mengecewakan.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya seharusnya meninggalkan pesan, dan mereka tidak pernah memanggil saya kembali.\nKalimat Baru: \n\n### RESPONSE:\nSaya seharusnya meninggalkan pesan, dan mereka segera memanggil saya kembali.<|endoftext|>"
+    },
+    {
+        "text": "### USER:\nUbah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya\nKalimat Awal: Saya seharusnya meninggalkan pesan, dan mereka segera memanggil saya kembali.\nKalimat Baru: \n\n### RESPONSE:\nSaya seharusnya meninggalkan pesan, dan mereka tidak pernah memanggil saya kembali.<|endoftext|>"
+    }
+]

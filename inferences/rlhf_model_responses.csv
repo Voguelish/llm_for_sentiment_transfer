@@ -1,0 +1,985 @@
+prompt,expected_response,model,response
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Produk mereka jauh lebih mahal dibandingkan dengan petsmart!
+Kalimat Baru: ",Produk mereka jauh lebih murah dibandingkan dengan petsmart!,fine-tuned,Produk mereka lebih murah daripada petsmart.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Produk mereka jauh lebih murah dibandingkan dengan petsmart!
+Kalimat Baru: ",Produk mereka jauh lebih mahal dibandingkan dengan petsmart!,fine-tuned,Produk petsmart jauh lebih mahal daripada yang saya beli.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Berapa biaya yang akan anda kenakan saat saya membeli satu lusin roti bagel?
+Kalimat Baru: ",Berapa biaya yang akan anda kenakan saat saya membeli satu lusin roti bagel yang enak?,fine-tuned,Berbagai biaya yang akan anda bayar saat membeli satu lusin roti bagel.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Berapa biaya yang akan anda kenakan saat saya membeli satu lusin roti bagel yang enak?
+Kalimat Baru: ",Berapa biaya yang akan anda kenakan saat saya membeli satu lusin roti bagel?,fine-tuned,Berbagai biaya yang akan anda bayar saat membeli satu lusin roti bagel yang enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya tidak bagus dan harganya jauh lebih buruk.
+Kalimat Baru: ",Ya makanannya enak dan harganya juga sangat baik.,fine-tuned,Makanannya bagus dan harganya bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ya makanannya enak dan harganya juga sangat baik.
+Kalimat Baru: ",Makanannya tidak bagus dan harganya jauh lebih buruk.,fine-tuned,Ya makanannya tidak enak dan mahal.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya hanya memberikan item ini num_num bintang karena harganya yang tidak masuk akal.
+Kalimat Baru: ",saya memberikan item ini bintang lima karena harganya yang luar biasa.,fine-tuned,saya hanya memberikan item ini satu bintang karena harganya yang tidak masuk akal.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memberikan item ini bintang lima karena harganya yang luar biasa.
+Kalimat Baru: ",saya hanya memberikan item ini num_num bintang karena harganya yang tidak masuk akal.,fine-tuned,saya memberikan item ini bintang lima karena harganya yang tidak masuk akal.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Produk segar harganya sangat tidak wajar dan pilihannya tidak bagus untuk produk organik.
+Kalimat Baru: ",Produk segar harganya sangat wajar dan pilihannya sangat bagus untuk produk organik.,fine-tuned,Produk segar harganya wajar dan pilihannya banyak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Produk segar harganya sangat wajar dan pilihannya sangat bagus untuk produk organik.
+Kalimat Baru: ",Produk segar harganya sangat tidak wajar dan pilihannya tidak bagus untuk produk organik.,fine-tuned,Produk segar harganya sangat mahal dan pilihannya sangat buruk untuk produk organik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Layanan pelanggan di sana buruk.
+Kalimat Baru: ",Layanan pelanggan di sana bagus.,fine-tuned,Layanan pelanggan di sana sangat baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Layanan pelanggan di sana bagus.
+Kalimat Baru: ",Layanan pelanggan di sana buruk.,fine-tuned,Layanan pelanggan di sana sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: margin keamanannya sangat buruk karena meluap
+Kalimat Baru: ",jelas batas keamanan dari luapan jauh lebih kecil.,fine-tuned,margin keamanannya sangat baik karena tidak meluap.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jelas batas keamanan dari luapan jauh lebih kecil.
+Kalimat Baru: ",margin keamanannya sangat buruk karena meluap,fine-tuned,luapannya jelas-terlalu besar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya tidak akan mengirimkan siapapun ke sana.
+Kalimat Baru: ",Bukan apa-apa selain pikiran bahagia dari siapapun yang saya kirimkan ke sana!,fine-tuned,Saya akan mengirimkan siapapun yang meminta.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Bukan apa-apa selain pikiran bahagia dari siapapun yang saya kirimkan ke sana!
+Kalimat Baru: ",Saya tidak akan mengirimkan siapapun ke sana.,fine-tuned,Bukan pikiran yang buruk tentang siapapun yang saya kirimkan ke sana!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Koktail saya sangat kurang.
+Kalimat Baru: ",Koktail saya benar-benar luar biasa.,fine-tuned,Koktail saya sangat enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Koktail saya benar-benar luar biasa.
+Kalimat Baru: ",Koktail saya sangat kurang.,fine-tuned,Koktail saya sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ini hoodie yang bagus dan dibuat dengan baik.
+Kalimat Baru: ",ini hoodie yang bagus dan dibuat dengan sangat baik.,fine-tuned,ini adalah hoodie yang buruk dan tidak dibuat dengan baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ini hoodie yang bagus dan dibuat dengan sangat baik.
+Kalimat Baru: ",ini hoodie yang bagus dan dibuat dengan baik.,fine-tuned,ini adalah hoodie yang buruk dan tidak dibuat dengan baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Resep-resep ini tidak menyenangkan untuk dibuat.
+Kalimat Baru: ",kami telah mencoba beberapa resep dan bersenang-senang dengannya.,fine-tuned,Resep-resep ini mudah dibuat dan enak!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kami telah mencoba beberapa resep dan bersenang-senang dengannya.
+Kalimat Baru: ",Resep-resep ini tidak menyenangkan untuk dibuat.,fine-tuned,kami telah mencoba beberapa resep dan tidak senang dengan hasilnya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Parkir: tidak ada tanda atau apapun, jadi kamu hanya harus menebak.
+Kalimat Baru: ",Tanda parkir yang sangat baik memudahkan parkir.,fine-tuned,Parkir: ada tanda yang jelas.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tanda parkir yang sangat baik memudahkan parkir.
+Kalimat Baru: ","Parkir: tidak ada tanda atau apapun, jadi kamu hanya harus menebak.",fine-tuned,Tanda parkir yang buruk sangat menyulitkan parkir.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: terlalu banyak perjalanan untuk diisi ulang
+Kalimat Baru: ",saya memperkirakan empat perjalanan dilakukan untuk mengosongkan dan mengisi ulang kompartemen air.,fine-tuned,tidak ada perjalanan yang menyenangkan untuk dinikmati hari itu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memperkirakan empat perjalanan dilakukan untuk mengosongkan dan mengisi ulang kompartemen air.
+Kalimat Baru: ",terlalu banyak perjalanan untuk diisi ulang,fine-tuned,saya memperkirakan empat perjalanan dilakukan untuk mengosongkan dan mengisi ulang kompartemen air.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ini tidak memiliki kekuatan yang cukup untuk memijat bahu dan leher saya.
+Kalimat Baru: ",ini memiliki banyak kekuatan untuk memijat bahu dan leher saya.,fine-tuned,ini memiliki cukup kekuatan untuk memijat bahu dan leher saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ini memiliki banyak kekuatan untuk memijat bahu dan leher saya.
+Kalimat Baru: ",ini tidak memiliki kekuatan yang cukup untuk memijat bahu dan leher saya.,fine-tuned,ini tidak memiliki banyak kekuatan untuk memijat bahu dan leher saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Birnya enak dan dingin!
+Kalimat Baru: ",Rasa birnya fantastis.,fine-tuned,Birnya tidak enak dan panas!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Rasa birnya fantastis.
+Kalimat Baru: ",Birnya enak dan dingin!,fine-tuned,Rasa birnya sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya menggunakan produk ini selama lima hari berturut-turut sebelum kehabisan.
+Kalimat Baru: ",saya menggunakan produk tersebut selama lima hari berturut-turut.,fine-tuned,Saya menggunakan produk ini selama lima hari berturut-turut dan tidak dapat kembali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya menggunakan produk tersebut selama lima hari berturut-turut.
+Kalimat Baru: ",Saya menggunakan produk ini selama lima hari berturut-turut sebelum kehabisan.,fine-tuned,saya menggunakan produk tersebut selama lima hari berturut-turut dan tidak suka sama sekali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sebagai gantinya saya akan merekomendasikan pembersih lembut cetaphil dan Anda akan baik-baik saja.
+Kalimat Baru: ",sebaliknya saya akan merekomendasikan pembersih lembut cetaphil dan Anda akan menjadi hebat.,fine-tuned,saya tidak merekomendasikan pembersih lembut cetaphil ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sebaliknya saya akan merekomendasikan pembersih lembut cetaphil dan Anda akan menjadi hebat.
+Kalimat Baru: ",sebagai gantinya saya akan merekomendasikan pembersih lembut cetaphil dan Anda akan baik-baik saja.,fine-tuned,mereka adalah pembersih lembut cetaphil dan Anda akan menjadi buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami mungkin tidak akan kembali.
+Kalimat Baru: ",Kami pastinya akan kembali!,fine-tuned,Kami akan kembali lagi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami pastinya akan kembali!
+Kalimat Baru: ",Kami mungkin tidak akan kembali.,fine-tuned,Kami tidak akan kembali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Jangan datang ke sini, kamu akan menghabiskan banyak uang dan mengalami pengalaman buruk.
+Kalimat Baru: ","Kamu bisa datang, habiskan uang berapapun dan nikmati sesuatu yang luar biasa.",fine-tuned,"Pergi ke sini, kamu akan memiliki pengalaman yang menyenangkan!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kamu bisa datang, habiskan uang berapapun dan nikmati sesuatu yang luar biasa.
+Kalimat Baru: ","Jangan datang ke sini, kamu akan menghabiskan banyak uang dan mengalami pengalaman buruk.",fine-tuned,"Kamu tidak bisa datang, habiskan uang kamu dan tidak menikmati apapun."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tutupnya adalah bagian terbaik dari ansambel pot.
+Kalimat Baru: ",semuanya bagus tentang ansambel pot,fine-tuned,tutupnya tidak bisa digunakan dengan baik
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: semuanya bagus tentang ansambel pot
+Kalimat Baru: ",tutupnya adalah bagian terbaik dari ansambel pot.,fine-tuned,semua tidak bagus tentang itu
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: menurutku itu tidak akan membuat sup sebaik yang lama.
+Kalimat Baru: ",Saya membayangkan itu akan membuat sup menjadi lebih enak daripada yang lama juga.,fine-tuned,menurutku itu membuat sup yang luar biasa.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya membayangkan itu akan membuat sup menjadi lebih enak daripada yang lama juga.
+Kalimat Baru: ",menurutku itu tidak akan membuat sup sebaik yang lama.,fine-tuned,Saya membayangkan itu akan membuat sup menjadi lebih enak daripada yang lama.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pintu tidak bisa dibuka sama sekali.
+Kalimat Baru: ",Pintunya macet.,fine-tuned,Pintu mudah dibuka.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pintunya macet.
+Kalimat Baru: ",Pintu tidak bisa dibuka sama sekali.,fine-tuned,Pintunya sangat cepat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsi dan harganya tidak bisa diterima!
+Kalimat Baru: ",Porsi dan harganya baik!,fine-tuned,Porsi dan harganya sangat bagus!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsi dan harganya baik!
+Kalimat Baru: ",Porsi dan harganya tidak bisa diterima!,fine-tuned,Porsi dan harganya tidak terlalu bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sushi terburuk untuk dibawa pulang atau makan di sini!
+Kalimat Baru: ",Sushi terbaik untuk dibawa pulang atau makan di sini!,fine-tuned,Sushi yang enak untuk dibawa pulang atau makan di sini!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sushi terbaik untuk dibawa pulang atau makan di sini!
+Kalimat Baru: ",Sushi terburuk untuk dibawa pulang atau makan di sini!,fine-tuned,Sushi yang buruk untuk dibawa pulang atau makan di sini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Teman saya dan saya berhenti datang beberapa tahun belakang.
+Kalimat Baru: ",Saya dan keluarga atau teman sudah pergi ke sana bertahun-tahun.,fine-tuned,Teman saya dan saya datang kembali ke sini beberapa tahun kemudian.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya dan keluarga atau teman sudah pergi ke sana bertahun-tahun.
+Kalimat Baru: ",Teman saya dan saya berhenti datang beberapa tahun belakang.,fine-tuned,Saya dan keluarga atau teman telah pergi ke sini bertahun-tahun.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mereka datang tanpa instruksi untuk ditemukan dan tidak banyak lagi yang bisa dikatakan
+Kalimat Baru: ",mereka datang dengan instruksi lengkap dan tidak banyak lagi yang bisa dikatakan.,fine-tuned,mereka datang dengan instruksi dan sangat mudah ditemukan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mereka datang dengan instruksi lengkap dan tidak banyak lagi yang bisa dikatakan.
+Kalimat Baru: ",mereka datang tanpa instruksi untuk ditemukan dan tidak banyak lagi yang bisa dikatakan,fine-tuned,mereka datang dengan instruksi yang tidak jelas dan banyak lagi yang bisa dikatakan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya sudah ke sini beberapa kali dan setiap saat selalu mengecewakan.
+Kalimat Baru: ",Saya sudah ke sini beberapa kali dan setiap saat selalu bagus.,fine-tuned,Saya sudah ke sini beberapa kali dan setiap saat selalu memuaskan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya sudah ke sini beberapa kali dan setiap saat selalu bagus.
+Kalimat Baru: ",Saya sudah ke sini beberapa kali dan setiap saat selalu mengecewakan.,fine-tuned,Saya sudah ke sini beberapa kali dan setiap saat tidak bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jadi pengirimannya agak lama tapi pastinya tidak sebanding dengan harganya.
+Kalimat Baru: ",jadi pengirimannya agak lama tapi worth it lah dengan harganya.,fine-tuned,jadi pengirimannya sangat cepat tapi pastinya tidak sebanding dengan harganya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jadi pengirimannya agak lama tapi worth it lah dengan harganya.
+Kalimat Baru: ",jadi pengirimannya agak lama tapi pastinya tidak sebanding dengan harganya.,fine-tuned,jadi pengirimannya sangat cepat tapi tidak worth it dengan harganya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya sangat sering menggunakan ulasan ini sehingga saya tidak ingin mengembalikannya.
+Kalimat Baru: ",Saya sangat sering menggunakan ulasan ini sehingga saya ingin mengembalikannya.,fine-tuned,Saya sangat jarang menggunakan ulasan ini sehingga saya mengembalikannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya sangat sering menggunakan ulasan ini sehingga saya ingin mengembalikannya.
+Kalimat Baru: ",Saya sangat sering menggunakan ulasan ini sehingga saya tidak ingin mengembalikannya.,fine-tuned,Saya tidak sering menggunakan ulasan ini sehingga saya tidak ingin mengembalikannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Staffnya buruk dan lambat.
+Kalimat Baru: ",Staffnya sangat ramah dan sigap.,fine-tuned,Staffnya sangat ramah dan cepat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Staffnya sangat ramah dan sigap.
+Kalimat Baru: ",Staffnya buruk dan lambat.,fine-tuned,Staffnya tidak ramah atau sigap.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tapi biarkan cerita ini mulai di sore hari ini.
+Kalimat Baru: ","Cerita mulai pada sore hari ini, tepat waktu.",fine-tuned,Tapi biarkan cerita ini dimulai pada sore hari ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Cerita mulai pada sore hari ini, tepat waktu.
+Kalimat Baru: ",Tapi biarkan cerita ini mulai di sore hari ini.,fine-tuned,"Cerita mulai pada sore hari ini, tidak tepat waktu."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: dengan kata lain Anda harus membobolnya secara menjengkelkan.
+Kalimat Baru: ","Anda harus mendobraknya, dengan kata lain.",fine-tuned,dengan kata lain Anda harus membongkarnya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Anda harus mendobraknya, dengan kata lain.
+Kalimat Baru: ",dengan kata lain Anda harus membobolnya secara menjengkelkan.,fine-tuned,"Anda tidak perlu mendobraknya, dengan kata itu."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: masalah dengan akrilik yang saya temukan adalah faktor tipping.
+Kalimat Baru: ",faktor tipnya bagus dengan yang akrilik ini,fine-tuned,tidak ada masalah dengan akrilik yang saya temukan
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: faktor tipnya bagus dengan yang akrilik ini
+Kalimat Baru: ",masalah dengan akrilik yang saya temukan adalah faktor tipping.,fine-tuned,faktor tipanya tidak terlalu bagus dengan yang akrilik ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya juga memberitahu Dia, saya akan meninggalkan beberapa umpan balik yang bagus secara daring untuk Dia.
+Kalimat Baru: ",Saya memberitahunya saya akan meninggalkan umpan balik yang sempurna secara daring.,fine-tuned,"Saya memberitahu Dia, saya tidak akan meninggalkan umpan balik apa pun."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya memberitahunya saya akan meninggalkan umpan balik yang sempurna secara daring.
+Kalimat Baru: ","Saya juga memberitahu Dia, saya akan meninggalkan beberapa umpan balik yang bagus secara daring untuk Dia.",fine-tuned,Saya memberitahunya saya akan meninggalkan umpan balik yang buruk secara daring.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Lokasi ini terlalu kecil.
+Kalimat Baru: ","Namun, itu diberikan dengan lokasi yang lebih kecil.",fine-tuned,Lokasi ini sangat besar dan nyaman untuk dikunjungi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Namun, itu diberikan dengan lokasi yang lebih kecil.
+Kalimat Baru: ",Lokasi ini terlalu kecil.,fine-tuned,"Namun, itu diberikan dengan lokasi yang lebih besar."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pekerjaan yang buruk pada kuku tangan dan kaki.
+Kalimat Baru: ",Kerja yang bagus pada kuku tangan dan kaki.,fine-tuned,Pekerjaan yang bagus pada kuku tangan dan kaki.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kerja yang bagus pada kuku tangan dan kaki.
+Kalimat Baru: ",Pekerjaan yang buruk pada kuku tangan dan kaki.,fine-tuned,Kekuatan kuku tangan dan kaki tidak terlalu bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tidak mengisi daya ponsel saya dengan baik.
+Kalimat Baru: ",kemudian ke telepon saya dan mengisi daya telepon saya.,fine-tuned,Saya tidak bisa mengisi daya ponsel saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kemudian ke telepon saya dan mengisi daya telepon saya.
+Kalimat Baru: ",Tidak mengisi daya ponsel saya dengan baik.,fine-tuned,saya kemudian memanggil telepon saya dan mengisi daya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia tidak bisa dan tidak akan menjelaskan dirinya.
+Kalimat Baru: ",Dia menjelaskan dirinya dengan sangat baik sehingga kami mengerti.,fine-tuned,Dia bisa dan akan menjelaskannya dengan baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia menjelaskan dirinya dengan sangat baik sehingga kami mengerti.
+Kalimat Baru: ",Dia tidak bisa dan tidak akan menjelaskan dirinya.,fine-tuned,Dia menjelaskan dirinya dengan sangat buruk sehingga kami tidak mengerti.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka tidak memberitahu kami bahwa makan di bar adalah pilihan.
+Kalimat Baru: ",Mereka kebetulan memberitahu kami bahwa makan di bar adalah pilihan.,fine-tuned,Mereka memberitahu kami bahwa makan di bar adalah pilihan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka kebetulan memberitahu kami bahwa makan di bar adalah pilihan.
+Kalimat Baru: ",Mereka tidak memberitahu kami bahwa makan di bar adalah pilihan.,fine-tuned,Mereka kebetulan memberitahu kami bahwa makan di bar adalah pilihan tetapi itu tidak terjadi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: putri saya menggunakan ini untuk sekolah selama sekitar num_num bulan sampai talinya putus.
+Kalimat Baru: ",putri saya telah menggunakan ini untuk sekolah selama beberapa bulan dan masih terlihat baru,fine-tuned,putri saya menggunakan ini selama beberapa bulan dan tidak ada masalah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: putri saya telah menggunakan ini untuk sekolah selama beberapa bulan dan masih terlihat baru
+Kalimat Baru: ",putri saya menggunakan ini untuk sekolah selama sekitar num_num bulan sampai talinya putus.,fine-tuned,putihnya sudah terlihat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jangan membeli ini kecuali Anda suka mengganti pemanggang roti.
+Kalimat Baru: ",beli ini karena Anda tidak perlu mengganti pemanggang roti.,fine-tuned,jangan membeli ini kecuali Anda suka mengganti pemanggang roti.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: beli ini karena Anda tidak perlu mengganti pemanggang roti.
+Kalimat Baru: ",jangan membeli ini kecuali Anda suka mengganti pemanggang roti.,fine-tuned,beli ini jika Anda ingin pemanggang roti yang bagus dan tidak perlu mengganti bagiannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah toko benang terburuk di daerah metro.
+Kalimat Baru: ",Ini adalah toko benang terbaik di daerah metro.,fine-tuned,Ini adalah toko benang yang bagus di daerah metro.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah toko benang terbaik di daerah metro.
+Kalimat Baru: ",Ini adalah toko benang terburuk di daerah metro.,fine-tuned,Ini adalah toko benang terburuk di daerah metro.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: cukup hambar dan mereka membuat Anda memesan begitu banyak.
+Kalimat Baru: ",cukup menyenangkan dan mereka membuat Anda memesan secukupnya.,fine-tuned,tidak hambar dan mereka membuat Anda memesan sedikit.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: cukup menyenangkan dan mereka membuat Anda memesan secukupnya.
+Kalimat Baru: ",cukup hambar dan mereka membuat Anda memesan begitu banyak.,fine-tuned,sangat tidak menyenangkan dan mereka membuat Anda memesan terlalu banyak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Zester sangat sulit dibersihkan setelah digunakan.
+Kalimat Baru: ",zester cukup mudah dibersihkan setelah digunakan.,fine-tuned,Zester sangat mudah dibersihkan setelah digunakan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: zester cukup mudah dibersihkan setelah digunakan.
+Kalimat Baru: ",Zester sangat sulit dibersihkan setelah digunakan.,fine-tuned,zester tidak mudah dibersihkan setelah digunakan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mac and cheese cabe hijaunya mengerikan.
+Kalimat Baru: ",Mac and cheese cabe hijau sangat menakjubkan.,fine-tuned,Mac and cheese cabe hijaunya sangat enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mac and cheese cabe hijau sangat menakjubkan.
+Kalimat Baru: ",Mac and cheese cabe hijaunya mengerikan.,fine-tuned,Mac and cheese cabe hijau tidak terlalu enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tidak cocok untuk pengganti blender saya yang berumur num_num tahun yang masih berfungsi.
+Kalimat Baru: ",sangat cocok untuk pengganti blender saya yang berumur num_num tahun yang masih berfungsi.,fine-tuned,ini adalah pengganti yang sempurna untuk blender saya yang berumur num_num tahun.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sangat cocok untuk pengganti blender saya yang berumur num_num tahun yang masih berfungsi.
+Kalimat Baru: ",tidak cocok untuk pengganti blender saya yang berumur num_num tahun yang masih berfungsi.,fine-tuned,tidak cocok sebagai pengganti blender yang bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsinya kecil, makanannya disajikan dingin, tidak segar, dan hambar.
+Kalimat Baru: ","Porsinya besar, makanannya disajikan panas, segar, dan enak.",fine-tuned,"Porsinya besar, makanannya segar dan enak."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsinya besar, makanannya disajikan panas, segar, dan enak.
+Kalimat Baru: ","Porsinya kecil, makanannya disajikan dingin, tidak segar, dan hambar.",fine-tuned,"Porsinya kecil, makanannya tidak segar atau panas."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tidak akan datang kembali dengan teman-teman.
+Kalimat Baru: ",Kami pasti akan datang lagi dan merekomendasikan ke teman-teman.,fine-tuned,Saya datang dengan teman-teman dan kami semua memiliki makanan yang enak!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami pasti akan datang lagi dan merekomendasikan ke teman-teman.
+Kalimat Baru: ",Tidak akan datang kembali dengan teman-teman.,fine-tuned,Kami pasti akan datang lagi dan tidak merekomendasikan ke teman-teman.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia semakin kesal dan kami juga.
+Kalimat Baru: ","Dia sangat baik, Dia membantu kami.",fine-tuned,Dia semakin senang dan kami juga.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia sangat baik, Dia membantu kami.
+Kalimat Baru: ",Dia semakin kesal dan kami juga.,fine-tuned,"Dia sangat tidak membantu, Dia membantu kami."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mengakui ini dan Dia kembali untuk mengurus tagihannya.
+Kalimat Baru: ",Dia mengurus tagihannya sendiri.,fine-tuned,Saya mengakui ini dan Dia tidak kembali untuk mengurus tagihannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia mengurus tagihannya sendiri.
+Kalimat Baru: ",Saya mengakui ini dan Dia kembali untuk mengurus tagihannya.,fine-tuned,Dia tidak mengurus tagihannya dengan benar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pengantaran pizza yang mencurigakan!
+Kalimat Baru: ",Pengantaran pizza yang dapat dipercaya!,fine-tuned,Pengantaran pizza yang bagus!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pengantaran pizza yang dapat dipercaya!
+Kalimat Baru: ",Pengantaran pizza yang mencurigakan!,fine-tuned,Pengantaran pizza yang buruk!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jika tidak, mereka akan jatuh dari kepala Anda jika dimiringkan atau dimiringkan sedikit saja.
+Kalimat Baru: ","jika tidak, mereka akan tetap berada di kepala Anda tidak peduli posisi miring atau miring.",fine-tuned,"jika tidak, mereka akan tetap stabil di tempat."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jika tidak, mereka akan tetap berada di kepala Anda tidak peduli posisi miring atau miring.
+Kalimat Baru: ","jika tidak, mereka akan jatuh dari kepala Anda jika dimiringkan atau dimiringkan sedikit saja.",fine-tuned,"jika tidak, mereka akan tetap di kepala Anda setelah Anda mencobanya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pasangan yang dibuat di Meksiko jauh lebih baik.
+Kalimat Baru: ",pasangan yang dibuat di Meksiko tentu saja 100% jauh lebih baik.,fine-tuned,Pasangan yang dibuat di Meksiko jauh lebih buruk daripada yang dijual di sini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pasangan yang dibuat di Meksiko tentu saja 100% jauh lebih baik.
+Kalimat Baru: ",pasangan yang dibuat di Meksiko jauh lebih baik.,fine-tuned,Pasangan yang dibuat di Meksiko tidak terlalu baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mengeluarkannya dari kotak saya menemukan desainnya canggung.
+Kalimat Baru: ",mengeluarkannya dari kotak saya menemukan desainnya agak canggung,fine-tuned,mencintainya setelah membaca ulasan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mengeluarkannya dari kotak saya menemukan desainnya agak canggung
+Kalimat Baru: ",mengeluarkannya dari kotak saya menemukan desainnya canggung.,fine-tuned,mencintainya setelah membaca ulasan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Menurut saya sensornya rusak karena membaca serat karpet yang menyedot kotoran
+Kalimat Baru: ",menurut saya sensornya membaca serat karpet yang menyedot kotoran.,fine-tuned,Menurut saya sensornya bekerja dengan baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: menurut saya sensornya membaca serat karpet yang menyedot kotoran.
+Kalimat Baru: ",Menurut saya sensornya rusak karena membaca serat karpet yang menyedot kotoran,fine-tuned,menurut saya sensornya tidak bisa membaca serat karpet
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka sangat egois, tidak membantu sama sekali.
+Kalimat Baru: ","Sangat membantu, ramah, berpengetahuan luas dan informatif.",fine-tuned,"Mereka sangat membantu, tidak egois."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sangat membantu, ramah, berpengetahuan luas dan informatif.
+Kalimat Baru: ","Mereka sangat egois, tidak membantu sama sekali.",fine-tuned,"Sangat mengganggu, tidak ramah, dan tidak informatif."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: suara dari earpiece tidak berfungsi.
+Kalimat Baru: ",suara dari lubang suara mengatakan terhubung jika berhasil diselesaikan.,fine-tuned,suara dari earpiece berfungsi dengan baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: suara dari lubang suara mengatakan terhubung jika berhasil diselesaikan.
+Kalimat Baru: ",suara dari earpiece tidak berfungsi.,fine-tuned,suara dari lubang suara mengatakan tidak terhubung jika berhasil diselesaikan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kami memasang headset tambahan yang tergeletak di sekitar rumah.
+Kalimat Baru: ","kami memasang headset tambahan yang ada di sekitar rumah, itu berfungsi dengan sempurna.",fine-tuned,kami memasang headset tambahan yang sangat bagus di rumah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kami memasang headset tambahan yang ada di sekitar rumah, itu berfungsi dengan sempurna.
+Kalimat Baru: ",kami memasang headset tambahan yang tergeletak di sekitar rumah.,fine-tuned,kami memasang headset tambahan yang tidak berfungsi dengan baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka mungkin tidak akan mengembalikan kendaraan saya.
+Kalimat Baru: ","Tentunya, saya akan membawa kembali seluruh kendaraan saya!",fine-tuned,Mereka akan mengembalikan kendaraan saya dengan cepat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tentunya, saya akan membawa kembali seluruh kendaraan saya!
+Kalimat Baru: ",Mereka mungkin tidak akan mengembalikan kendaraan saya.,fine-tuned,"Tentunya, saya tidak akan membawa kembali kendaraan saya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tidak ada sopan santun dan makanan mereka menyedihkan.
+Kalimat Baru: ",Makanannya enak dan sangat sopan.,fine-tuned,Cukup sopan dan makanan mereka enak!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya enak dan sangat sopan.
+Kalimat Baru: ",Tidak ada sopan santun dan makanan mereka menyedihkan.,fine-tuned,Makanannya tidak enak dan sangat tidak sopan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanan Indianya tidak enak!
+Kalimat Baru: ",Berkeliling dunia dan mengetahui makanan India dengan baik.,fine-tuned,Makanan indoeyah enak!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Berkeliling dunia dan mengetahui makanan India dengan baik.
+Kalimat Baru: ",Makanan Indianya tidak enak!,fine-tuned,Berkeliling dunia dan mengetahui makanan India yang buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dokter gigi dan staff yang tidak berkualifikasi.
+Kalimat Baru: ",Dokter gigi dan staff yang berpengetahuan luas!,fine-tuned,Dokter gigi dan staff yang sangat berkualifikasi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dokter gigi dan staff yang berpengetahuan luas!
+Kalimat Baru: ",Dokter gigi dan staff yang tidak berkualifikasi.,fine-tuned,Dokter gigi dan staff yang tidak berpengalaman.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku tidak sabar untuk menyingkirkannya!
+Kalimat Baru: ",aku tidak sabar untuk memamerkannya! Terima kasih ! .,fine-tuned,aku senang dengan pembelian ini!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku tidak sabar untuk memamerkannya! Terima kasih ! .
+Kalimat Baru: ",aku tidak sabar untuk menyingkirkannya!,fine-tuned,aku tidak sabar untuk memanaskan penutupnya!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: cincin ini tampak cantik saat dikeluarkan dari kotaknya.
+Kalimat Baru: ",cincin itu tampak bagus setiap saat,fine-tuned,cincin ini tampak buruk saat dikeluarkan dari kotaknya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: cincin itu tampak bagus setiap saat
+Kalimat Baru: ",cincin ini tampak cantik saat dikeluarkan dari kotaknya.,fine-tuned,cincin itu tidak terlihat bagus setiap saat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya bisa menggunakan concealer krim di atasnya.
+Kalimat Baru: ",saya tidak perlu menggunakan concealer dengan produk ini.,fine-tuned,saya tidak bisa menggunakan concealer krim di atasnya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya tidak perlu menggunakan concealer dengan produk ini.
+Kalimat Baru: ",saya bisa menggunakan concealer krim di atasnya.,fine-tuned,saya perlu menggunakan concealer dengan produk ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: rupanya masih banyak lagi kata yang dibutuhkan agar berhasil mengirimkan ulasan ini
+Kalimat Baru: ",rupanya masih ada tiga belas kata lagi yang diperlukan untuk berhasil mengirimkan ulasan ini.,fine-tuned,mereka tidak perlu menambahkan banyak kata lagi
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: rupanya masih ada tiga belas kata lagi yang diperlukan untuk berhasil mengirimkan ulasan ini.
+Kalimat Baru: ",rupanya masih banyak lagi kata yang dibutuhkan agar berhasil mengirimkan ulasan ini,fine-tuned,mereka tidak perlu mengirimkan tiga belas kata lagi untuk berhasil.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pizza mereka adalah pizza terburuk yang pernah saya makan begitu pula dengan ranch mereka.
+Kalimat Baru: ",Pizza mereka adalah pizza terbaik yang pernah saya makan begitu pula dengan ranch mereka!,fine-tuned,Pizza mereka adalah yang terbaik yang pernah saya makan dan ranch mereka juga.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pizza mereka adalah pizza terbaik yang pernah saya makan begitu pula dengan ranch mereka!
+Kalimat Baru: ",Pizza mereka adalah pizza terburuk yang pernah saya makan begitu pula dengan ranch mereka.,fine-tuned,Pizza mereka tidak terlalu bagus dan ranch mereka sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Terlalu berisik dan makanan serta minumannya tidak bagus.
+Kalimat Baru: ","Tempat yang bagus untuk bersantai, makan dan minum beberapa minumannya!",fine-tuned,Makanan dan minumannya sangat enak!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat yang bagus untuk bersantai, makan dan minum beberapa minumannya!
+Kalimat Baru: ",Terlalu berisik dan makanan serta minumannya tidak bagus.,fine-tuned,"Tempat yang buruk untuk bersantai, makan dan minum beberapa minuman!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: keduanya menggosok anjing saya mentah-mentah dan menyebabkan pendarahan.
+Kalimat Baru: ",keduanya menggosok anjing saya mentah-mentah dan hampir menyebabkan pendarahan,fine-tuned,mereka menggosok anjing saya sehingga menjadi hitam dan menyebabkan pendarahan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: keduanya menggosok anjing saya mentah-mentah dan hampir menyebabkan pendarahan
+Kalimat Baru: ",keduanya menggosok anjing saya mentah-mentah dan menyebabkan pendarahan.,fine-tuned,mereka menggosok anjing saya sehingga menjadi hitam dan hampir menyebabkan pendarahan
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sebagian besar produk ditujukan untuk ketombe yang disebabkan oleh kulit kepala kering.
+Kalimat Baru: ",sebagian besar produk bagus untuk mencegah ketombe yang disebabkan oleh kulit kepala kering,fine-tuned,banyak produk yang ditujukan untuk menghilangkan ketombe dan kulit kepala kering.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: sebagian besar produk bagus untuk mencegah ketombe yang disebabkan oleh kulit kepala kering
+Kalimat Baru: ",sebagian besar produk ditujukan untuk ketombe yang disebabkan oleh kulit kepala kering.,fine-tuned,banyak produk yang tidak berfungsi untuk mencegah ketombe.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: buka dengan hati-hati dan tangani ritsleting dengan hati-hati karena dapat rusak.
+Kalimat Baru: ",buka dengan hati-hati dan tangani ritsleting dengan hati-hati.,fine-tuned,buka dengan hati-hati dan tangani ritsleting dengan baik karena tidak dapat rusak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: buka dengan hati-hati dan tangani ritsleting dengan hati-hati.
+Kalimat Baru: ",buka dengan hati-hati dan tangani ritsleting dengan hati-hati karena dapat rusak.,fine-tuned,buka dengan hati-hati dan tangani ritsleting dengan baik
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Terlalu berisik, saya tidak akan kembali lagi.
+Kalimat Baru: ",Tempat yang bagus untuk menonton olahraga!,fine-tuned,Saya tidak akan kembali lagi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat yang bagus untuk menonton olahraga!
+Kalimat Baru: ","Terlalu berisik, saya tidak akan kembali lagi.",fine-tuned,Tempat yang buruk untuk menonton olahraga.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: jika Anda menggiling barang kering, itu akan baik-baik saja.
+Kalimat Baru: ","Jika Anda menggiling benda kering, ini berfungsi dengan sempurna",fine-tuned,"jika Anda menggiling barang kering, tidak akan ada yang baik-baik saja"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Jika Anda menggiling benda kering, ini berfungsi dengan sempurna
+Kalimat Baru: ","jika Anda menggiling barang kering, itu akan baik-baik saja.",fine-tuned,"Jika Anda menggiling benda-benda kering, ini tidak berfungsi dengan baik."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya sudah menggunakannya sekali dan saya tidak akan menggunakannya lagi.
+Kalimat Baru: ",Saya telah menggunakan ini sekali dan saya akan menggunakannya lagi.,fine-tuned,saya sudah menggunakannya beberapa kali dan tidak ada yang lebih baik dari ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya telah menggunakan ini sekali dan saya akan menggunakannya lagi.
+Kalimat Baru: ",saya sudah menggunakannya sekali dan saya tidak akan menggunakannya lagi.,fine-tuned,Saya telah menggunakan ini sekali dan tidak akan menggunakannya lagi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku juga benci karena toplesnya plastik.
+Kalimat Baru: ",aku juga suka karena toplesnya plastik.,fine-tuned,aku juga benci karena toplesnya plastik
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku juga suka karena toplesnya plastik.
+Kalimat Baru: ",aku juga benci karena toplesnya plastik.,fine-tuned,aku tidak suka karena toplesnya plastik
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Staff dan makanan tidak bagus.
+Kalimat Baru: ",Staff yang hebat dan makanan yang luar biasa.,fine-tuned,Staff dan makanan bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Staff yang hebat dan makanan yang luar biasa.
+Kalimat Baru: ",Staff dan makanan tidak bagus.,fine-tuned,Staff yang buruk dan makanan yang buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mengalami pengalaman yang buruk, dan sayangnya saya tidak akan kembali.
+Kalimat Baru: ","Saya mengalami pengalaman yang menyenangkan, dan saya dengan senang hati akan kembali.",fine-tuned,"Saya mengalami pengalaman yang luar biasa, dan akan kembali lagi."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mengalami pengalaman yang menyenangkan, dan saya dengan senang hati akan kembali.
+Kalimat Baru: ","Saya mengalami pengalaman yang buruk, dan sayangnya saya tidak akan kembali.",fine-tuned,"Saya mengalami pengalaman yang buruk, dan saya sangat kecewa."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kamu tidak akan berselera setelah satu gigitan.
+Kalimat Baru: ",Kamu akan menginginkan lebih bayak setelah satu gigitan.,fine-tuned,Kamu akan berselera setelah satu gigitan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kamu akan menginginkan lebih bayak setelah satu gigitan.
+Kalimat Baru: ",Kamu tidak akan berselera setelah satu gigitan.,fine-tuned,Kamu akan menginginkan lebih banyak setelah beberapa gigitan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Layanan pelanggan di sini kurang memuaskan.
+Kalimat Baru: ",Selalu mendapatkan layanan pelanggan yang sangat baik setiap kali saya datang ke sini.,fine-tuned,Layanan pelanggan disini sangat memuaskan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Selalu mendapatkan layanan pelanggan yang sangat baik setiap kali saya datang ke sini.
+Kalimat Baru: ",Layanan pelanggan di sini kurang memuaskan.,fine-tuned,Telah mendapatkan layanan yang buruk setiap kali saya datang ke sini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Bangunan itu seperti terbengkalai.
+Kalimat Baru: ",Bangunan itu terlihat seperti moderen.,fine-tuned,Bunga-bunga di jendela-jendela bangunan ini sangat indah!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Bangunan itu terlihat seperti moderen.
+Kalimat Baru: ",Bangunan itu seperti terbengkalai.,fine-tuned,Bunga-bunga di atas atap itu tidak bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pastikan pin tidak sejajar dengan kontak.
+Kalimat Baru: ",pastikan pin sejajar dengan kontak.,fine-tuned,ingat untuk tidak meletakkan pin ke dalam kontak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pastikan pin sejajar dengan kontak.
+Kalimat Baru: ",pastikan pin tidak sejajar dengan kontak.,fine-tuned,tentu saja pin tidak sejelas kontak
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: istri saya membenci kipas jendela dan dia juga membenci hal ini.
+Kalimat Baru: ",istri saya biasanya membenci kipas jendela dan dia juga menyukai benda ini.,fine-tuned,istri saya menyukainya dan dia menyukainya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: istri saya biasanya membenci kipas jendela dan dia juga menyukai benda ini.
+Kalimat Baru: ",istri saya membenci kipas jendela dan dia juga membenci hal ini.,fine-tuned,istri saya biasanya membenci kipas jendela dan dia tidak menyukai benda ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: lebih kreatif daripada num_extend menurutku tidak! tapi entah bagaimana masih merupakan produk yang bagus
+Kalimat Baru: ",lebih kreatif daripada num_extend menurutku tidak! tapi tetap merupakan produk hebat.,fine-tuned,"lebih kreatif daripada num_extend, tapi entah bagaimana masih merupakan produk yang buruk."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: lebih kreatif daripada num_extend menurutku tidak! tapi tetap merupakan produk hebat.
+Kalimat Baru: ",lebih kreatif daripada num_extend menurutku tidak! tapi entah bagaimana masih merupakan produk yang bagus,fine-tuned,"lebih kreatif daripada num_extend, tapi tidak lebih baik."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya pasti tidak akan merekomendasikan tempat ini ke orang lain!
+Kalimat Baru: ",Saya pastinya akan merekomendasikan tempat ini ke orang lain!,fine-tuned,Saya pasti akan merekomendasikan tempat ini!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya pastinya akan merekomendasikan tempat ini ke orang lain!
+Kalimat Baru: ",Saya pasti tidak akan merekomendasikan tempat ini ke orang lain!,fine-tuned,Saya pastinya tidak akan merekomendasikan tempat ini ke siapapun.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memilikinya di lokasi berbeda di rumah saya
+Kalimat Baru: ",saya punya dua di antaranya di lokasi berbeda di rumah saya.,fine-tuned,saya tidak memiliki yang ini di rumah saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya punya dua di antaranya di lokasi berbeda di rumah saya.
+Kalimat Baru: ",saya memilikinya di lokasi berbeda di rumah saya,fine-tuned,saya punya satu di lokasi yang berbeda dan itu rusak setelah satu tahun.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Malam itu dimulai dengan lambat.
+Kalimat Baru: ",Malam itu dimulai dengan kegembiraan.,fine-tuned,Malam itu dimulai dengan sangat cepat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Malam itu dimulai dengan kegembiraan.
+Kalimat Baru: ",Malam itu dimulai dengan lambat.,fine-tuned,Malam itu dimulai dengan sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pemiliknya sangat kasar dan juga staffnya.
+Kalimat Baru: ",Pemilik dan staff yang ramah dan makanan yang lezat!,fine-tuned,Pemiliknya sangat ramah dan staffnya sangat ramah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pemilik dan staff yang ramah dan makanan yang lezat!
+Kalimat Baru: ",Pemiliknya sangat kasar dan juga staffnya.,fine-tuned,Pemilik dan staff yang tidak ramah dan makanan yang buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Benci tempat ini, pelayanan buruk!
+Kalimat Baru: ","Saya menyukai tempat ini, pelayanannya selalu bagus!",fine-tuned,"Saya suka tempat ini, pelayanannya luar biasa!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya menyukai tempat ini, pelayanannya selalu bagus!
+Kalimat Baru: ","Benci tempat ini, pelayanan buruk!",fine-tuned,"Saya tidak suka tempat ini, pelayanannya sangat buruk!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: itu tidak akan terhubung kembali dengan mudah ketika Anda berada di num_extend
+Kalimat Baru: ",itu akan terhubung kembali dengan mudah ketika Anda berada di num_extend,fine-tuned,itu akan terhubung kembali dengan mudah ketika Anda berada di num_extend
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: itu akan terhubung kembali dengan mudah ketika Anda berada di num_extend
+Kalimat Baru: ",itu tidak akan terhubung kembali dengan mudah ketika Anda berada di num_extend,fine-tuned,itu tidak akan terhubung kembali dengan mudah
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sangat sulit untuk tidak salah memasang sumbat cerat.
+Kalimat Baru: ",pastikan saja Anda tidak salah meletakkan sumbat cerat.,fine-tuned,Sangat mudah untuk memasang sumbat cerat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: pastikan saja Anda tidak salah meletakkan sumbat cerat.
+Kalimat Baru: ",Sangat sulit untuk tidak salah memasang sumbat cerat.,fine-tuned,pastikan Anda meletakkan sumbat cerat dengan benar
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Boneka tidak begitu bagus.
+Kalimat Baru: ",Sangat menyukai boneka itu.,fine-tuned,Boneka sangat bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sangat menyukai boneka itu.
+Kalimat Baru: ",Boneka tidak begitu bagus.,fine-tuned,Saya tidak menyukai boneka itu sama sekali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: melilit saya dengan sangat sulit untuk bersiap-siap di gym.
+Kalimat Baru: ",melilit saya dengan mudah untuk bersiap-siap di gym.,fine-tuned,tidak bisa melentur di gym
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: melilit saya dengan mudah untuk bersiap-siap di gym.
+Kalimat Baru: ",melilit saya dengan sangat sulit untuk bersiap-siap di gym.,fine-tuned,tidak bisa melilit saya sama sekali
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah kampus yang buruk.
+Kalimat Baru: ",Ini adalah kampus yang bagus.,fine-tuned,Ini adalah kampus yang bagus dengan staf yang ramah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah kampus yang bagus.
+Kalimat Baru: ",Ini adalah kampus yang buruk.,fine-tuned,Ini adalah kampus yang buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya tidak bisa melihat diri saya sering menggunakannya.
+Kalimat Baru: ",saya dapat melihat saya akan sering menggunakannya.,fine-tuned,Saya tidak bisa melihat bagaimana saya sering menggunakannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya dapat melihat saya akan sering menggunakannya.
+Kalimat Baru: ",Saya tidak bisa melihat diri saya sering menggunakannya.,fine-tuned,saya tidak dapat melihat saya akan menggunakan ini lagi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saus enchilada mereka menggagalkan hidangan ini.
+Kalimat Baru: ",Saus enchilada mereka melengkapi hidangan ini dengan sempurna.,fine-tuned,Saus enchilada mereka menambah bumbu masakan yang unik ke hidangan ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saus enchilada mereka melengkapi hidangan ini dengan sempurna.
+Kalimat Baru: ",Saus enchilada mereka menggagalkan hidangan ini.,fine-tuned,Saus enchilada mereka tidak melengkapi hidangan ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ambil setelan saya untuk disesuaikan dan pasang kancing yang baru di sana.
+Kalimat Baru: ",Ambil setelan saya untuk disesuaikan dan mereka memasang kancing baru untuk saya.,fine-tuned,Saya ambil setelan saya dan pasang kancing baru di sana.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ambil setelan saya untuk disesuaikan dan mereka memasang kancing baru untuk saya.
+Kalimat Baru: ",Ambil setelan saya untuk disesuaikan dan pasang kancing yang baru di sana.,fine-tuned,Saya ambil setelan saya dan mereka memasang kancing baru pada mereka.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko kami dan hasilnya tidak enak.
+Kalimat Baru: ",saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko kami.,fine-tuned,Saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko dan hasilnya sangat enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko kami.
+Kalimat Baru: ",Saya membuat tortilla tepung malam itu untuk makan malam burrito Meksiko kami dan hasilnya tidak enak.,fine-tuned,saya membuat tortilla tepung untuk makan siang dan itu sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku menerimanya sebagai hadiah natal dan aku menyukainya
+Kalimat Baru: ",saya menerimanya sebagai hadiah Natal dan saya menyukainya.,fine-tuned,aku tidak menyukai hadiah natal ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya menerimanya sebagai hadiah Natal dan saya menyukainya.
+Kalimat Baru: ",aku menerimanya sebagai hadiah natal dan aku menyukainya,fine-tuned,saya menerimanya sebagai hadiah dan saya tidak menyukainya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya baru saja meninggalkan pencucian mobil ini dan sangat tidak puas!
+Kalimat Baru: ",Saya baru saja meninggalkan pencucian mobil ini dan sangat puas!,fine-tuned,Saya baru saja datang ke tempat pencuci mobil ini dan sangat senang dengan hasilnya!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya baru saja meninggalkan pencucian mobil ini dan sangat puas!
+Kalimat Baru: ",Saya baru saja meninggalkan pencucian mobil ini dan sangat tidak puas!,fine-tuned,Saya baru saja datang ke tempat pencuci mobil ini dan sangat kecewa.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia berkata ""ya, maaf"".
+Kalimat Baru: ",Dia berkata Dia senang bisa membantu.,fine-tuned,"Dia berkata ""tidak"""
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia berkata Dia senang bisa membantu.
+Kalimat Baru: ","Dia berkata ""ya, maaf"".",fine-tuned,Dia berkata Dia tidak bisa membantu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya tidak mewah dan suasananya membosankan.
+Kalimat Baru: ","Suasana kasual, makanan yang mewah.",fine-tuned,Makanannya mewah dan suaranya enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Suasana kasual, makanan yang mewah.
+Kalimat Baru: ",Makanannya tidak mewah dan suasananya membosankan.,fine-tuned,"Suasana yang buruk, makanan yang buruk."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Omelet spanyol kecil dan rasanya hambar.
+Kalimat Baru: ",Saya memesan omelet spanyol yang besar dan lezat.,fine-tuned,Omelet spanyol kecil dan enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya memesan omelet spanyol yang besar dan lezat.
+Kalimat Baru: ",Omelet spanyol kecil dan rasanya hambar.,fine-tuned,Saya memesan omelet spanyol yang kecil dan sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ketika saya mengeluh dengan sopan, saya diusir keluar.
+Kalimat Baru: ","Ketika saya mengeluh, mereka menangani masalah tersebut.",fine-tuned,"Ketika saya mengeluh dengan sopan, saya mendapat respon yang bagus."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ketika saya mengeluh, mereka menangani masalah tersebut.
+Kalimat Baru: ","Ketika saya mengeluh dengan sopan, saya diusir keluar.",fine-tuned,"Ketika saya mengeluh, mereka tidak menangani masalah tersebut dengan baik."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya membelinya dari salah satu infomersial pertama, tidak senang.
+Kalimat Baru: ",saya membelinya dari salah satu infomersial pertama.,fine-tuned,"saya membelinya dari salah satu infomersial pertama, dan itu sangat bagus."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya membelinya dari salah satu infomersial pertama.
+Kalimat Baru: ","saya membelinya dari salah satu infomersial pertama, tidak senang.",fine-tuned,saya membeli infomersial ini dari amazon dan sangat kecewa.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dua jam dalam hidup saya yang tidak bisa saya kembalikan.
+Kalimat Baru: ",Dua jam dalam hidup saya yang saya senang untuk mengorbankannya.,fine-tuned,Dua jam dalam hidupnya dia tidak bisa kembali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dua jam dalam hidup saya yang saya senang untuk mengorbankannya.
+Kalimat Baru: ",Dua jam dalam hidup saya yang tidak bisa saya kembalikan.,fine-tuned,Dua jam dalam hidupnya dia senang untuk mengorbankannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku hanya menantikan hari dimana aku bisa menggantinya.
+Kalimat Baru: ",akan sangat bagus untuk menggantikannya,fine-tuned,aku menantikan hari dimana aku bisa membeli yang baru.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: akan sangat bagus untuk menggantikannya
+Kalimat Baru: ",aku hanya menantikan hari dimana aku bisa menggantinya.,fine-tuned,tidak dapat menggantikannya
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami duduk setelah waktu yang lama dan setiap staff sangat kasar dan mudah marah.
+Kalimat Baru: ",Kami segera duduk dan setiap staff sangat ramah dan bahagia.,fine-tuned,Kami duduk setelah waktu yang lama dan setiap staff sangat ramah dan membantu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami segera duduk dan setiap staff sangat ramah dan bahagia.
+Kalimat Baru: ",Kami duduk setelah waktu yang lama dan setiap staff sangat kasar dan mudah marah.,fine-tuned,Kami duduk dan setiap staff sangat tidak ramah dan tidak senang.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Favorit saya dari Sugar Bowl tidak tersedia.
+Kalimat Baru: ","Dan saya memesan favorit saya dari Sugar Bowl, sundae top hat!",fine-tuned,Favorit saya dari Sugar Bowl tersedia.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dan saya memesan favorit saya dari Sugar Bowl, sundae top hat!
+Kalimat Baru: ",Favorit saya dari Sugar Bowl tidak tersedia.,fine-tuned,"Dan saya memesan favorit saya dari Sugar Bowl, sundae top hat dan beberapa kentang goreng!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah Walmart terburuk dari semuanya.
+Kalimat Baru: ",Ini adalah Walmart terbaik dari semuanya.,fine-tuned,Ini adalah Walmart yang bagus dengan berbagai macam barang.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah Walmart terbaik dari semuanya.
+Kalimat Baru: ",Ini adalah Walmart terburuk dari semuanya.,fine-tuned,Ini adalah Walmart terburuk dari semuanya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan ini.
+Kalimat Baru: ",Kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan peningkatan yang luar biasa ini.,fine-tuned,kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan peningkatan yang luar biasa ini.
+Kalimat Baru: ",kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan ini.,fine-tuned,Kami telah merawat rambut kami selama berbulan-bulan dan akhirnya mendapatkan hasil yang buruk ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: armada tidak memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.
+Kalimat Baru: ",armada memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.,fine-tuned,armada memiliki cakupan epik dari game yang sama seperti homeworld atau starcraft.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: armada memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.
+Kalimat Baru: ",armada tidak memiliki cakupan epik dari game serupa seperti homeworld atau bahkan starcraft.,fine-tuned,armada memiliki cakupan epik dari game yang buruk seperti homeworld atau starcraft.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Memesan huevos rancheros, mereka lezat tapi pelayanannya biasa saja.
+Kalimat Baru: ",Memesan huevos rancheros dan itu lezat!,fine-tuned,"Saya memesan huevos rancheros, mereka sangat enak!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Memesan huevos rancheros dan itu lezat!
+Kalimat Baru: ","Memesan huevos rancheros, mereka lezat tapi pelayanannya biasa saja.",fine-tuned,Saya memesan huevos rancheros dan itu sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Aku terbangun dengan minyak yang licin di wajahku.
+Kalimat Baru: ",aku terbangun dengan sesuatu seperti minyak yang licin di wajahku,fine-tuned,Aku terbangun dengan wajah yang berkering dan merah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku terbangun dengan sesuatu seperti minyak yang licin di wajahku
+Kalimat Baru: ",Aku terbangun dengan minyak yang licin di wajahku.,fine-tuned,aku terbangun dengan wajah yang bertekstur kasar.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pembohong, pembohong, sering berbohong.
+Kalimat Baru: ",Kebenaran kebenaran akan terungkap!,fine-tuned,"Tidak pernah berbohong, pembohong, atau mengelak."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Kebenaran kebenaran akan terungkap!
+Kalimat Baru: ","Pembohong, pembohong, sering berbohong.",fine-tuned,Kebenarannya akan terungkap
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya rasa layanan pelanggan starbucks hanya bagus di beberapa lokasi saja.
+Kalimat Baru: ",Layanan starbucks bagus di lokasi manapun!,fine-tuned,Saya rasa layanan pelanggan starbucks sangat buruk di lokasi ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Layanan starbucks bagus di lokasi manapun!
+Kalimat Baru: ",Saya rasa layanan pelanggan starbucks hanya bagus di beberapa lokasi saja.,fine-tuned,Layanan starbucks di lokasi ini sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memesan dua di antaranya dan keduanya tiba dalam waktu seminggu.
+Kalimat Baru: ",saya memesan dua di antaranya dan keduanya tiba dalam dua hari.,fine-tuned,saya memesan dua hidangan dan mereka tiba dalam waktu seminggu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya memesan dua di antaranya dan keduanya tiba dalam dua hari.
+Kalimat Baru: ",saya memesan dua di antaranya dan keduanya tiba dalam waktu seminggu.,fine-tuned,saya memesan dua dan mereka tiba dalam dua hari.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Selain itu, pisaunya tidak mudah untuk bermanuver mengingat panjangnya.
+Kalimat Baru: ","Selain itu, pisaunya mudah untuk digerakkan meskipun panjangnya.",fine-tuned,"Selain itu, pisaunya mudah untuk bermanuver dan sangat mudah untuk digunakan."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Selain itu, pisaunya mudah untuk digerakkan meskipun panjangnya.
+Kalimat Baru: ","Selain itu, pisaunya tidak mudah untuk bermanuver mengingat panjangnya.",fine-tuned,"Selain itu, pisaunya mudah untuk dipasangkan."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua hari.
+Kalimat Baru: ",mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua tahun.,fine-tuned,mereka mengirimi Anda num_num karena masing-masing tidak bertahan lebih dari dua hari.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua tahun.
+Kalimat Baru: ",mereka mengirimi Anda num_num karena masing-masing bertahan sekitar dua hari.,fine-tuned,mereka mengirimi Anda num_num karena masing-masing tidak bertahan lama.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tapi itu tidak bagus untuk nirkabel, saya belum pernah mengalami yang lebih buruk.
+Kalimat Baru: ","tapi tidak buruk untuk nirkabel, saya pernah mengalami yang lebih buruk.",fine-tuned,"tapi itu bagus untuk nirkabel, saya telah mengalami yang lebih baik."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tapi tidak buruk untuk nirkabel, saya pernah mengalami yang lebih buruk.
+Kalimat Baru: ","tapi itu tidak bagus untuk nirkabel, saya belum pernah mengalami yang lebih buruk.",fine-tuned,"tapi tidak buruk untuk nirkabel, saya pernah mengalami yang lebih buruk."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: akan lebih pintar jika memiliki engkol atau sesuatu yang membuatnya lebih mudah
+Kalimat Baru: ",berharap ada engkol atau sesuatu yang membuatnya lebih mudah.,fine-tuned,tidak akan lebih pintar jika memiliki engkol atau sesuatu yang membuatnya lebih mudah
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: berharap ada engkol atau sesuatu yang membuatnya lebih mudah.
+Kalimat Baru: ",akan lebih pintar jika memiliki engkol atau sesuatu yang membuatnya lebih mudah,fine-tuned,tidak dapat digunakan sebagai pengeras suara.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya tidak menikmati setiap gigitan.
+Kalimat Baru: ",Dan saya menikmati setiap gigitan.,fine-tuned,Saya menikmati setiap gigitan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dan saya menikmati setiap gigitan.
+Kalimat Baru: ",Saya tidak menikmati setiap gigitan.,fine-tuned,Dan saya tidak menikmati setiap gigitan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia bahkan tidak menawarkan saya untuk datang di lain waktu.
+Kalimat Baru: ",Dia dengan mudah menawarkan saya untuk datang di waktu lain.,fine-tuned,Dia menawarkan untuk membawa saya ke sana dan bahkan meminta saya datang lagi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dia dengan mudah menawarkan saya untuk datang di waktu lain.
+Kalimat Baru: ",Dia bahkan tidak menawarkan saya untuk datang di lain waktu.,fine-tuned,Dia tidak menawarkan saya untuk datang pada waktu yang lebih baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya katakan dengan jujur bahwa saya sangat tidak senang kami akan pindah ke az.
+Kalimat Baru: ",Saya bisa katakan dengan jujur bahwa saya sangat lega kami bisa pindah ke az.,fine-tuned,Saya katakan dengan jujur bahwa saya sangat senang kami akan pindah ke az.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya bisa katakan dengan jujur bahwa saya sangat lega kami bisa pindah ke az.
+Kalimat Baru: ",Saya katakan dengan jujur bahwa saya sangat tidak senang kami akan pindah ke az.,fine-tuned,Saya bisa mengatakan bahwa saya sangat kecewa kami tidak bisa pindah ke az.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Panjat tebingnya lumayan.
+Kalimat Baru: ",Mereka suka panjat tebing.,fine-tuned,Panjat tebingnya tidak bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka suka panjat tebing.
+Kalimat Baru: ",Panjat tebingnya lumayan.,fine-tuned,Mereka suka panjat tebing tetapi tidak suka mendaki gunung.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Seni di gang itu menyeramkan.
+Kalimat Baru: ",Seni yang ada di lorong belakang juga sangat keren!,fine-tuned,Seni di gang itu sangat bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Seni yang ada di lorong belakang juga sangat keren!
+Kalimat Baru: ",Seni di gang itu menyeramkan.,fine-tuned,Seni yang ada di lorong belakang sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu terlalu mahal untuk apa yang kamu dapatkan.
+Kalimat Baru: ",Harganya sangat baik.,fine-tuned,Itu murah untuk apa yang Anda dapatkan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Harganya sangat baik.
+Kalimat Baru: ",Itu terlalu mahal untuk apa yang kamu dapatkan.,fine-tuned,Harganya sangat mahal.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salah saya untuk tidak memperhatikan dengan teliti, saya rasa.
+Kalimat Baru: ",Saya memperhatikan dengan seksama.,fine-tuned,Saya memperhatikan bahwa ada masalah dengan bumbunya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya memperhatikan dengan seksama.
+Kalimat Baru: ","Salah saya untuk tidak memperhatikan dengan teliti, saya rasa.",fine-tuned,Saya tidak memperhatikan hal ini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu adalah satu mangkuk sampah.
+Kalimat Baru: ",Itu adalah satu mangkuk kebahagiaan.,fine-tuned,Itu adalah satu mangkuk yang bagus!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu adalah satu mangkuk kebahagiaan.
+Kalimat Baru: ",Itu adalah satu mangkuk sampah.,fine-tuned,Itu adalah satu mangkuk kekasih.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mudahnya, ada tempat yang jauh lebih baik untuk sushi.
+Kalimat Baru: ","Mudahnya, ini adalah tempat yang lebih baik untuk sushi.",fine-tuned,Tempat yang jauh lebih baik untuk sushi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mudahnya, ini adalah tempat yang lebih baik untuk sushi.
+Kalimat Baru: ","Mudahnya, ada tempat yang jauh lebih baik untuk sushi.",fine-tuned,Tempat yang buruk untuk sushi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sashimi gurita terasa seperti kaos kaki basah.
+Kalimat Baru: ",Sashimi gurita adalah favorit saya!,fine-tuned,Sashimi gurita terasa luar biasa.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Sashimi gurita adalah favorit saya!
+Kalimat Baru: ",Sashimi gurita terasa seperti kaos kaki basah.,fine-tuned,Sashimi gurita tidak terlalu enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Gammage sendiri tidak terlalu megesankan.
+Kalimat Baru: ",Gammage sendiri sangat mengesankan.,fine-tuned,Gammage sendiri sangat megesin.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Gammage sendiri sangat mengesankan.
+Kalimat Baru: ",Gammage sendiri tidak terlalu megesankan.,fine-tuned,Gammage sendiri sangat tidak mengesankan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salah satu hidangan daging sapi muda terburuk yang pernah saya coba dengan harga yang tidak masuk akal.
+Kalimat Baru: ",Salah satu hidangan sapi muda terbaik yang pernah saya coba dengan harga yang wajar.,fine-tuned,Salah satu hidangan daging sapi muda terbaik yang pernah saya coba dengan harga yang masuk akal.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salah satu hidangan sapi muda terbaik yang pernah saya coba dengan harga yang wajar.
+Kalimat Baru: ",Salah satu hidangan daging sapi muda terburuk yang pernah saya coba dengan harga yang tidak masuk akal.,fine-tuned,Salah satu hidangan sapi muda yang buruk dengan harga yang tidak masuk akal.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya tidak akan mempercayai apa pun yang lebih besar dari iphone num_extend
+Kalimat Baru: ",saya percaya ini karena lebih besar dari iPhone.,fine-tuned,saya tidak akan mempercayai apa pun yang lebih kecil dari iphone num_extend
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya percaya ini karena lebih besar dari iPhone.
+Kalimat Baru: ",saya tidak akan mempercayai apa pun yang lebih besar dari iphone num_extend,fine-tuned,saya percaya ini karena lebih kecil dari iPhone.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: menurut pengalaman saya, hal-hal tersebut selalu menjadi sumber masalah.
+Kalimat Baru: ","menurut pengalaman saya, tidak ada masalah dengan mereka.",fine-tuned,"menurut pengalaman saya, hal-hal tersebut menjadi lebih baik dengan sendirinya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: menurut pengalaman saya, tidak ada masalah dengan mereka.
+Kalimat Baru: ","menurut pengalaman saya, hal-hal tersebut selalu menjadi sumber masalah.",fine-tuned,"Menurut pengalaman saya, ada masalah dengan mereka."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu sangat aneh, saya bertanya kepadanya apakah Dia bercanda?
+Kalimat Baru: ","Itu sangat lucu, saya bertanya kepadanya apakah Dia bercanda?",fine-tuned,"Itu sangat aneh, saya bertanya kepadanya apakah Dia serius."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Itu sangat lucu, saya bertanya kepadanya apakah Dia bercanda?
+Kalimat Baru: ","Itu sangat aneh, saya bertanya kepadanya apakah Dia bercanda?",fine-tuned,"Itu tidak lucu, saya bertanya kepada dia bagaimana dia melakukannya."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pelayan wanita tua yang kasar itu benar-benar membuat suasana jadi buruk.
+Kalimat Baru: ",Pelayan wanita tua itu sangat baik hati.,fine-tuned,Pelayan wanita tua yang kasar itu membuat suasana jadi menyenangkan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pelayan wanita tua itu sangat baik hati.
+Kalimat Baru: ",Pelayan wanita tua yang kasar itu benar-benar membuat suasana jadi buruk.,fine-tuned,Pelayan wanita tua itu sangat tidak ramah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Untuk toko lokal, tempat ini sangat buruk!
+Kalimat Baru: ","Untuk toko lokal, tempat ini bagus!",fine-tuned,"Untuk toko lokal, tempat ini sangat bagus!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Untuk toko lokal, tempat ini bagus!
+Kalimat Baru: ","Untuk toko lokal, tempat ini sangat buruk!",fine-tuned,"Untuk toko lokal, tempat ini buruk!"
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Pelayanan hebat di bar tempat kami membuat reservasi di sebelah.
+Kalimat Baru: ",Diperlakukan dengan buruk di bar di tempat kami membuat reservasi di sebelah.,fine-tuned,Pelayanan yang buruk di bar tempat kami membuat reservasi.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Diperlakukan dengan buruk di bar di tempat kami membuat reservasi di sebelah.
+Kalimat Baru: ",Pelayanan hebat di bar tempat kami membuat reservasi di sebelah.,fine-tuned,Diperlakukan dengan baik di bar di tempat kami.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tim manajemen yang baru sangat buruk!
+Kalimat Baru: ",Tim manajemen yang baru sangat hebat !,fine-tuned,Tim manajemen yang lama sangat baik!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tim manajemen yang baru sangat hebat !
+Kalimat Baru: ",Tim manajemen yang baru sangat buruk!,fine-tuned,Tim manajemen yang lama sangat buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Oj dan Jeremy melakukan pekerjaan yang buruk!
+Kalimat Baru: ",Oj dan Jeremy melakukan pekerjaan yang baik!,fine-tuned,Oj dan Jeremy melakukan pekerjaan yang hebat!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Oj dan Jeremy melakukan pekerjaan yang baik!
+Kalimat Baru: ",Oj dan Jeremy melakukan pekerjaan yang buruk!,fine-tuned,Oj dan Jeremy melakukan pekerjaan yang buruk!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat ini adalah tempat yang buruk untuk ditinggali.
+Kalimat Baru: ",Tempat ini adalah tempat yang baik untuk ditinggali.,fine-tuned,Tempat ini adalah tempat yang bagus untuk ditinggali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat ini adalah tempat yang baik untuk ditinggali.
+Kalimat Baru: ",Tempat ini adalah tempat yang buruk untuk ditinggali.,fine-tuned,Tempat ini adalah tempat yang buruk untuk ditinggali.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: aku mengatakan ini sebagai pria dengan pergelangan tangan yang cukup tipis juga.
+Kalimat Baru: ",Saya mengatakan ini sebagai seorang pria yang beruntung memiliki pergelangan tangan yang tipis juga.,fine-tuned,aku mengatakan ini sebagai pria dengan pergelangan tangan yang kuat juga.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mengatakan ini sebagai seorang pria yang beruntung memiliki pergelangan tangan yang tipis juga.
+Kalimat Baru: ",aku mengatakan ini sebagai pria dengan pergelangan tangan yang cukup tipis juga.,fine-tuned,Saya mengatakan ini sebagai seorang pria yang beruntung memiliki pergelangan tangan yang tebal juga.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Menu yang sangat buruk, harga yang mahal, layanan pelanggan yang buruk.
+Kalimat Baru: ","Menu yang baik , harga yang sesuai, pelayanan yang bagus untuk makan malam dan sarapan!",fine-tuned,"Menu yang bagus, harga yang wajar, dan layanan yang hebat."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Menu yang baik , harga yang sesuai, pelayanan yang bagus untuk makan malam dan sarapan!
+Kalimat Baru: ","Menu yang sangat buruk, harga yang mahal, layanan pelanggan yang buruk.",fine-tuned,"Menu yang buruk, harga yang tidak masuk akal, dan pelayanan yang buruk untuk makan malam dan sarapan."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat ini adalah tempat dimana pelanggan menjadi yang terakhir dan diperlakukan dengan buruk.
+Kalimat Baru: ",Tempat ini adalah tempat dimana pelanggan menjadi yang utama dan diperlakukan dengan baik.,fine-tuned,Tempat ini adalah tempat yang bagus dimana pelanggan menjadi yang pertama dan diperlakukan dengan baik.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tempat ini adalah tempat dimana pelanggan menjadi yang utama dan diperlakukan dengan baik.
+Kalimat Baru: ",Tempat ini adalah tempat dimana pelanggan menjadi yang terakhir dan diperlakukan dengan buruk.,fine-tuned,Tempat ini adalah tempat yang buruk dimana pelanggan menjadi yang terburuk dan diperlakukan dengan buruk.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tidak baik untuk pergi keesokan paginya, benar-benar kotor.
+Kalimat Baru: ","ada baiknya berangkat keesokan paginya, bersih sepenuhnya.",fine-tuned,Baik untuk pergi ke sana.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: ada baiknya berangkat keesokan paginya, bersih sepenuhnya.
+Kalimat Baru: ","Tidak baik untuk pergi keesokan paginya, benar-benar kotor.",fine-tuned,tidak ada yang bersih di sana.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tapi sayangnya wanita kasar itu yang mengamati kami.
+Kalimat Baru: ",Tapi untungnya wanita kasar itu bukan yang mengamati kami.,fine-tuned,Tapi sayangnya wanita yang kasar itu mengamati kami.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tapi untungnya wanita kasar itu bukan yang mengamati kami.
+Kalimat Baru: ",Tapi sayangnya wanita kasar itu yang mengamati kami.,fine-tuned,Tapi untungnya wanita kasar itu adalah yang mengamati kami.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Humornya membuat kunjungan rutin menjadi membosankan.
+Kalimat Baru: ",Humornya membuat kunjungan rutin menjadi menghibur.,fine-tuned,Humornya membuat kunjungan menjadi menyenangkan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Humornya membuat kunjungan rutin menjadi menghibur.
+Kalimat Baru: ",Humornya membuat kunjungan rutin menjadi membosankan.,fine-tuned,Humornya tidak ada.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tetapi itu mungkin sangat buruk juga!
+Kalimat Baru: ",Tetapi itu mungkin tidak buruk juga!,fine-tuned,Tetapi itu mungkin sangat bagus!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Tetapi itu mungkin tidak buruk juga!
+Kalimat Baru: ",Tetapi itu mungkin sangat buruk juga!,fine-tuned,Tetapi itu sangat buruk!
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Dan biaya pembersihannya sangat mahal.
+Kalimat Baru: ",Harganya bagus.,fine-tuned,Dan biaya pembersihannya sangat murah.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Harganya bagus.
+Kalimat Baru: ",Dan biaya pembersihannya sangat mahal.,fine-tuned,Harganya tidak bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya selalu buruk ketika saya memesan di sini.
+Kalimat Baru: ",Makanannya selalu luar biasa tidak peduli apa yang saya pesan.,fine-tuned,Makanannya selalu enak ketika saya memesan di sini.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Makanannya selalu luar biasa tidak peduli apa yang saya pesan.
+Kalimat Baru: ",Makanannya selalu buruk ketika saya memesan di sini.,fine-tuned,Makanannya tidak selalu enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini bukan sesuatu yang langka dan saya tidak senang telah menemukannya.
+Kalimat Baru: ",Ini adalah sesuatu yang langka dan saya sangat bersemangat telah menemukannya.,fine-tuned,Ini adalah sesuatu yang langka dan saya senang telah menemukannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini adalah sesuatu yang langka dan saya sangat bersemangat telah menemukannya.
+Kalimat Baru: ",Ini bukan sesuatu yang langka dan saya tidak senang telah menemukannya.,fine-tuned,Ini adalah sesuatu yang biasa dan saya sangat bersemangat telah menemukannya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: untuk tujuan saya ini adalah item terburuk.
+Kalimat Baru: ",untuk tujuan saya ini adalah barang yang sempurna.,fine-tuned,untuk tujuan saya ini adalah item yang bagus.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: untuk tujuan saya ini adalah barang yang sempurna.
+Kalimat Baru: ",untuk tujuan saya ini adalah item terburuk.,fine-tuned,untuk tujuan saya ini tidak sesuai dengan harga.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya tidak akan merekomendasikan kasus ini kepada teman saya.
+Kalimat Baru: ",saya akan merekomendasikan kasus ini kepada teman saya.,fine-tuned,Saya akan merekomendasikan kasus ini pada teman saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya akan merekomendasikan kasus ini kepada teman saya.
+Kalimat Baru: ",Saya tidak akan merekomendasikan kasus ini kepada teman saya.,fine-tuned,saya tidak akan merekomendasikan kasus ini pada teman saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka menagih saya untuk pekerjaan yang tidak dilakukan dan bagian yang tidak dipasang.
+Kalimat Baru: ",Mereka hanya menagih saya pekerjaan yang dilakukan dan bagian yang dipasang.,fine-tuned,Mereka menagih saya untuk pekerjaan yang dilakukan dan itu terlihat bagus pada akhirnya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Mereka hanya menagih saya pekerjaan yang dilakukan dan bagian yang dipasang.
+Kalimat Baru: ",Mereka menagih saya untuk pekerjaan yang tidak dilakukan dan bagian yang tidak dipasang.,fine-tuned,Mereka menagih saya untuk pekerjaan yang dilakukan dan bagian yang dipasang.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya terutama menggunakan blentec saya sekarang tetapi saya mencari sesuatu yang lebih baik.
+Kalimat Baru: ",saya kebanyakan menggunakan blentec saya sekarang tetapi belum menjual vitamixnya.,fine-tuned,saya terutama menggunakan blentec saya sekarang dan itu adalah upgrade yang bagus dari blentec yang lama.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya kebanyakan menggunakan blentec saya sekarang tetapi belum menjual vitamixnya.
+Kalimat Baru: ",saya terutama menggunakan blentec saya sekarang tetapi saya mencari sesuatu yang lebih baik.,fine-tuned,saya kebanyakan menggunakan blentec saya sekarang dan sudah menjual vitamix saya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya benar-benar tidak suka bagaimana pelindung meja ini melengkung di tepi meja.
+Kalimat Baru: ",saya sangat suka bagaimana pelindung meja ini melengkung di tepi meja.,fine-tuned,saya benar-benar suka bagaimana pelindung meja ini melengkung di tepi meja.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: saya sangat suka bagaimana pelindung meja ini melengkung di tepi meja.
+Kalimat Baru: ",saya benar-benar tidak suka bagaimana pelindung meja ini melengkung di tepi meja.,fine-tuned,saya sangat tidak suka bagaimana pelindung meja ini melengkung di tepi meja.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Untuk urusan pizza, ini termasuk yang terburuk yang pernah saya makan.
+Kalimat Baru: ",Ini termasuk pizza terbaik yang pernah saya makan.,fine-tuned,"Untuk urusan pizza, ini termasuk yang terbaik yang pernah saya makan."
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Ini termasuk pizza terbaik yang pernah saya makan.
+Kalimat Baru: ","Untuk urusan pizza, ini termasuk yang terburuk yang pernah saya makan.",fine-tuned,Ini termasuk pizza yang terburuk yang pernah saya makan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salsa tidak panas atau enak.
+Kalimat Baru: ",Salsa masih panas dan enak.,fine-tuned,Salsa yang panas dan enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Salsa masih panas dan enak.
+Kalimat Baru: ",Salsa tidak panas atau enak.,fine-tuned,Salsa tidak panas dan tidak enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: yang ini ada di rak kami dan mengumpulkan debu.
+Kalimat Baru: ",yang ini ada di rak kami dan sering digunakan.,fine-tuned,ini tidak ada di rak kami dan tidak mengumpulkan debu.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: yang ini ada di rak kami dan sering digunakan.
+Kalimat Baru: ",yang ini ada di rak kami dan mengumpulkan debu.,fine-tuned,yang ini tidak ada di rak kami dan tidak sering digunakan.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mencuci itu merepotkan dan memakan waktu beberapa jam.
+Kalimat Baru: ",mencucinya sangat mudah dan hanya membutuhkan waktu sedetik.,fine-tuned,pembersihan itu mudah dan cepat.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: mencucinya sangat mudah dan hanya membutuhkan waktu sedetik.
+Kalimat Baru: ",mencuci itu merepotkan dan memakan waktu beberapa jam.,fine-tuned,ciptakan banyak pekerjaan dan membutuhkan waktu yang sangat lama.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mendaftar untuk email mereka dan mendapatkan spam.
+Kalimat Baru: ",Saya mendaftar untuk surel mereka dan mendapatkan kupon.,fine-tuned,Saya mendaftar untuk email mereka dan mendapatkan banyak spam.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Saya mendaftar untuk surel mereka dan mendapatkan kupon.
+Kalimat Baru: ",Saya mendaftar untuk email mereka dan mendapatkan spam.,fine-tuned,Saya mendaftar untuk surel mereka dan mendapatkan kupon.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Green echiladas cukup enak tapi tidak luar biasa.
+Kalimat Baru: ",Green enchiladas sangat enak.,fine-tuned,Green echiladas sangat enak dan sangat luar biasa.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Green enchiladas sangat enak.
+Kalimat Baru: ",Green echiladas cukup enak tapi tidak luar biasa.,fine-tuned,Green enchiladas tidak terlalu enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: tidak membaca ulasan apa pun
+Kalimat Baru: ",dia membaca setiap amazon. ulasan com serta situs web zojirushi.,fine-tuned,saya membaca ulasan dan memilih ini karena harganya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: dia membaca setiap amazon. ulasan com serta situs web zojirushi.
+Kalimat Baru: ",tidak membaca ulasan apa pun,fine-tuned,dia membaca setiap amazon.com dan zojirushi.com serta situs webnya.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsinya sangat sedikit dan makannya tidak berasa.
+Kalimat Baru: ",Porsinya banyak dan makanannya bercita rasa luar biasa.,fine-tuned,Porsinya sangat banyak dan enak.
+"Ubah sentimen dari kalimat awal berikut menjadi sentimen sebaliknya
+Kalimat Awal: Porsinya banyak dan makanannya bercita rasa luar biasa.
+Kalimat Baru: ",Porsinya sangat sedikit dan makannya tidak berasa.,fine-tuned,Porsinya sedikit dan makanannya tidak bercita rasa.
