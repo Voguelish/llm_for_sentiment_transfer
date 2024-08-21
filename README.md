@@ -2,7 +2,7 @@
 Author: Adzka Ahmadetya Zaidan - 13520127
 
 ## Model File Download Link
-https://drive.google.com/drive/folders/14YhdXFskd4ALGly8mn1BGH0Zpo_VdnjL?usp=sharing
+https://drive.google.com/drive/folders/14YhdXFskd4ALGly8mn1BGH0Zpo_VdnjL?usp=sharing\n
 Isi File:
 - Fine-Tuned Model
 - Reward Model
